@@ -1,0 +1,642 @@
+lane,symbol,mint,opened_utc,held_min,size,back,pct,steps_sold,exit_reason,verdict,liq0,dex,liq_usd,vol_h1,buys_h1,sells_h1,buyers_h1,fdv,chg_h1,pool_age_min,price_src
+ladderB,PUMP,pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn,11-07 12:15,198,10.00,9.55,-4.5,0,stop-loss: -4.3%,SAFE,36086461,orca,2497445,418279,424,604,243,3120067169,-2.021,601721,jupiter
+ladder,duge,iW4XP2BWd3iqf1LMZvpsKidb49wVAh3S8SfNUsDpump,11-07 12:15,0,10.00,9.35,-6.5,0,stop-loss: -6.2%,CAUTION,17358,pumpswap,30400,336751,5538,3704,1910,141928,238.8,76,jupiter
+ladderB,duge,iW4XP2BWd3iqf1LMZvpsKidb49wVAh3S8SfNUsDpump,11-07 12:15,0,10.00,9.35,-6.5,0,stop-loss: -6.2%,CAUTION,17358,pumpswap,30400,336751,5538,3704,1910,141928,238.8,76,jupiter
+ladder,PUMP,pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn,11-07 12:15,198,10.00,9.55,-4.5,0,stop-loss: -4.3%,SAFE,36086461,orca,2497445,418279,424,604,243,3120067169,-2.021,601721,jupiter
+copy,PUMP,pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn,11-07 12:15,1440,10.00,9.24,-7.6,0,time limit: 24 h; -5.6%,SAFE,36086461,orca,2497445,418279,424,604,243,3120067169,-2.021,601721,jupiter
+copy,duge,iW4XP2BWd3iqf1LMZvpsKidb49wVAh3S8SfNUsDpump,11-07 12:15,57,10.00,16.27,62.7,1,trailing stop: -42.0% from the high (2.11x at best),CAUTION,17358,pumpswap,30400,336751,5538,3704,1910,141928,238.8,76,jupiter
+fast,HODL,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,11-07 12:15,7,80.00,87.80,9.7,0,take profit: +10.1%,,,pumpswap,157298,181878,13470,3569,2780,3463596,-13.904,786,jupiter
+copy,HODL,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,11-07 12:15,439,10.00,5.80,-42.0,0,stop-loss: -40.6%,CAUTION,75180,pumpswap,157298,181878,13470,3569,2780,3463596,-13.904,786,jupiter
+2026,HODL,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,11-07 12:15,1,80.00,71.37,-10.8,0,stop-loss: -10.5% from entry,,,pumpswap,157298,181878,13470,3569,2780,3463596,-13.904,786,
+ladderB,BIRB,G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG,11-07 12:17,165,10.00,10.02,0.2,0,break-even stop: 0.4% (1.01x at best),CAUTION,1257471,raydium-clmm,1687544,150919,1976,1852,67,94014872,-0.078,408288,jupiter
+ladder,BIRB,G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG,11-07 12:17,405,10.00,10.10,1.0,1,trailing stop: -1.0% from the high (1.02x at best),CAUTION,1257471,raydium-clmm,1687544,150919,1976,1852,67,94014872,-0.078,408288,jupiter
+ladder,HODL,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,11-07 12:17,2,10.00,10.29,2.9,1,trailing stop: -1.9% from the high (1.05x at best),CAUTION,73783,pumpswap,148042,186129,13571,3323,2862,3218649,-21.41,788,jupiter
+ladderB,HODL,DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump,11-07 12:17,0,10.00,9.99,-0.1,0,break-even stop: 0.1% (1.01x at best),CAUTION,73783,pumpswap,148042,186129,13571,3323,2862,3218649,-21.41,788,jupiter
+ladderB,DACITY,EphCWcWcVcG7fjtGhvk2UjCUqhRcRfpuTbCyn5xoBAGS,11-07 12:19,0,10.00,9.54,-4.6,0,stop-loss: -4.3%,CAUTION,17740,meteora-damm-v2,33922,260890,5101,3019,1278,201227,348.16,36,jupiter
+ladder,DACITY,EphCWcWcVcG7fjtGhvk2UjCUqhRcRfpuTbCyn5xoBAGS,11-07 12:19,0,10.00,9.54,-4.6,0,stop-loss: -4.3%,CAUTION,17740,meteora-damm-v2,33922,260890,5101,3019,1278,201227,348.16,36,jupiter
+ladderB,COGE,8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump,11-07 12:19,11,10.00,10.29,2.9,1,trailing stop: -3.7% from the high (1.07x at best),CAUTION,122081,pumpswap,244561,114523,6270,3822,2908,8260536,-63.375,2430,jupiter
+ladder,COGE,8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump,11-07 12:19,3,10.00,10.28,2.8,1,trailing stop: -1.3% from the high (1.04x at best),CAUTION,122081,pumpswap,244561,114523,6270,3822,2908,8260536,-63.375,2430,jupiter
+ladder,ACT,GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump,11-07 12:22,28,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,687787,raydium,1359882,92171,380,355,38,9900116,-4.226,1078606,jupiter
+ladderB,ACT,GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump,11-07 12:22,28,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,687787,raydium,1359882,92171,380,355,38,9900116,-4.226,1078606,jupiter
+ladder,GATO,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,11-07 12:23,7,10.00,10.10,1.0,1,trailing stop: -1.1% from the high (1.02x at best),CAUTION,341148,pumpswap,378038,52475,372,419,271,12757822,1.919,106556,jupiter
+ladderB,GATO,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,11-07 12:23,17,10.00,9.68,-3.2,0,break-even stop: -2.9% (1.03x at best),CAUTION,341148,pumpswap,378038,52475,372,419,271,12757822,1.919,106556,jupiter
+ladderB,JOB,9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump,11-07 12:24,6,10.00,10.00,0.0,0,break-even stop: 0.2% (1.01x at best),SAFE,106499,pumpswap,212457,52035,271,376,88,4646968,4.215,15431,jupiter
+ladder,JOB,9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump,11-07 12:24,8,10.00,10.16,1.6,1,trailing stop: -1.0% from the high (1.03x at best),SAFE,106499,pumpswap,212457,52035,271,376,88,4646968,4.215,15431,jupiter
+fast,JOB,9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump,11-07 12:24,30,80.62,88.94,10.3,0,take profit: +10.7%,,,pumpswap,212457,52035,271,376,88,4646968,4.215,15431,jupiter
+2026,JOB,9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump,11-07 12:24,47,79.31,85.84,8.2,0,trailing stop: -10.8% from peak (21.6% up at best),,,pumpswap,212457,52035,271,376,88,4646968,4.215,15431,
+ladderB,HYPE,98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g,11-07 12:27,693,10.00,9.92,-0.8,0,liquidity pulled: down 30% since the buy; -0.5%,SAFE,5532958,meteora,772676,143467,124,279,52,50912163,-0.559,542769,jupiter
+ladder,HYPE,98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g,11-07 12:27,693,10.00,9.92,-0.8,0,liquidity pulled: down 30% since the buy; -0.5%,SAFE,5532958,meteora,772676,143467,124,279,52,50912163,-0.559,542769,jupiter
+ladderB,ZEC,A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS,11-07 12:28,187,10.00,9.62,-3.8,0,stop-loss: -3.5%,SAFE,9363714,orca,4050924,135035,176,266,54,138716939,0.199,553501,jupiter
+ladder,ZEC,A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS,11-07 12:28,205,10.00,9.65,-3.5,0,stop-loss: -3.3%,SAFE,9363714,orca,4050924,135035,176,266,54,138716939,0.199,553501,jupiter
+ladderB,KMNO,KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS,11-07 12:30,1440,10.00,9.88,-1.2,0,time limit: 24 h; -1.0%,SAFE,2347808,orca,1834666,63690,311,351,40,340358038,0.277,1091710,jupiter
+ladder,KMNO,KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS,11-07 12:30,1440,10.00,9.88,-1.2,0,time limit: 24 h; -1.0%,SAFE,2347808,orca,1834666,63690,311,351,40,340358038,0.277,1091710,jupiter
+ladder,José,87CQtouHSb6YCXaPZ1pp8jD56VudRMXBVqU3oDMD1UJT,11-07 12:32,0,10.00,10.09,0.9,1,trailing stop: -1.2% from the high (1.02x at best),CAUTION,10415,pumpswap,21706,49833,449,308,215,69329,-59.109,839,jupiter
+ladderB,José,87CQtouHSb6YCXaPZ1pp8jD56VudRMXBVqU3oDMD1UJT,11-07 12:32,1,10.00,9.84,-1.6,0,break-even stop: -1.2% (1.02x at best),CAUTION,10415,pumpswap,21706,49833,449,308,215,69329,-59.109,839,jupiter
+ladderB,RAY,4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R,11-07 12:32,515,10.00,10.02,0.2,0,break-even stop: 0.5% (1.03x at best),SAFE,15646187,raydium-clmm,2040048,50091,445,210,101,973163762,0.573,1444948,jupiter
+ladder,RAY,4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R,11-07 12:32,426,10.00,10.14,1.4,1,trailing stop: -1.1% from the high (1.03x at best),SAFE,15646187,raydium-clmm,2040048,50091,445,210,101,973163762,0.573,1444948,jupiter
+ladderB,ANTFUN,CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt,11-07 12:36,37,10.00,9.58,-4.2,0,stop-loss: -4.0%,SAFE,4906321,meteora,16141284,43692,266,208,85,142531506,-2.979,173286,jupiter
+ladder,ANTFUN,CWZ6BsdnjkDVTGkmL6bGbJXXig6ceef12KvyGQW14cMt,11-07 12:36,37,10.00,9.58,-4.2,0,stop-loss: -4.0%,SAFE,4906321,meteora,16141284,43692,266,208,85,142531506,-2.979,173286,jupiter
+ladder,Laura,6dRcA4MBdxHFwRbARnwwAu3Y8eek6GzfyWEHgy3pump,11-07 12:39,1,10.00,10.18,1.8,1,trailing stop: -1.8% from the high (1.04x at best),CAUTION,11971,pumpswap,24321,5382,25,2,23,,2.624,2,jupiter
+ladderB,Laura,6dRcA4MBdxHFwRbARnwwAu3Y8eek6GzfyWEHgy3pump,11-07 12:39,8,10.00,7.50,-25.0,4,trailing stop: -55.8% from the high (1.48x at best),CAUTION,11971,pumpswap,24321,5382,25,2,23,,2.624,2,jupiter
+ladder,TRUMP,6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN,11-07 12:42,1237,10.00,9.70,-3.0,0,stop-loss: -2.7%,CAUTION,16456436,orca,156964,11643,231,225,104,1192718149,-0.178,947635,jupiter
+ladderB,TRUMP,6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN,11-07 12:42,80,10.00,9.98,-0.2,0,break-even stop: 0.1% (1.01x at best),CAUTION,16456436,orca,156964,11643,231,225,104,1192718149,-0.178,947635,jupiter
+ladderB,SI276,HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump,11-07 12:44,1,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.01x at best),CAUTION,24009,pumpswap,49299,3377,1189,834,17,251291,-6.9,45679,jupiter
+ladderB,ANSEM,9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump,11-07 12:44,171,10.00,9.69,-3.1,0,stop-loss: -2.8%,SAFE,1068622,pumpswap,1266313,5595,59,38,30,46815047,-1.253,206858,jupiter
+ladder,ANSEM,9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump,11-07 12:44,177,10.00,9.57,-4.3,0,stop-loss: -4.1%,SAFE,1068622,pumpswap,1266313,5595,59,38,30,46815047,-1.253,206858,jupiter
+ladder,SI276,HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump,11-07 12:44,20,10.00,10.08,0.8,1,trailing stop: -1.3% from the high (1.02x at best),CAUTION,24009,pumpswap,49299,3377,1189,834,17,251291,-6.9,45679,jupiter
+ladder,farmsem,CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump,11-07 12:56,1,10.00,11.88,18.8,1,trailing stop: -8.2% from the high (1.31x at best),CAUTION,14919,pumpswap,21762,3955,15,0,12,86064,128.368,2,jupiter
+ladderB,farmsem,CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump,11-07 12:56,1,10.00,11.96,19.6,4,trailing stop: -8.2% from the high (1.31x at best),CAUTION,14919,pumpswap,21762,3955,15,0,12,86064,128.368,2,jupiter
+ladder,GEOD(SOL),7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu,11-07 13:03,673,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,346799,raydium-clmm,177936,38118,525,468,88,73116917,-2.084,1085269,jupiter
+ladder,WETH,7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs,11-07 13:03,1440,10.00,9.94,-0.6,0,time limit: 24 h; -0.3%,SAFE,18626292,orca,5931958,38446,165,66,88,95420765,-0.129,1758150,jupiter
+ladderB,GEOD(SOL),7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu,11-07 13:03,673,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,346799,raydium-clmm,177936,38118,525,468,88,73116917,-2.084,1085269,jupiter
+ladderB,WETH,7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs,11-07 13:03,1440,10.00,9.94,-0.6,0,time limit: 24 h; -0.3%,SAFE,18626292,orca,5931958,38446,165,66,88,95420765,-0.129,1758150,jupiter
+ladderB,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,11-07 13:04,9,10.00,10.14,1.4,1,trailing stop: -5.0% from the high (1.07x at best),CAUTION,530993,raydium,505972,29850,47,54,21,6056556,17.211,13849,jupiter
+ladder,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,11-07 13:04,2,10.00,10.11,1.1,1,trailing stop: -1.7% from the high (1.03x at best),CAUTION,530993,raydium,505972,29850,47,54,21,6056556,17.211,13849,jupiter
+ladderB,WEALTH,8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump,11-07 13:06,12,10.00,12.24,22.4,4,trailing stop: -7.6% from the high (1.35x at best),CAUTION,34945,pumpswap,74355,42496,199,242,131,754733,40.352,2762,jupiter
+ladder,WEALTH,8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump,11-07 13:06,1,10.00,10.73,7.3,1,trailing stop: -4.7% from the high (1.14x at best),CAUTION,34945,pumpswap,74355,42496,199,242,131,754733,40.352,2762,jupiter
+ladderB,KEYFO,6XMFyTTaRPcWwauATgqe1w6g7ZZ43GXczmdCUK5spump,11-07 13:20,0,10.00,9.48,-5.2,0,stop-loss: -4.9%,CAUTION,10401,pumpswap,20796,32893,361,150,191,77524,74.677,2,jupiter
+ladder,KEYFO,6XMFyTTaRPcWwauATgqe1w6g7ZZ43GXczmdCUK5spump,11-07 13:20,0,10.00,9.48,-5.2,0,stop-loss: -4.9%,CAUTION,10401,pumpswap,20796,32893,361,150,191,77524,74.677,2,jupiter
+copy,KEYFO,6XMFyTTaRPcWwauATgqe1w6g7ZZ43GXczmdCUK5spump,11-07 13:20,2,10.00,5.80,-42.0,0,stop-loss: -40.7%,CAUTION,10401,pumpswap,20796,32893,361,150,191,77524,74.677,2,jupiter
+ladder,Laura,YpBEAo3W8huoqg674r8mT6bQyjPLLyg7fQ3oBXDpump,11-07 13:24,4,10.00,12.13,21.3,1,trailing stop: -0.5% from the high (1.27x at best),CAUTION,12334,pumpswap,24793,5576,96,36,94,112476,6.079,2,jupiter
+ladderB,Laura,YpBEAo3W8huoqg674r8mT6bQyjPLLyg7fQ3oBXDpump,11-07 13:24,18,10.00,6.29,-37.1,4,liquidity pulled: down 33% since the buy; -49.7%,CAUTION,12334,pumpswap,24793,5576,96,36,94,112476,6.079,2,jupiter
+copy,Laura,YpBEAo3W8huoqg674r8mT6bQyjPLLyg7fQ3oBXDpump,11-07 13:24,18,10.00,4.82,-51.8,0,stop-loss: -50.6%,CAUTION,12334,pumpswap,24793,5576,96,36,94,112476,6.079,2,jupiter
+ladderB,ELON,2coT7YUQuobVf1WgyNWdp9WxUC6mRAGdThY9qDs8pump,11-07 13:30,0,10.00,9.31,-6.9,0,stop-loss: -6.6%,CAUTION,10012,pumpswap,23577,7661,651,477,129,95750,50.808,3,jupiter
+ladder,ELON,2coT7YUQuobVf1WgyNWdp9WxUC6mRAGdThY9qDs8pump,11-07 13:30,0,10.00,9.31,-6.9,0,stop-loss: -6.6%,CAUTION,10012,pumpswap,23577,7661,651,477,129,95750,50.808,3,jupiter
+ladderB,Flash,HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump,11-07 13:34,0,10.00,8.27,-17.3,0,stop-loss: -17.0%,CAUTION,15116,pumpswap,21851,99229,467,145,280,,48.984,2,jupiter
+ladder,Flash,HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump,11-07 13:34,0,10.00,8.27,-17.3,0,stop-loss: -17.0%,CAUTION,15116,pumpswap,21851,99229,467,145,280,,48.984,2,jupiter
+fast,Flash,HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump,11-07 13:34,0,81.29,66.61,-18.1,0,stop-loss: -17.4%,,,pumpswap,21851,99229,467,145,280,,48.984,2,jupiter
+ladderB,POKEHOOD,2tQ5VmatizbdnyK3o8mKTFKcb3212FdiyLJ9aqgspump,11-07 13:40,0,10.00,10.02,0.2,0,break-even stop: 0.5% (1.01x at best),CAUTION,11791,pumpswap,24679,49731,5363,4603,2189,107031,-9.857,41,jupiter
+ladder,BAGSAPP,5eENsWW9JfMzgRSPakQxUyiWo4cK9iQQnGJe6F4xBAGS,11-07 13:40,0,10.00,7.76,-22.4,0,stop-loss: -22.0%,CAUTION,5939,meteora-damm-v2,15018,15667,241,176,184,46397,4.642,3,jupiter
+ladder,POKEHOOD,2tQ5VmatizbdnyK3o8mKTFKcb3212FdiyLJ9aqgspump,11-07 13:40,3,10.00,10.43,4.3,1,trailing stop: -1.0% from the high (1.06x at best),CAUTION,11791,pumpswap,24679,49731,5363,4603,2189,107031,-9.857,41,jupiter
+ladderB,BAGSAPP,5eENsWW9JfMzgRSPakQxUyiWo4cK9iQQnGJe6F4xBAGS,11-07 13:40,0,10.00,7.76,-22.4,0,stop-loss: -22.0%,CAUTION,5939,meteora-damm-v2,15018,15667,241,176,184,46397,4.642,3,jupiter
+ladder,GRND,GRNDYDpqwpCm6jVxpbh4xT5AM4r3p391qYsKTHqgaET2,11-07 13:46,186,10.00,9.80,-2.0,0,liquidity pulled: down 20% since the buy; -1.8%,CAUTION,142181,raydium-clmm,55163,132828,1536,1289,736,165676,1.516,83508,jupiter
+ladderB,GRND,GRNDYDpqwpCm6jVxpbh4xT5AM4r3p391qYsKTHqgaET2,11-07 13:46,186,10.00,9.80,-2.0,0,liquidity pulled: down 20% since the buy; -1.8%,CAUTION,142181,raydium-clmm,55163,132828,1536,1289,736,165676,1.516,83508,jupiter
+ladderB,PROPFUN,FoufDb9hXygVYT58SVDAFhbd98k3D93xYHtd9eCewQPk,11-07 14:06,1,10.00,9.07,-9.3,0,stop-loss: -9.0%,CAUTION,8048,raydium,15983,77670,1045,771,444,31660,-5.071,70,jupiter
+ladder,ARNOLD,nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump,11-07 14:06,22,10.00,9.41,-5.9,0,stop-loss: -5.6%,CAUTION,21045,pumpswap,41964,43483,1443,957,1038,174959,-1.349,11041,jupiter
+ladder,PROPFUN,FoufDb9hXygVYT58SVDAFhbd98k3D93xYHtd9eCewQPk,11-07 14:06,1,10.00,9.07,-9.3,0,stop-loss: -9.0%,CAUTION,8048,raydium,15983,77670,1045,771,444,31660,-5.071,70,jupiter
+ladderB,ARNOLD,nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump,11-07 14:06,22,10.00,9.41,-5.9,0,stop-loss: -5.6%,CAUTION,21045,pumpswap,41964,43483,1443,957,1038,174959,-1.349,11041,jupiter
+copy,PROPFUN,FoufDb9hXygVYT58SVDAFhbd98k3D93xYHtd9eCewQPk,11-07 14:06,92,10.00,23.92,139.2,1,trailing stop: -47.6% from the high (4.53x at best),CAUTION,8048,raydium,15983,77670,1045,771,444,31660,-5.071,70,jupiter
+fast,ARNOLD,nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump,11-07 14:06,24,80.11,73.16,-8.7,0,stop-loss: -8.1%,,,pumpswap,41964,43483,1443,957,1038,174959,-1.349,11041,jupiter
+2026,ARNOLD,nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump,11-07 14:06,25,79.83,73.12,-8.4,0,stop-loss: -8.0% from entry,,,pumpswap,41964,43483,1443,957,1038,174959,-1.349,11041,
+ladderB,UMBRA,PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta,11-07 14:07,102,10.00,10.02,0.2,0,break-even stop: 0.5% (1.01x at best),SAFE,904424,metadao,1800400,32787,46,6,23,18472355,-4.817,565864,jupiter
+ladder,UMBRA,PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta,11-07 14:07,350,10.00,10.20,2.0,1,trailing stop: -1.5% from the high (1.04x at best),SAFE,904424,metadao,1800400,32787,46,6,23,18472355,-4.817,565864,jupiter
+ladderB,CLAUDIA,AuqMCWXp7qM8esFtKymPm1okKHicgXsJNf73oLajBAGS,11-07 14:08,1,10.00,9.51,-4.9,0,stop-loss: -4.4%,CAUTION,3585,bags-fm,8085,14945,198,129,121,13013,27.4,128,jupiter
+ladder,CLAUDIA,AuqMCWXp7qM8esFtKymPm1okKHicgXsJNf73oLajBAGS,11-07 14:08,1,10.00,9.51,-4.9,0,stop-loss: -4.4%,CAUTION,3585,bags-fm,8085,14945,198,129,121,13013,27.4,128,jupiter
+ladder,inu,Bid8i1ocWssjRmKh2kcUfHxD1K6Sk7E5pV2PSVdepump,11-07 14:10,5,10.00,9.54,-4.6,0,stop-loss: -4.3%,CAUTION,12088,pumpswap,19385,3661,54,33,30,53964,-4.632,3665,jupiter
+ladder,PYTH,HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3,11-07 14:10,1147,10.00,9.70,-3.0,0,stop-loss: -2.8%,SAFE,420101,raydium-clmm,372302,3324,27,7,3,642171819,-0.372,1445046,jupiter
+ladderB,inu,Bid8i1ocWssjRmKh2kcUfHxD1K6Sk7E5pV2PSVdepump,11-07 14:10,5,10.00,9.54,-4.6,0,stop-loss: -4.3%,CAUTION,12088,pumpswap,19385,3661,54,33,30,53964,-4.632,3665,jupiter
+ladderB,PYTH,HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3,11-07 14:10,1147,10.00,9.70,-3.0,0,stop-loss: -2.8%,SAFE,420101,raydium-clmm,372302,3324,27,7,3,642171819,-0.372,1445046,jupiter
+ladderB,PENGU,2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv,11-07 14:12,1440,10.00,9.83,-1.7,0,time limit: 24 h; -1.4%,SAFE,2061750,pumpswap,1225587,1039,1,26,1,492897217,-0.038,885412,jupiter
+ladder,PENGU,2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv,11-07 14:12,1440,10.00,9.83,-1.7,0,time limit: 24 h; -1.4%,SAFE,2061750,pumpswap,1225587,1039,1,26,1,492897217,-0.038,885412,jupiter
+ladderB,scamsem,tH8k9UDjoYgVeYJfhzbFC8Bj29jedpoKDVx78h4pump,11-07 14:20,1,10.00,9.92,-0.8,1,trailing stop: -7.3% from the high (1.07x at best),CAUTION,16622,pumpswap,12823,5224,139,128,118,32637,-13.343,2,jupiter
+ladder,scamsem,tH8k9UDjoYgVeYJfhzbFC8Bj29jedpoKDVx78h4pump,11-07 14:20,0,10.00,10.41,4.1,1,trailing stop: -3.1% from the high (1.07x at best),CAUTION,16622,pumpswap,12823,5224,139,128,118,32637,-13.343,2,jupiter
+ladder,paws,Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump,11-07 14:24,2,10.00,10.12,1.2,1,trailing stop: -1.4% from the high (1.03x at best),CAUTION,53906,pumpswap,59566,42010,285,236,146,332314,26.669,16451,jupiter
+ladder,NOPANIC,6JmDY4eYXiBJhKFjLhM2oG95UiwkEoAN2daqq6tUpump,11-07 14:24,3,10.00,8.65,-13.5,1,trailing stop: -19.9% from the high (1.03x at best),CAUTION,10465,pumpswap,23856,170220,4273,2606,3108,106221,176.258,54,jupiter
+ladderB,NOPANIC,6JmDY4eYXiBJhKFjLhM2oG95UiwkEoAN2daqq6tUpump,11-07 14:24,3,10.00,8.24,-17.6,0,break-even stop: -17.3% (1.03x at best),CAUTION,10465,pumpswap,23856,170220,4273,2606,3108,106221,176.258,54,jupiter
+ladderB,paws,Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump,11-07 14:24,1,10.00,9.92,-0.8,0,break-even stop: -0.5% (1.01x at best),CAUTION,53906,pumpswap,59566,42010,285,236,146,332314,26.669,16451,jupiter
+ladderB,GTA 6 Coin,9yhSHqFw3sSTu8m9DgY4YceJyDdNQAXEsphCw5xdpump,11-07 14:33,0,10.00,10.00,0.0,0,break-even stop: 0.3% (1.01x at best),CAUTION,11744,pumpswap,24857,6055,322,228,114,,3.472,2,jupiter
+ladder,GTA 6 Coin,9yhSHqFw3sSTu8m9DgY4YceJyDdNQAXEsphCw5xdpump,11-07 14:33,2,10.00,10.39,3.9,1,trailing stop: -1.1% from the high (1.06x at best),CAUTION,11744,pumpswap,24857,6055,322,228,114,,3.472,2,jupiter
+ladderB,fone,CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump,11-07 14:45,60,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,185706,pumpswap,307583,2798,38,7,18,1831083,-0.763,104561,jupiter
+ladder,fone,CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump,11-07 14:45,73,10.00,9.62,-3.8,0,stop-loss: -3.6%,SAFE,185706,pumpswap,307583,2798,38,7,18,1831083,-0.763,104561,jupiter
+ladderB,FUSE,CzwzQw6eGr9RjF3ZLmEPxcxspSk6csRg9Gpvsnycz5eD,11-07 14:47,5,10.00,10.03,0.3,1,trailing stop: -5.2% from the high (1.06x at best),CAUTION,71461,raydium,103584,193960,1634,1170,651,279335,-36.809,1103,jupiter
+ladder,FUSE,CzwzQw6eGr9RjF3ZLmEPxcxspSk6csRg9Gpvsnycz5eD,11-07 14:47,2,10.00,10.23,2.3,1,trailing stop: -1.6% from the high (1.04x at best),CAUTION,71461,raydium,103584,193960,1634,1170,651,279335,-36.809,1103,jupiter
+ladderB,inu,D1r8qF9Z7BNVoxNempdQvbHUXP6PPqZ6sv8MGWjzpump,11-07 15:00,1,10.00,7.69,-23.1,4,trailing stop: -45.5% from the high (1.23x at best),CAUTION,4939,pump-fun,3877,7698,92,66,76,6297,13.598,1,jupiter
+ladder,inu,D1r8qF9Z7BNVoxNempdQvbHUXP6PPqZ6sv8MGWjzpump,11-07 15:00,1,10.00,7.61,-23.9,1,trailing stop: -45.5% from the high (1.23x at best),CAUTION,4939,pump-fun,3877,7698,92,66,76,6297,13.598,1,jupiter
+ladder,ZEREBRO,8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn,11-07 15:01,52,10.00,9.56,-4.4,0,stop-loss: -4.1%,SAFE,1303097,raydium,2575445,183447,397,561,45,24392599,-1.683,1065353,jupiter
+ladderB,ZEREBRO,8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn,11-07 15:01,46,10.00,9.69,-3.1,0,stop-loss: -2.8%,SAFE,1303097,raydium,2575445,183447,397,561,45,24392599,-1.683,1065353,jupiter
+ladder,stasy,2QehMYSzfeymirJ1qfwGB9t21tThapovGdmu2dzzpump,11-07 15:05,0,10.00,7.84,-21.6,0,stop-loss: -21.3%,CAUTION,18361,pumpswap,17672,187357,4662,2731,1131,46355,26.491,29,jupiter
+ladderB,stasy,2QehMYSzfeymirJ1qfwGB9t21tThapovGdmu2dzzpump,11-07 15:05,0,10.00,7.84,-21.6,0,stop-loss: -21.3%,CAUTION,18361,pumpswap,17672,187357,4662,2731,1131,46355,26.491,29,jupiter
+fast,stasy,2QehMYSzfeymirJ1qfwGB9t21tThapovGdmu2dzzpump,11-07 15:05,0,79.56,64.05,-19.5,0,stop-loss: -18.9%,,,pumpswap,17672,187357,4662,2731,1131,46355,26.491,29,jupiter
+ladderB,TRK,E8c9gvuE7gW4R8AVcaTCbbTG1zJGdUR9KGtS94eXBAGS,11-07 15:08,3,10.00,10.30,3.0,2,trailing stop: -8.6% from the high (1.12x at best),CAUTION,20910,meteora-damm-v2,38748,74014,628,391,350,207695,69.565,11326,jupiter
+ladder,TRK,E8c9gvuE7gW4R8AVcaTCbbTG1zJGdUR9KGtS94eXBAGS,11-07 15:08,2,10.00,10.78,7.8,1,trailing stop: -3.3% from the high (1.12x at best),CAUTION,20910,meteora-damm-v2,38748,74014,628,391,350,207695,69.565,11326,jupiter
+ladderB,JEANPHIL,GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump,11-07 15:12,23,10.00,9.71,-2.9,0,stop-loss: -2.7%,CAUTION,307862,pumpswap,302474,6950,17,23,17,3891039,-0.24,70325,jupiter
+ladder,JEANPHIL,GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump,11-07 15:12,41,10.00,9.67,-3.3,0,stop-loss: -3.0%,CAUTION,307862,pumpswap,302474,6950,17,23,17,3891039,-0.24,70325,jupiter
+ladder,TRUMPCOIN,EZr3zaL9oojKAtpNUYEihk4zWoZxbcKrNUM6SjEeBAGS,11-07 15:14,1,10.00,8.89,-11.1,0,stop-loss: -10.9%,CAUTION,24342,meteora-damm-v2,31566,260585,4546,2651,1871,175112,300.39,19,jupiter
+ladderB,TRUMPCOIN,EZr3zaL9oojKAtpNUYEihk4zWoZxbcKrNUM6SjEeBAGS,11-07 15:14,1,10.00,8.89,-11.1,0,stop-loss: -10.9%,CAUTION,24342,meteora-damm-v2,31566,260585,4546,2651,1871,175112,300.39,19,jupiter
+ladder,GLITCH,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump,11-07 15:14,3,10.00,10.13,1.3,1,trailing stop: -1.5% from the high (1.03x at best),CAUTION,64780,pumpswap,131387,69210,461,233,324,2140062,-17.742,31660,jupiter
+ladderB,GLITCH,8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump,11-07 15:14,1,10.00,9.95,-0.5,0,break-even stop: -0.2% (1.01x at best),CAUTION,64780,pumpswap,131387,69210,461,233,324,2140062,-17.742,31660,jupiter
+ladder,CBUCKS,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,11-07 15:19,13,10.00,9.55,-4.5,0,stop-loss: -4.3%,CAUTION,85736,pumpswap,173249,22752,45,58,31,2473727,5.615,45889,jupiter
+ladderB,CBUCKS,DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump,11-07 15:19,6,10.00,9.98,-0.2,0,break-even stop: 0.0% (1.02x at best),CAUTION,85736,pumpswap,173249,22752,45,58,31,2473727,5.615,45889,jupiter
+ladderB,ROCCO,mV9kZc5WEcsupy9KYZo1c7x52Ys1A5CDK73Ysg6pump,11-07 15:28,1,10.00,9.80,-2.0,0,break-even stop: -1.7% (1.01x at best),CAUTION,36422,pumpswap,74681,211450,1165,866,960,827250,226.025,1550,jupiter
+ladder,ROCCO,mV9kZc5WEcsupy9KYZo1c7x52Ys1A5CDK73Ysg6pump,11-07 15:28,2,10.00,9.38,-6.2,0,stop-loss: -5.9%,CAUTION,36422,pumpswap,74681,211450,1165,866,960,827250,226.025,1550,jupiter
+fast,ROCCO,mV9kZc5WEcsupy9KYZo1c7x52Ys1A5CDK73Ysg6pump,11-07 15:28,2,78.32,73.21,-6.5,0,stop-loss: -6.1%,,,pumpswap,74681,211450,1165,866,960,827250,226.025,1550,jupiter
+2026,ROCCO,mV9kZc5WEcsupy9KYZo1c7x52Ys1A5CDK73Ysg6pump,11-07 15:28,4,79.30,74.19,-6.4,0,stop-loss: -6.1% from entry,,,pumpswap,74681,211450,1165,866,960,827250,226.025,1550,
+ladderB,PAID,98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump,11-07 15:30,70,10.00,9.69,-3.1,0,stop-loss: -2.8%,CAUTION,204435,pumpswap,304279,9442,32,21,14,1883386,3.03,76088,jupiter
+ladder,PAID,98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump,11-07 15:30,70,10.00,9.69,-3.1,0,stop-loss: -2.8%,CAUTION,204435,pumpswap,304279,9442,32,21,14,1883386,3.03,76088,jupiter
+ladder,Elysion Pad,HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump,11-07 15:34,0,10.00,9.40,-6.0,0,stop-loss: -5.7%,CAUTION,12196,pumpswap,23444,217515,2349,1764,1118,86789,-31.911,20,jupiter
+ladderB,Elysion Pad,HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump,11-07 15:34,0,10.00,9.40,-6.0,0,stop-loss: -5.7%,CAUTION,12196,pumpswap,23444,217515,2349,1764,1118,86789,-31.911,20,jupiter
+ladderB,CATE,Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump,11-07 15:37,211,10.00,9.40,-6.0,0,stop-loss: -5.8%,CAUTION,1568246,pumpswap,1959760,8075,41,69,24,32217456,-0.436,149705,jupiter
+ladder,CATE,Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump,11-07 15:37,211,10.00,9.40,-6.0,0,stop-loss: -5.8%,CAUTION,1568246,pumpswap,1959760,8075,41,69,24,32217456,-0.436,149705,jupiter
+ladder,GTA 6 Coin,EKjhV3aRvGBYjAN5SN9zW7mn5y4By8kDBubA6sxdgUj5,11-07 15:59,2,10.00,0.87,-91.3,0,stop-loss: -91.3%,CAUTION,10266,pumpswap,24616,5608,102,2,100,106933,0.752,2,jupiter
+ladderB,GTA 6 Coin,EKjhV3aRvGBYjAN5SN9zW7mn5y4By8kDBubA6sxdgUj5,11-07 15:59,2,10.00,0.87,-91.3,0,stop-loss: -91.3%,CAUTION,10266,pumpswap,24616,5608,102,2,100,106933,0.752,2,jupiter
+copy,GTA 6 Coin,EKjhV3aRvGBYjAN5SN9zW7mn5y4By8kDBubA6sxdgUj5,11-07 15:59,2,10.00,0.83,-91.7,0,stop-loss: -91.5%,CAUTION,10266,pumpswap,24616,5608,102,2,100,106933,0.752,2,jupiter
+ladder,debtdog,kYyfwoX22TFte2Ax5xchdvDx59XkBKcjdnn4pTYpump,11-07 16:00,3,10.00,10.89,8.9,1,trailing stop: -0.9% from the high (1.12x at best),CAUTION,14385,pumpswap,29856,39636,17891,7612,2069,154262,28.545,63,jupiter
+ladderB,debtdog,kYyfwoX22TFte2Ax5xchdvDx59XkBKcjdnn4pTYpump,11-07 16:00,6,10.00,4.93,-50.7,4,liquidity pulled: down 47% since the buy; -66.5%,CAUTION,14385,pumpswap,29856,39636,17891,7612,2069,154262,28.545,63,jupiter
+ladder,nuLL,A72sK9mPWTvU4f5RQFy7upBCeJi9HZx3Q2Wgr7QBnuLL,11-07 16:05,7,10.00,9.68,-3.2,0,stop-loss: -2.9%,CAUTION,21414,pumpswap,39118,34788,254,317,135,210798,-34.513,4083,jupiter
+ladderB,nuLL,A72sK9mPWTvU4f5RQFy7upBCeJi9HZx3Q2Wgr7QBnuLL,11-07 16:05,1,10.00,9.98,-0.2,0,break-even stop: 0.1% (1.01x at best),CAUTION,21414,pumpswap,39118,34788,254,317,135,210798,-34.513,4083,jupiter
+copy,nuLL,A72sK9mPWTvU4f5RQFy7upBCeJi9HZx3Q2Wgr7QBnuLL,11-07 16:05,1286,10.00,5.77,-42.3,0,stop-loss: -40.9%,CAUTION,21414,pumpswap,39118,34788,254,317,135,210798,-34.513,4083,jupiter
+ladderB,PEPE69,H3K7a6rNJbArjAys3P4sreubMhiteiTz2Yj1AG9Wpump,11-07 16:16,1,10.00,9.26,-7.4,0,break-even stop: -7.0% (1.05x at best),CAUTION,12411,pumpswap,25278,9028,79,9,71,104986,83.345,2,jupiter
+ladder,PEPE69,H3K7a6rNJbArjAys3P4sreubMhiteiTz2Yj1AG9Wpump,11-07 16:16,1,10.00,9.50,-5.0,1,trailing stop: -11.3% from the high (1.05x at best),CAUTION,12411,pumpswap,25278,9028,79,9,71,104986,83.345,2,jupiter
+ladderB,shit,899T4hR2vwi9no5fpdnWHERQwLdoUGDk8xkB1kJNpump,11-07 16:29,0,10.00,9.64,-3.6,0,stop-loss: -3.3%,CAUTION,14098,pumpswap,25860,113413,1057,808,582,81227,55.131,3,jupiter
+ladder,shit,899T4hR2vwi9no5fpdnWHERQwLdoUGDk8xkB1kJNpump,11-07 16:29,0,10.00,9.64,-3.6,0,stop-loss: -3.3%,CAUTION,14098,pumpswap,25860,113413,1057,808,582,81227,55.131,3,jupiter
+ladder,BILL,D3niuvNw4UfpoJCLUF9iJmk3SyyssgrnXd7GKzQApump,11-07 16:30,1440,10.00,9.86,-1.4,0,time limit: 24 h; -0.8%,CAUTION,2689,pump-fun,5466,11632,166,194,159,2548,-65.752,4,jupiter
+ladderB,BILL,D3niuvNw4UfpoJCLUF9iJmk3SyyssgrnXd7GKzQApump,11-07 16:30,1440,10.00,9.86,-1.4,0,time limit: 24 h; -0.8%,CAUTION,2689,pump-fun,5466,11632,166,194,159,2548,-65.752,4,jupiter
+ladder,Leonida,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,11-07 16:51,1,10.00,9.70,-3.0,0,stop-loss: -2.8%,CAUTION,56101,pumpswap,48309,40016,420,409,268,365067,34.143,2710,jupiter
+ladderB,Leonida,BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump,11-07 16:51,1,10.00,9.70,-3.0,0,stop-loss: -2.8%,CAUTION,56101,pumpswap,48309,40016,420,409,268,365067,34.143,2710,jupiter
+ladder,MET,METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL,11-07 17:02,56,10.00,10.13,1.3,1,trailing stop: -1.0% from the high (1.02x at best),SAFE,3840396,meteora,1185330,128761,387,405,244,304218244,-0.053,549636,jupiter
+ladderB,MET,METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL,11-07 17:02,433,10.00,10.55,5.5,1,trailing stop: -3.7% from the high (1.10x at best),SAFE,3840396,meteora,1185330,128761,387,405,244,304218244,-0.053,549636,jupiter
+ladderB,0DAY,85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump,11-07 17:08,1,10.00,9.59,-4.1,0,stop-loss: -3.8%,CAUTION,27619,pumpswap,56836,35850,408,220,405,493502,6.654,1612,jupiter
+ladder,0DAY,85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump,11-07 17:08,1,10.00,9.59,-4.1,0,stop-loss: -3.8%,CAUTION,27619,pumpswap,56836,35850,408,220,405,493502,6.654,1612,jupiter
+ladderB,XCAT,96SPjZjqEk8XVBQz2Fo3UabdDazBXZ1JsagXJ2Y3pump,11-07 17:20,2,10.00,9.29,-7.1,0,stop-loss: -6.6%,CAUTION,3427,pump-fun,2731,5591,31,37,27,3462,1.378,2,jupiter
+ladderB,GROKDOG,AzgvetdJu3E9o7DtS7haPgnDPEUZFBbF8jBePzEDLboP,11-07 17:20,2,10.00,9.07,-9.3,0,stop-loss: -8.8%,CAUTION,3438,pump-fun,2688,7285,36,66,26,3404,-3.78,2,jupiter
+ladder,GROKDOG,AzgvetdJu3E9o7DtS7haPgnDPEUZFBbF8jBePzEDLboP,11-07 17:20,2,10.00,9.07,-9.3,0,stop-loss: -8.8%,CAUTION,3438,pump-fun,2688,7285,36,66,26,3404,-3.78,2,jupiter
+ladder,XCAT,96SPjZjqEk8XVBQz2Fo3UabdDazBXZ1JsagXJ2Y3pump,11-07 17:20,2,10.00,9.29,-7.1,0,stop-loss: -6.6%,CAUTION,3427,pump-fun,2731,5591,31,37,27,3462,1.378,2,jupiter
+ladderB,piLL,DY3o5SLKeZkhkyqJJL4bbxxHos86yLqoVD4wVVaHpiLL,11-07 17:22,0,10.00,9.59,-4.1,0,stop-loss: -3.8%,CAUTION,10687,pumpswap,23946,359805,4774,3785,1815,96114,111.823,51,jupiter
+ladder,piLL,DY3o5SLKeZkhkyqJJL4bbxxHos86yLqoVD4wVVaHpiLL,11-07 17:22,0,10.00,9.59,-4.1,0,stop-loss: -3.8%,CAUTION,10687,pumpswap,23946,359805,4774,3785,1815,96114,111.823,51,jupiter
+ladder,GTA 6 Coin,6apf4Tm15UBPPTGu3EzFFsWz5VYUjHfKtVMrCtMEfXM2,11-07 17:31,1,10.00,10.60,6.0,1,trailing stop: -0.4% from the high (1.08x at best),CAUTION,12100,pumpswap,24686,5421,14,0,12,110823,197.61,2,jupiter
+ladderB,GTA 6 Coin,6apf4Tm15UBPPTGu3EzFFsWz5VYUjHfKtVMrCtMEfXM2,11-07 17:31,6,10.00,2.69,-73.1,4,trailing stop: -95.8% from the high (1.30x at best),CAUTION,12100,pumpswap,24686,5421,14,0,12,110823,197.61,2,jupiter
+ladder,LUCIA,8gpdPLGTServ9bQXx6ZzinbDtKj8LDogCxPNrvUGpump,11-07 17:34,1,10.00,10.01,0.1,1,trailing stop: -8.4% from the high (1.08x at best),CAUTION,13217,pumpswap,28399,7304,15,1,11,,218.4,2,jupiter
+ladderB,LUCIA,8gpdPLGTServ9bQXx6ZzinbDtKj8LDogCxPNrvUGpump,11-07 17:34,0,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.02x at best),CAUTION,13217,pumpswap,28399,7304,15,1,11,,218.4,2,jupiter
+ladderB,Jenny,3nGHvMGBkJdqH8XvtGHNbTL8xmrnZWr2QSj4JDtSpump,11-07 17:40,0,10.00,10.11,1.1,2,trailing stop: -9.6% from the high (1.11x at best),CAUTION,4340,pump-fun,4539,14654,155,83,128,8058,79.953,1,jupiter
+ladder,Jenny,3nGHvMGBkJdqH8XvtGHNbTL8xmrnZWr2QSj4JDtSpump,11-07 17:40,0,10.00,10.22,2.2,1,trailing stop: -9.6% from the high (1.11x at best),CAUTION,4340,pump-fun,4539,14654,155,83,128,8058,79.953,1,jupiter
+ladder,PSOL,pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL,11-07 17:50,1440,10.00,9.87,-1.3,0,time limit: 24 h; -1.1%,SAFE,146283711,orca,1275863,68840,1387,726,635,146147911,0.343,791702,jupiter
+ladderB,PSOL,pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL,11-07 17:50,1440,10.00,9.87,-1.3,0,time limit: 24 h; -1.1%,SAFE,146283711,orca,1275863,68840,1387,726,635,146147911,0.343,791702,jupiter
+ladderB,ECAT,C891rB7xCUAztoAinptQFbDiDnDhJf3NQWALP98fpump,11-07 18:01,1,10.00,8.86,-11.4,0,break-even stop: -11.1% (1.03x at best),CAUTION,14974,pumpswap,31848,220183,8378,1059,5998,164410,-4.636,32,jupiter
+ladder,ECAT,C891rB7xCUAztoAinptQFbDiDnDhJf3NQWALP98fpump,11-07 18:01,1,10.00,9.14,-8.6,1,trailing stop: -13.5% from the high (1.03x at best),CAUTION,14974,pumpswap,31848,220183,8378,1059,5998,164410,-4.636,32,jupiter
+ladder,HERO,B85CZwwGQN7HpKduxYGyP1B6Wq3U58m94oQ3poWGpump,11-07 18:02,0,10.00,9.42,-5.8,0,stop-loss: -5.6%,CAUTION,36458,pumpswap,73930,619320,10521,2742,1080,801190,419.296,70,jupiter
+ladderB,HERO,B85CZwwGQN7HpKduxYGyP1B6Wq3U58m94oQ3poWGpump,11-07 18:02,0,10.00,9.42,-5.8,0,stop-loss: -5.6%,CAUTION,36458,pumpswap,73930,619320,10521,2742,1080,801190,419.296,70,jupiter
+fast,BTC,CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump,11-07 18:04,24,77.91,85.46,9.7,0,take profit: +10.4%,,,pumpswap,37841,28730,1214,870,1178,234144,-15.77,288,jupiter
+ladder,BTC,CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump,11-07 18:05,3,10.00,10.01,0.1,1,trailing stop: -2.1% from the high (1.02x at best),CAUTION,18244,pumpswap,38310,28900,1222,876,1186,233662,-15.943,288,jupiter
+ladderB,BTC,CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump,11-07 18:05,3,10.00,9.96,-0.4,0,break-even stop: -0.0% (1.02x at best),CAUTION,18244,pumpswap,38310,28900,1222,876,1186,233662,-15.943,288,jupiter
+ladderB,mesk,7F8Muwr6JdV8wSKfqfnccCM7Zsr1chhVwC46vZzCpump,11-07 18:06,0,10.00,10.00,0.0,1,trailing stop: -7.3% from the high (1.08x at best),CAUTION,16856,pumpswap,12629,17103,356,401,302,30923,-15.433,3,jupiter
+ladder,mesk,7F8Muwr6JdV8wSKfqfnccCM7Zsr1chhVwC46vZzCpump,11-07 18:06,0,10.00,10.12,1.2,1,trailing stop: -7.3% from the high (1.08x at best),CAUTION,16856,pumpswap,12629,17103,356,401,302,30923,-15.433,3,jupiter
+ladderB,E/ACC,A7KFSxzZ2SqZPC114V2D9h97VcL6q8qJasoK88AuBAGS,11-07 18:10,2,10.00,10.05,0.5,3,trailing stop: -15.7% from the high (1.17x at best),CAUTION,12058,meteora-damm-v2,24384,240591,2972,1879,1468,105291,140.422,32,jupiter
+ladder,E/ACC,A7KFSxzZ2SqZPC114V2D9h97VcL6q8qJasoK88AuBAGS,11-07 18:10,1,10.00,11.42,14.2,1,trailing stop: -1.7% from the high (1.17x at best),CAUTION,12058,meteora-damm-v2,24384,240591,2972,1879,1468,105291,140.422,32,jupiter
+ladderB,Fartcoin,9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump,11-07 18:13,1440,10.00,9.83,-1.7,0,time limit: 24 h; -1.5%,SAFE,5259370,raydium,6276729,23038,286,146,177,117696216,1.067,1080723,jupiter
+ladder,Fartcoin,9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump,11-07 18:13,1440,10.00,9.83,-1.7,0,time limit: 24 h; -1.5%,SAFE,5259370,raydium,6276729,23038,286,146,177,117696216,1.067,1080723,jupiter
+ladder,JOSE,ASARwHD5b14sYEQcpt389pUCMuGyCYRJ8dekYt8Wz1So,11-07 18:40,0,10.00,8.03,-19.7,0,stop-loss: -19.2%,CAUTION,3699,pump-fun,2955,22476,42,40,32,3779,-5.31,2,jupiter
+ladderB,JOSE,ASARwHD5b14sYEQcpt389pUCMuGyCYRJ8dekYt8Wz1So,11-07 18:40,0,10.00,8.03,-19.7,0,stop-loss: -19.2%,CAUTION,3699,pump-fun,2955,22476,42,40,32,3779,-5.31,2,jupiter
+ladderB,José,CYnAx6ysnAV8qJqCTQTmMy4TGeS3CAEqMUdTsu2z71YE,11-07 18:40,0,10.00,9.40,-6.0,0,stop-loss: -5.5%,CAUTION,3226,pump-fun,2787,20710,195,229,131,3659,-32.299,1,jupiter
+ladder,José,CYnAx6ysnAV8qJqCTQTmMy4TGeS3CAEqMUdTsu2z71YE,11-07 18:40,0,10.00,9.40,-6.0,0,stop-loss: -5.5%,CAUTION,3226,pump-fun,2787,20710,195,229,131,3659,-32.299,1,jupiter
+ladder,PIRATE,2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat,11-07 18:44,0,10.00,9.54,-4.6,0,stop-loss: -4.4%,CAUTION,118321,raydium,164605,235130,2426,1498,957,713236,91.579,3927,jupiter
+ladderB,PIRATE,2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat,11-07 18:44,0,10.00,9.54,-4.6,0,stop-loss: -4.4%,CAUTION,118321,raydium,164605,235130,2426,1498,957,713236,91.579,3927,jupiter
+ladderB,DanaWhite,4WmYtUfWjEPDNn8utm7nb9UbNiktvxRdeRioythcpump,11-07 18:45,0,10.00,14.09,40.9,4,liquidity pulled: down 31% since the buy; 39.3%,CAUTION,10442,pump-fun,8436,14659,175,119,161,23141,347.603,2,jupiter
+ladder,DanaWhite,4WmYtUfWjEPDNn8utm7nb9UbNiktvxRdeRioythcpump,11-07 18:45,0,10.00,14.09,40.9,1,liquidity pulled: down 31% since the buy; 39.3%,CAUTION,10442,pump-fun,8436,14659,175,119,161,23141,347.603,2,jupiter
+ladder,DANAWHITE,2rpjppiRS5ag3umYsZ7jxYCZ8QfE1hbcxZinp666h2QV,11-07 18:48,0,10.00,8.41,-15.9,0,liquidity pulled: down 45% since the buy; -15.6%,CAUTION,11792,raydium-launchlab,27078,21866,113,78,67,31753,112.802,1,jupiter
+ladderB,DANAWHITE,2rpjppiRS5ag3umYsZ7jxYCZ8QfE1hbcxZinp666h2QV,11-07 18:48,0,10.00,8.41,-15.9,0,liquidity pulled: down 45% since the buy; -15.6%,CAUTION,11792,raydium-launchlab,27078,21866,113,78,67,31753,112.802,1,jupiter
+ladder,DJT,DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF,11-07 18:48,1001,10.00,9.91,-0.9,0,liquidity pulled: down 22% since the buy; -0.6%,CAUTION,742146,orca,366972,434382,4009,4087,1557,997945,0.71,85010,jupiter
+ladderB,DJT,DJTu7vi8norVzdVAffgvb39VP7wjKeTsgaMBJrzfxvoF,11-07 18:48,1001,10.00,9.91,-0.9,0,liquidity pulled: down 22% since the buy; -0.6%,CAUTION,742146,orca,366972,434382,4009,4087,1557,997945,0.71,85010,jupiter
+fast,DANAWHITE,2rpjppiRS5ag3umYsZ7jxYCZ8QfE1hbcxZinp666h2QV,11-07 18:48,0,78.51,64.95,-17.3,0,stop-loss: -16.0%,,,raydium-launchlab,27078,21866,113,78,67,31753,112.802,1,jupiter
+ladder,DanaWhite,5yCdmWsAE4c1FyLAM1A6pczPkCnNyeFwCdaZA2Z5SFw3,11-07 18:50,0,10.00,0.00,-100.0,0,stop-loss: -53.1%,CAUTION,9,raydium-launchlab,20628,15698,58,77,47,20990,0.592,4,jupiter
+ladderB,DanaWhite,5yCdmWsAE4c1FyLAM1A6pczPkCnNyeFwCdaZA2Z5SFw3,11-07 18:50,0,10.00,0.00,-100.0,0,stop-loss: -53.1%,CAUTION,9,raydium-launchlab,20628,15698,58,77,47,20990,0.592,4,jupiter
+ladderB,JOS,6wk7FhJeFUnN3PbgRdA5MG4eRsbh5KV4EEHd8hX43LqQ,11-07 18:55,0,10.00,5.70,-43.0,0,liquidity pulled: down 72% since the buy; -42.6%,CAUTION,10177,raydium-launchlab,43154,41406,247,235,162,56597,185.11,1,jupiter
+ladder,JOS,6wk7FhJeFUnN3PbgRdA5MG4eRsbh5KV4EEHd8hX43LqQ,11-07 18:55,0,10.00,5.70,-43.0,0,liquidity pulled: down 72% since the buy; -42.6%,CAUTION,10177,raydium-launchlab,43154,41406,247,235,162,56597,185.11,1,jupiter
+ladderB,TTWO,TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo,11-07 19:02,1440,10.00,9.98,-0.2,0,time limit: 24 h; 0.1%,CAUTION,2100053,raydium-clmm,494148,67408,675,593,389,3328355,-0.037,86711,jupiter
+ladder,TTWO,TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo,11-07 19:02,1440,10.00,9.98,-0.2,0,time limit: 24 h; 0.1%,CAUTION,2100053,raydium-clmm,494148,67408,675,593,389,3328355,-0.037,86711,jupiter
+ladder,SI,DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP,11-07 19:06,5,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,687812,meteora,341968,22207,38,13,33,7051486,-1.219,67839,jupiter
+ladderB,SI,DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP,11-07 19:06,5,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,687812,meteora,341968,22207,38,13,33,7051486,-1.219,67839,jupiter
+ladderB,FIX,LWSYx94hV8NaFujStsqRZNsd1V8PkasADLTfiWjbfix,11-07 19:08,15,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,10640,raydium,20418,4219,49,19,32,54258,-1.903,4385,jupiter
+ladder,FIX,LWSYx94hV8NaFujStsqRZNsd1V8PkasADLTfiWjbfix,11-07 19:08,15,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,10640,raydium,20418,4219,49,19,32,54258,-1.903,4385,jupiter
+ladderB,CARDS,CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp,11-07 19:08,104,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,3213566,meteora,195152,6635,25,26,21,460977535,2.705,620213,jupiter
+ladder,CARDS,CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp,11-07 19:08,104,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,3213566,meteora,195152,6635,25,26,21,460977535,2.705,620213,jupiter
+ladderB,José,FTrbc3sUPbTsKiNK3e5wWeAaGBuLwmY9RWtKJCSpump,11-07 19:21,0,10.00,9.92,-0.8,0,break-even stop: -0.5% (1.01x at best),CAUTION,14760,pumpswap,32635,9483,17,1,14,187637,4.657,2,jupiter
+ladder,José,FTrbc3sUPbTsKiNK3e5wWeAaGBuLwmY9RWtKJCSpump,11-07 19:21,1,10.00,9.48,-5.2,0,stop-loss: -4.9%,CAUTION,14760,pumpswap,32635,9483,17,1,14,187637,4.657,2,jupiter
+ladder,Chonky,4dFwoYryTJuHsSRciQ5yogSGB67KhfXctFyhx6hfLoat,11-07 19:22,1,10.00,11.19,11.9,1,trailing stop: -2.6% from the high (1.15x at best),CAUTION,36461,raydium,75145,63549,377,355,246,144792,20.736,2,jupiter
+ladderB,Chonky,4dFwoYryTJuHsSRciQ5yogSGB67KhfXctFyhx6hfLoat,11-07 19:22,2,10.00,10.82,8.2,3,trailing stop: -7.7% from the high (1.16x at best),CAUTION,36461,raydium,75145,63549,377,355,246,144792,20.736,2,jupiter
+ladder,TTT,3LpreE1jffcKzaoWhfmCgCJRZGmczRXw7nfxveKxoeyc,11-07 19:37,0,10.00,9.61,-3.9,0,stop-loss: -3.6%,CAUTION,17156,raydium-launchlab,32573,26246,115,91,83,,81.787,1,jupiter
+ladderB,TTT,3LpreE1jffcKzaoWhfmCgCJRZGmczRXw7nfxveKxoeyc,11-07 19:37,0,10.00,9.61,-3.9,0,stop-loss: -3.6%,CAUTION,17156,raydium-launchlab,32573,26246,115,91,83,,81.787,1,jupiter
+ladderB,RTR,ENspCYw7ijrmYSLykhdKLRHgPT8SyxxfSnxZg6YHAGSE,11-07 19:40,0,10.00,0.00,-100.0,0,stop-loss: -85.5%,CAUTION,2,raydium-launchlab,17368,17625,202,124,59,12468,-11.122,2,jupiter
+ladderB,AIRDROP,2QWVn9Pjk8ZWR5Fi2sbfoagsUjeHfmaUd7TwSpq9s76e,11-07 19:40,0,10.00,8.88,-11.2,0,stop-loss: -5.6%,CAUTION,177,raydium-launchlab,17629,25787,152,152,102,18075,-17.185,1,jupiter
+ladder,AIRDROP,2QWVn9Pjk8ZWR5Fi2sbfoagsUjeHfmaUd7TwSpq9s76e,11-07 19:40,0,10.00,8.88,-11.2,0,stop-loss: -5.6%,CAUTION,177,raydium-launchlab,17629,25787,152,152,102,18075,-17.185,1,jupiter
+ladder,RTR,ENspCYw7ijrmYSLykhdKLRHgPT8SyxxfSnxZg6YHAGSE,11-07 19:40,0,10.00,0.00,-100.0,0,stop-loss: -85.5%,CAUTION,2,raydium-launchlab,17368,17625,202,124,59,12468,-11.122,2,jupiter
+copy,AIRDROP,2QWVn9Pjk8ZWR5Fi2sbfoagsUjeHfmaUd7TwSpq9s76e,11-07 19:40,1440,10.00,0.00,-100.0,0,time limit: 24 h; -8.9%,CAUTION,177,raydium-launchlab,17629,25787,152,152,102,18075,-17.185,1,jupiter
+ladder,BOBO,4nV5gNwwP68zUDat26ySChREqVaQaLudfJBkSgEzpump,11-07 19:44,19,10.00,9.29,-7.1,0,stop-loss: -6.9%,CAUTION,197475,pumpswap,310786,4542,30,17,23,5910203,1.729,269308,jupiter
+ladderB,BOBO,4nV5gNwwP68zUDat26ySChREqVaQaLudfJBkSgEzpump,11-07 19:44,19,10.00,9.29,-7.1,0,stop-loss: -6.9%,CAUTION,197475,pumpswap,310786,4542,30,17,23,5910203,1.729,269308,jupiter
+ladderB,PRIVACY,DGuudmnJZ6yeFJTQEM1FgFeWB7dz2mo8sqjRqDWDfhLn,11-07 20:04,6,10.00,10.08,0.8,1,trailing stop: -4.5% from the high (1.06x at best),CAUTION,112521,raydium,150292,300272,1136,1390,493,199970,-0.973,1335,jupiter
+ladder,PRIVACY,DGuudmnJZ6yeFJTQEM1FgFeWB7dz2mo8sqjRqDWDfhLn,11-07 20:04,5,10.00,10.21,2.1,1,trailing stop: -3.4% from the high (1.06x at best),CAUTION,112521,raydium,150292,300272,1136,1390,493,199970,-0.973,1335,jupiter
+ladder,DEMWOJAK,F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump,11-07 20:05,0,10.00,9.51,-4.9,0,stop-loss: -4.6%,CAUTION,15942,pumpswap,28836,181218,947,846,610,96518,160.088,7,jupiter
+ladderB,DEMWOJAK,F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump,11-07 20:05,0,10.00,9.51,-4.9,0,stop-loss: -4.6%,CAUTION,15942,pumpswap,28836,181218,947,846,610,96518,160.088,7,jupiter
+ladderB,GTA 6 Coin,7BvBFT528jM9uqgN5zfv7XyiodStdkPixe7mYyDCpump,11-07 20:18,2,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.02x at best),CAUTION,11294,pumpswap,24500,5319,3,0,2,107326,69.522,1,jupiter
+ladder,GTA 6 Coin,7BvBFT528jM9uqgN5zfv7XyiodStdkPixe7mYyDCpump,11-07 20:18,2,10.00,9.99,-0.1,1,trailing stop: -2.6% from the high (1.02x at best),CAUTION,11294,pumpswap,24500,5319,3,0,2,107326,69.522,1,jupiter
+ladderB,IphoneDuo,EwPAyvbYH5Rp9U5ZdZ5TkpjVcpeHPyMWRLon9Zppump,11-07 20:19,0,10.00,5.88,-41.2,0,liquidity pulled: down 26% since the buy; -41.0%,CAUTION,12300,pumpswap,25154,5868,144,74,142,115577,7.381,2,jupiter
+ladder,IphoneDuo,EwPAyvbYH5Rp9U5ZdZ5TkpjVcpeHPyMWRLon9Zppump,11-07 20:19,0,10.00,5.88,-41.2,0,liquidity pulled: down 26% since the buy; -41.0%,CAUTION,12300,pumpswap,25154,5868,144,74,142,115577,7.381,2,jupiter
+ladder,BILL,AbRugcEsK1wL7WkF2x4euHqezx3jNfHLcUvrXs56pump,11-07 20:20,2,10.00,8.76,-12.4,0,stop-loss: -11.8%,CAUTION,2842,pump-fun,2817,2414,22,26,21,3397,-32.42,1,jupiter
+ladderB,BILL,AbRugcEsK1wL7WkF2x4euHqezx3jNfHLcUvrXs56pump,11-07 20:20,2,10.00,8.76,-12.4,0,stop-loss: -11.8%,CAUTION,2842,pump-fun,2817,2414,22,26,21,3397,-32.42,1,jupiter
+ladder,Roach,Gg7dheciRVT29RYCg9TT1grJaFJfgvLFkwY4EYY1oQn2,11-07 20:20,10,10.00,9.79,-2.1,1,trailing stop: -10.4% from the high (1.07x at best),CAUTION,2735,pump-fun,2444,2319,19,13,17,2728,-8.938,1,jupiter
+ladderB,Roach,Gg7dheciRVT29RYCg9TT1grJaFJfgvLFkwY4EYY1oQn2,11-07 20:20,10,10.00,9.62,-3.8,1,trailing stop: -10.4% from the high (1.07x at best),CAUTION,2735,pump-fun,2444,2319,19,13,17,2728,-8.938,1,jupiter
+ladder,SIZE,6P565raMnJykrP71KYowo4jsAeM5tgdQma4abPdfLoat,11-07 20:24,0,10.00,7.55,-24.5,1,trailing stop: -33.0% from the high (1.03x at best),CAUTION,40060,raydium,68152,11611,73,92,62,120388,-8.228,2,jupiter
+ladderB,SIZE,6P565raMnJykrP71KYowo4jsAeM5tgdQma4abPdfLoat,11-07 20:24,0,10.00,6.87,-31.3,0,break-even stop: -31.1% (1.03x at best),CAUTION,40060,raydium,68152,11611,73,92,62,120388,-8.228,2,jupiter
+ladderB,PVE,7i35ovN9v2KcPDnUbDy7Xfc2ic6sskZ3vyTks9n9qemf,11-07 20:31,0,10.00,8.04,-19.6,0,stop-loss: -19.4%,CAUTION,11869,raydium-launchlab,37359,29684,235,76,147,42422,118.098,2,jupiter
+ladder,PVE,7i35ovN9v2KcPDnUbDy7Xfc2ic6sskZ3vyTks9n9qemf,11-07 20:31,0,10.00,8.04,-19.6,0,stop-loss: -19.4%,CAUTION,11869,raydium-launchlab,37359,29684,235,76,147,42422,118.098,2,jupiter
+ladder,GTA6,HtJFf3LNShtrakBsUX8UaThGCBuir6VcUB3sQ9m8pump,11-07 20:33,2,10.00,10.06,0.6,1,trailing stop: -2.9% from the high (1.03x at best),CAUTION,11311,pumpswap,23724,6150,271,185,108,102845,-3.204,3,jupiter
+ladderB,GTA6,HtJFf3LNShtrakBsUX8UaThGCBuir6VcUB3sQ9m8pump,11-07 20:33,1,10.00,9.95,-0.5,0,break-even stop: -0.2% (1.01x at best),CAUTION,11311,pumpswap,23724,6150,271,185,108,102845,-3.204,3,jupiter
+ladder,José,HgRk5aPDzwDCrdcuD2KoavBHBrNYbUdmUPXusnyapump,11-07 20:34,0,10.00,9.04,-9.6,0,stop-loss: -9.3%,CAUTION,18453,pumpswap,34650,12716,18,4,14,,404.771,2,jupiter
+ladderB,José,HgRk5aPDzwDCrdcuD2KoavBHBrNYbUdmUPXusnyapump,11-07 20:34,0,10.00,9.04,-9.6,0,stop-loss: -9.3%,CAUTION,18453,pumpswap,34650,12716,18,4,14,,404.771,2,jupiter
+ladderB,PISSCOIN,5575Y1Eh6XrZofTZfCvbydgi2hp9kj4vKNo9vDz1ea9g,11-07 20:40,2,10.00,10.21,2.1,1,trailing stop: -4.8% from the high (1.07x at best),CAUTION,4080,raydium-launchlab,32450,12723,83,24,53,34633,60.377,2,jupiter
+ladder,PISSCOIN,5575Y1Eh6XrZofTZfCvbydgi2hp9kj4vKNo9vDz1ea9g,11-07 20:40,1,10.00,10.41,4.1,1,trailing stop: -2.2% from the high (1.07x at best),CAUTION,4080,raydium-launchlab,32450,12723,83,24,53,34633,60.377,2,jupiter
+ladder,FRODO,6NeJZtxtRU6PpobjfkB1QHUMUt6gfVSL6ia9kgafLoat,11-07 20:48,0,10.00,8.14,-18.6,0,stop-loss: -18.4%,CAUTION,50342,raydium,63340,23962,233,203,145,105498,-13.77,2,jupiter
+ladderB,FRODO,6NeJZtxtRU6PpobjfkB1QHUMUt6gfVSL6ia9kgafLoat,11-07 20:48,0,10.00,8.14,-18.6,0,stop-loss: -18.4%,CAUTION,50342,raydium,63340,23962,233,203,145,105498,-13.77,2,jupiter
+ladderB,TAOLF,3hWkYmr81vZbyVnTPzcSjSNxxZuSmSdrQUohx86Rrxqf,11-07 20:53,0,10.00,9.41,-5.9,0,stop-loss: -5.6%,CAUTION,15996,raydium-launchlab,25064,33547,261,100,189,44575,143.54,2,jupiter
+ladder,TAOLF,3hWkYmr81vZbyVnTPzcSjSNxxZuSmSdrQUohx86Rrxqf,11-07 20:53,0,10.00,9.41,-5.9,0,stop-loss: -5.6%,CAUTION,15996,raydium-launchlab,25064,33547,261,100,189,44575,143.54,2,jupiter
+fast,TAOLF,3hWkYmr81vZbyVnTPzcSjSNxxZuSmSdrQUohx86Rrxqf,11-07 20:53,0,77.43,72.24,-6.7,0,stop-loss: -6.0%,,,raydium-launchlab,25064,33547,261,100,189,44575,143.54,2,jupiter
+ladderB,clover,qNT5Ua7fB3fCYsFkRCToLFS6TskwhpWG5B2RZxppump,11-07 21:00,15,10.00,13.94,39.4,4,trailing stop: -36.6% from the high (2.30x at best),CAUTION,8217,pumpswap,17522,9180,180,91,177,58600,58.597,2,jupiter
+ladder,BAGSCAT,BjkFjremu5QC6qNwB6nw2Na528EwvtD5HwGRPfb9BAGS,11-07 21:00,0,10.00,8.36,-16.4,0,stop-loss: -16.1%,CAUTION,7776,meteora-damm-v2,18062,36567,274,133,201,62684,35.439,2,jupiter
+ladderB,BAGSCAT,BjkFjremu5QC6qNwB6nw2Na528EwvtD5HwGRPfb9BAGS,11-07 21:00,0,10.00,8.36,-16.4,0,stop-loss: -16.1%,CAUTION,7776,meteora-damm-v2,18062,36567,274,133,201,62684,35.439,2,jupiter
+ladder,clover,qNT5Ua7fB3fCYsFkRCToLFS6TskwhpWG5B2RZxppump,11-07 21:00,1,10.00,10.48,4.8,1,trailing stop: -1.0% from the high (1.07x at best),CAUTION,8217,pumpswap,17522,9180,180,91,177,58600,58.597,2,jupiter
+ladderB,Jose,5NRzuqfyd4r7dHHKDpMY9HdGM2BMgSQhcZAbXTcfLoat,11-07 21:06,0,10.00,9.99,-0.1,0,break-even stop: 0.2% (1.02x at best),CAUTION,91493,meteora,21170,34767,434,363,191,567806,21.293,138,jupiter
+ladder,Jose,5NRzuqfyd4r7dHHKDpMY9HdGM2BMgSQhcZAbXTcfLoat,11-07 21:06,0,10.00,10.03,0.3,1,trailing stop: -1.9% from the high (1.02x at best),CAUTION,91493,meteora,21170,34767,434,363,191,567806,21.293,138,jupiter
+ladderB,CLAUDIA,AxcMAGQXrS2zrGibXkGq5K38Au5FD9MsviHp4M76pump,11-07 21:07,0,10.00,9.47,-5.3,0,stop-loss: -5.0%,CAUTION,13667,pumpswap,7161,257576,4371,3581,1575,11580,-66.727,51,jupiter
+ladder,CLAUDIA,AxcMAGQXrS2zrGibXkGq5K38Au5FD9MsviHp4M76pump,11-07 21:07,0,10.00,9.47,-5.3,0,stop-loss: -5.0%,CAUTION,13667,pumpswap,7161,257576,4371,3581,1575,11580,-66.727,51,jupiter
+ladderB,BORED,GeEmuF8Lnq4uBvxWJ6ztWURLEALJfcH2vsoa9bQjXbWS,11-07 21:07,0,10.00,8.26,-17.4,0,liquidity pulled: down 44% since the buy; -17.2%,CAUTION,28151,raydium-launchlab,59198,76907,540,366,341,73972,264.514,2,jupiter
+ladder,BORED,GeEmuF8Lnq4uBvxWJ6ztWURLEALJfcH2vsoa9bQjXbWS,11-07 21:07,0,10.00,8.26,-17.4,0,liquidity pulled: down 44% since the buy; -17.2%,CAUTION,28151,raydium-launchlab,59198,76907,540,366,341,73972,264.514,2,jupiter
+ladder,SLOPCORE,EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump,11-07 21:09,5,10.00,9.69,-3.1,0,stop-loss: -2.8%,CAUTION,37594,pumpswap,56785,18421,218,174,135,256203,-9.277,58864,jupiter
+ladderB,SLOPCORE,EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump,11-07 21:09,5,10.00,9.69,-3.1,0,stop-loss: -2.8%,CAUTION,37594,pumpswap,56785,18421,218,174,135,256203,-9.277,58864,jupiter
+ladder,FloatPlus,1xaCVr3gU6ZbVpKKQZg1oGHufdhZPuUgqmtumBfsQd,11-07 21:10,1,10.00,9.41,-5.9,0,stop-loss: -5.4%,CAUTION,4070,raydium-launchlab,23105,22629,130,85,99,23592,12.88,2,jupiter
+ladderB,FloatPlus,1xaCVr3gU6ZbVpKKQZg1oGHufdhZPuUgqmtumBfsQd,11-07 21:10,1,10.00,9.41,-5.9,0,stop-loss: -5.4%,CAUTION,4070,raydium-launchlab,23105,22629,130,85,99,23592,12.88,2,jupiter
+ladderB,Floating,2HEhZ79kRwttLvpPpHqAuXzSYTjnVKDs9YUFeFwwbdsa,11-07 21:10,1,10.00,9.92,-0.8,0,break-even stop: -0.4% (1.04x at best),CAUTION,6240,raydium-launchlab,22324,21899,211,98,126,22652,17.553,2,jupiter
+ladder,Floating,2HEhZ79kRwttLvpPpHqAuXzSYTjnVKDs9YUFeFwwbdsa,11-07 21:10,0,10.00,10.17,1.7,1,trailing stop: -2.1% from the high (1.04x at best),CAUTION,6240,raydium-launchlab,22324,21899,211,98,126,22652,17.553,2,jupiter
+ladder,Percolator,8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump,11-07 21:15,0,10.00,9.42,-5.8,0,stop-loss: -5.5%,SAFE,134712,pumpswap,238684,166750,833,511,425,1782465,-32.037,552223,jupiter
+ladderB,Percolator,8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump,11-07 21:15,0,10.00,9.42,-5.8,0,stop-loss: -5.5%,SAFE,134712,pumpswap,238684,166750,833,511,425,1782465,-32.037,552223,jupiter
+ladderB,DOPE,33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump,11-07 21:18,2,10.00,9.68,-3.2,0,break-even stop: -3.0% (1.02x at best),CAUTION,151248,pumpswap,124159,123931,731,392,380,947548,-31.135,39345,jupiter
+ladder,DOPE,33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump,11-07 21:18,2,10.00,9.78,-2.2,1,trailing stop: -5.3% from the high (1.02x at best),CAUTION,151248,pumpswap,124159,123931,731,392,380,947548,-31.135,39345,jupiter
+ladder,STOCKZ,AYVQ28huHAce46tmLKF39i994x526JLiWj8rxYgWpump,11-07 21:20,1,10.00,10.41,4.1,1,trailing stop: -1.5% from the high (1.07x at best),CAUTION,4652,pump-fun,5470,11040,72,51,60,9535,26.345,2,jupiter
+ladderB,ZOMBIEGROK,DJduQqaNpPRUNzZgzqrZB1QLSK2miaH41wwEPHMCLoat,11-07 21:20,0,10.00,4.98,-50.2,0,stop-loss: -25.1%,CAUTION,30,raydium-launchlab,17368,5931,7,7,7,17356,-15.502,2,jupiter
+ladderB,STOCKZ,AYVQ28huHAce46tmLKF39i994x526JLiWj8rxYgWpump,11-07 21:20,1,10.00,10.06,0.6,1,trailing stop: -5.6% from the high (1.07x at best),CAUTION,4652,pump-fun,5470,11040,72,51,60,9535,26.345,2,jupiter
+ladder,ZOMBIEGROK,DJduQqaNpPRUNzZgzqrZB1QLSK2miaH41wwEPHMCLoat,11-07 21:20,0,10.00,4.98,-50.2,0,stop-loss: -25.1%,CAUTION,30,raydium-launchlab,17368,5931,7,7,7,17356,-15.502,2,jupiter
+ladderB,littleguy,AZJYcnZFPbrrsXwzAKb7rr377zJDY2ekhBiTzJY4xrkB,11-07 21:25,0,10.00,9.62,-3.8,0,stop-loss: -3.5%,CAUTION,16234,raydium-launchlab,32615,24703,238,92,139,36177,64.474,4,jupiter
+ladder,littleguy,AZJYcnZFPbrrsXwzAKb7rr377zJDY2ekhBiTzJY4xrkB,11-07 21:25,0,10.00,9.62,-3.8,0,stop-loss: -3.5%,CAUTION,16234,raydium-launchlab,32615,24703,238,92,139,36177,64.474,4,jupiter
+fast,littleguy,AZJYcnZFPbrrsXwzAKb7rr377zJDY2ekhBiTzJY4xrkB,11-07 21:25,1,77.01,70.78,-8.1,0,stop-loss: -7.4%,,,raydium-launchlab,32615,24703,238,92,139,36177,64.474,4,jupiter
+ladder,EQUITY,8sQzG31aSHTmC8fcs8ybECw7o784buFrhZifTudwx8X8,11-07 21:27,1,10.00,11.60,16.0,1,trailing stop: -0.7% from the high (1.19x at best),CAUTION,10000,raydium-launchlab,33416,17847,139,63,105,37681,28.866,2,jupiter
+ladderB,EQUITY,8sQzG31aSHTmC8fcs8ybECw7o784buFrhZifTudwx8X8,11-07 21:27,1,10.00,10.93,9.3,3,trailing stop: -8.9% from the high (1.19x at best),CAUTION,10000,raydium-launchlab,33416,17847,139,63,105,37681,28.866,2,jupiter
+ladder,ECOMERATE,83rxVC2dEPEyvUH7V25AkbzvQVpME3ohmw8NsafGBAGS,11-07 21:30,0,10.00,0.00,-100.0,0,stop-loss: -73.6%,CAUTION,4,bags-fm,3221,1251,15,9,11,3141,15.608,2,jupiter
+ladderB,ECOMERATE,83rxVC2dEPEyvUH7V25AkbzvQVpME3ohmw8NsafGBAGS,11-07 21:30,0,10.00,0.00,-100.0,0,stop-loss: -73.6%,CAUTION,4,bags-fm,3221,1251,15,9,11,3141,15.608,2,jupiter
+ladderB,GROKIE,2v3XmvjXSnVqYQnrG1GAy61nfWbYhpnH5zhkibtcpump,11-07 21:58,0,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,16146,pumpswap,14181,2744,78,46,69,38237,3.124,1,jupiter
+ladder,GROKIE,2v3XmvjXSnVqYQnrG1GAy61nfWbYhpnH5zhkibtcpump,11-07 21:58,0,10.00,9.55,-4.5,0,stop-loss: -4.2%,CAUTION,16146,pumpswap,14181,2744,78,46,69,38237,3.124,1,jupiter
+ladderB,Jakub,CwyC8i95LLm548cyWzgD5eoqPahTMVndty2dzKYvpump,11-07 22:00,0,10.00,9.16,-8.4,0,stop-loss: -7.9%,CAUTION,2975,pump-fun,3882,5949,59,30,52,6268,136.454,2,jupiter
+ladder,Jakub,CwyC8i95LLm548cyWzgD5eoqPahTMVndty2dzKYvpump,11-07 22:00,0,10.00,9.16,-8.4,0,stop-loss: -7.9%,CAUTION,2975,pump-fun,3882,5949,59,30,52,6268,136.454,2,jupiter
+ladderB,MEIMEI,H4wjKiSSTyez764sKSymGsoSv8YYSkiCyCRjVPnKBAGS,11-07 22:00,0,10.00,0.00,-100.0,0,stop-loss: -100.0%,CAUTION,0,bags-fm,3730,3978,28,38,21,2811,-7.2,3,jupiter
+ladder,MEIMEI,H4wjKiSSTyez764sKSymGsoSv8YYSkiCyCRjVPnKBAGS,11-07 22:00,0,10.00,0.00,-100.0,0,stop-loss: -100.0%,CAUTION,0,bags-fm,3730,3978,28,38,21,2811,-7.2,3,jupiter
+ladderB,Pnut,2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump,11-07 22:02,107,10.00,10.02,0.2,0,break-even stop: 0.5% (1.01x at best),SAFE,2583940,raydium,2559913,1114636,542,347,65,34394115,-2.452,1061696,jupiter
+ladder,Pnut,2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump,11-07 22:02,923,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,2583940,raydium,2559913,1114636,542,347,65,34394115,-2.452,1061696,jupiter
+ladderB,Bonk,DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263,11-07 22:03,1432,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,5902836,orca,276681,4419,96,92,61,244664001,0.179,1758682,jupiter
+ladder,Amazon,6B9i3svQSTDqucmMFqTjK8DLbttyfi9MQLk8hPNtpump,11-07 22:03,4,10.00,12.22,22.2,1,trailing stop: -0.7% from the high (1.28x at best),CAUTION,8715,pumpswap,18231,47931,6264,5444,2250,62456,-3.456,39,jupiter
+ladderB,Amazon,6B9i3svQSTDqucmMFqTjK8DLbttyfi9MQLk8hPNtpump,11-07 22:03,36,10.00,16.19,61.9,4,trailing stop: -46.3% from the high (3.25x at best),CAUTION,8715,pumpswap,18231,47931,6264,5444,2250,62456,-3.456,39,jupiter
+ladder,Bonk,DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263,11-07 22:03,1432,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,5902836,orca,276681,4419,96,92,61,244664001,0.179,1758682,jupiter
+ladderB,LMEOW,6YP6zY5rqEivSoceBJNWingGuRHJwECNH88rWTWfLoat,11-07 22:04,0,10.00,9.10,-9.0,0,stop-loss: -8.7%,CAUTION,10312,raydium-launchlab,31264,39120,344,275,199,34397,83.575,2,jupiter
+ladder,LMEOW,6YP6zY5rqEivSoceBJNWingGuRHJwECNH88rWTWfLoat,11-07 22:04,0,10.00,9.10,-9.0,0,stop-loss: -8.7%,CAUTION,10312,raydium-launchlab,31264,39120,344,275,199,34397,83.575,2,jupiter
+ladder,cbBTC,cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij,11-07 22:06,1429,10.00,9.68,-3.2,0,stop-loss: -2.9%,SAFE,24399224,orca,5235555,101738,103,188,23,226092800,0.47,1051274,jupiter
+ladder,PI,Hy4iuJwuo9hAUMgMsNpFXANvKSnGmFFqcjBZuiCFpJCP,11-07 22:06,2,10.00,10.16,1.6,1,trailing stop: -2.0% from the high (1.04x at best),CAUTION,108610,meteora,23925,12902,115,101,60,585805,-8.102,1453,jupiter
+ladderB,PI,Hy4iuJwuo9hAUMgMsNpFXANvKSnGmFFqcjBZuiCFpJCP,11-07 22:06,3,10.00,10.01,0.1,0,break-even stop: 0.3% (1.04x at best),CAUTION,108610,meteora,23925,12902,115,101,60,585805,-8.102,1453,jupiter
+ladderB,cbBTC,cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij,11-07 22:06,702,10.00,9.97,-0.3,0,break-even stop: -0.1% (1.01x at best),SAFE,24399224,orca,5235555,101738,103,188,23,226092800,0.47,1051274,jupiter
+ladder,PMURT,Hb2fnvwpW6H6UymoTovRZqcDpmMNGWz2SXCRQ5LFpump,11-07 22:15,0,10.00,10.75,7.5,1,trailing stop: -2.0% from the high (1.10x at best),CAUTION,26882,pumpswap,53025,307065,1828,1990,531,407494,975.354,27,jupiter
+ladderB,PMURT,Hb2fnvwpW6H6UymoTovRZqcDpmMNGWz2SXCRQ5LFpump,11-07 22:15,1,10.00,10.41,4.1,1,trailing stop: -5.0% from the high (1.10x at best),CAUTION,26882,pumpswap,53025,307065,1828,1990,531,407494,975.354,27,jupiter
+fast,PMURT,Hb2fnvwpW6H6UymoTovRZqcDpmMNGWz2SXCRQ5LFpump,11-07 22:15,2,76.51,66.34,-13.3,0,stop-loss: -12.8%,,,pumpswap,53025,307065,1828,1990,531,407494,975.354,27,jupiter
+ladderB,迷因币,Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump,11-07 22:19,1,10.00,10.44,4.4,2,trailing stop: -8.3% from the high (1.13x at best),CAUTION,8096,pumpswap,14218,11362,213,224,142,38361,12.922,3,jupiter
+ladder,迷因币,Weo9K9hAjdkWUQhrTFx1abfr9CZMrEPbQ2oQiwTpump,11-07 22:19,1,10.00,10.53,5.3,1,trailing stop: -8.3% from the high (1.13x at best),CAUTION,8096,pumpswap,14218,11362,213,224,142,38361,12.922,3,jupiter
+ladder,FLOATARD,6o4DG7LLYwcnB9CmjuPXNtMPQbSw71o4yqYAs3WfLoat,11-07 22:19,0,10.00,9.39,-6.1,0,stop-loss: -4.2%,CAUTION,564,raydium-launchlab,19536,15959,75,53,61,19565,9.603,3,jupiter
+ladderB,FLOATARD,6o4DG7LLYwcnB9CmjuPXNtMPQbSw71o4yqYAs3WfLoat,11-07 22:19,0,10.00,9.39,-6.1,0,stop-loss: -4.2%,CAUTION,564,raydium-launchlab,19536,15959,75,53,61,19565,9.603,3,jupiter
+ladderB,屎币,3vAz2Rv13q1WvZed4YiVv7AQmw8TuGrPPE2CWVtt2cFh,11-07 22:20,1,10.00,9.56,-4.4,0,stop-loss: -3.8%,CAUTION,2872,pump-fun,3002,10223,128,76,108,4033,34.967,2,jupiter
+ladder,屎币,3vAz2Rv13q1WvZed4YiVv7AQmw8TuGrPPE2CWVtt2cFh,11-07 22:20,1,10.00,9.56,-4.4,0,stop-loss: -3.8%,CAUTION,2872,pump-fun,3002,10223,128,76,108,4033,34.967,2,jupiter
+ladder,Meet,3t2rBtsL78SwwNN9fKzYdqqZoTv22KeZcV2R2nrapump,11-07 22:20,0,10.00,8.59,-14.1,0,liquidity pulled: down 60% since the buy; -13.5%,CAUTION,6867,pump-fun,6184,11020,231,68,214,13742,240.068,3,jupiter
+ladderB,Meet,3t2rBtsL78SwwNN9fKzYdqqZoTv22KeZcV2R2nrapump,11-07 22:20,0,10.00,8.59,-14.1,0,liquidity pulled: down 60% since the buy; -13.5%,CAUTION,6867,pump-fun,6184,11020,231,68,214,13742,240.068,3,jupiter
+ladderB,Respect,CQKeAL4VWKHtkaYuP9rBq4weA4QtuR8L3gYigy3ypump,11-07 22:21,0,10.00,9.74,-2.6,0,break-even stop: -2.3% (1.03x at best),CAUTION,14673,pumpswap,29119,9904,20,3,16,148948,180.64,2,jupiter
+ladder,Respect,CQKeAL4VWKHtkaYuP9rBq4weA4QtuR8L3gYigy3ypump,11-07 22:21,0,10.00,9.84,-1.6,1,trailing stop: -4.8% from the high (1.03x at best),CAUTION,14673,pumpswap,29119,9904,20,3,16,148948,180.64,2,jupiter
+ladderB,BLEND,APqUN7DBUAgnXZ23EdUAiKkfN8hh72fWFr69fg5bLend,11-07 22:26,1,10.00,9.95,-0.5,0,break-even stop: -0.2% (1.02x at best),CAUTION,26142,raydium-launchlab,60851,172117,1136,761,559,88409,304.31,31,jupiter
+ladder,BLEND,APqUN7DBUAgnXZ23EdUAiKkfN8hh72fWFr69fg5bLend,11-07 22:26,1,10.00,9.99,-0.1,1,trailing stop: -2.2% from the high (1.02x at best),CAUTION,26142,raydium-launchlab,60851,172117,1136,761,559,88409,304.31,31,jupiter
+momo,BUBL,7DxyY7zDFteLyS717uAzkdVobi3vxBVa3WMTx5jrpump,11-07 22:35,4,10.00,5.16,-48.4,0,stop-loss: -47.2%,WAIT-5 passed: held, near its high, traded every minute,6413,pump-fun,3998,6933,71,25,66,7554,199.804,10,jupiter
+ladder,FloatOTC,CR7sSQVycswkzkwtJaNTujf54YPKKMEoN8UoQiSKX6JC,11-07 22:50,0,10.00,9.16,-8.4,0,stop-loss: -4.2%,CAUTION,243,raydium-launchlab,17679,28658,50,59,45,17580,-38.27,2,jupiter
+ladderB,FloatOTC,CR7sSQVycswkzkwtJaNTujf54YPKKMEoN8UoQiSKX6JC,11-07 22:50,0,10.00,9.16,-8.4,0,stop-loss: -4.2%,CAUTION,243,raydium-launchlab,17679,28658,50,59,45,17580,-38.27,2,jupiter
+ladder,ClaudiaGI,AtsxeXEVGCSJFDQKFpxucEjxk5vk9SUkU21mrCSFpump,11-07 23:07,0,10.00,8.81,-11.9,0,stop-loss: -11.6%,CAUTION,17185,pumpswap,40272,13993,20,1,16,273995,-2.191,3,jupiter
+ladderB,ClaudiaGI,AtsxeXEVGCSJFDQKFpxucEjxk5vk9SUkU21mrCSFpump,11-07 23:07,0,10.00,8.81,-11.9,0,stop-loss: -11.6%,CAUTION,17185,pumpswap,40272,13993,20,1,16,273995,-2.191,3,jupiter
+ladder,Beaker,5Y6d3Hezcya7UuVUFSZpBCsAaEzD1cm6NGcgSnQHpump,11-07 23:10,1440,10.00,9.72,-2.8,0,time limit: 24 h; -2.2%,CAUTION,3319,pump-fun,5765,4953,41,22,36,11084,114.995,3,jupiter
+ladderB,Beaker,5Y6d3Hezcya7UuVUFSZpBCsAaEzD1cm6NGcgSnQHpump,11-07 23:10,1440,10.00,9.72,-2.8,0,time limit: 24 h; -2.2%,CAUTION,3319,pump-fun,5765,4953,41,22,36,11084,114.995,3,jupiter
+ladder,GTA 6 Coin,DGRgLdEJyeJEW1kJXv55MHgUT9uNqo6TEsD3nywjpump,11-07 23:19,1,10.00,9.51,-4.9,0,stop-loss: -4.6%,CAUTION,11572,pumpswap,24250,5830,160,96,87,106057,0.026,2,jupiter
+ladderB,GTA 6 Coin,DGRgLdEJyeJEW1kJXv55MHgUT9uNqo6TEsD3nywjpump,11-07 23:19,1,10.00,9.51,-4.9,0,stop-loss: -4.6%,CAUTION,11572,pumpswap,24250,5830,160,96,87,106057,0.026,2,jupiter
+momo,MOONBASE,6cpzyxAzW8XZUywrqa1s3sXtzjoryhWsZrGJVRt2G2RD,11-07 23:22,2,10.00,3.32,-66.8,0,stop-loss: -66.0%,WAIT-5 passed: held, near its high, traded every minute,14523,meteora-damm-v2,16719,38082,98,83,55,8987,16.952,7,jupiter
+ladderB,Trump,52AbSfNhdrBAX8NDDCin6jeBRJzSYmxtBVLrJU1Xpump,11-07 23:28,1,10.00,9.82,-1.8,0,break-even stop: -1.4% (1.03x at best),CAUTION,11402,pumpswap,24038,5444,61,31,50,105267,-0.217,3,jupiter
+ladder,Trump,52AbSfNhdrBAX8NDDCin6jeBRJzSYmxtBVLrJU1Xpump,11-07 23:28,1,10.00,9.89,-1.1,1,trailing stop: -4.5% from the high (1.03x at best),CAUTION,11402,pumpswap,24038,5444,61,31,50,105267,-0.217,3,jupiter
+ladderB,SEC,4r46VC1qufcgviDDjJgRenNWVhjkez4yJ1ySEDhzpeGq,11-07 23:30,3,10.00,10.75,7.5,3,trailing stop: -8.2% from the high (1.17x at best),CAUTION,1240,pumpswap,9110,28236,273,305,213,17414,-55.125,1,jupiter
+ladder,SEC,4r46VC1qufcgviDDjJgRenNWVhjkez4yJ1ySEDhzpeGq,11-07 23:30,1,10.00,10.60,6.0,1,trailing stop: -6.0% from the high (1.14x at best),CAUTION,1240,pumpswap,9110,28236,273,305,213,17414,-55.125,1,jupiter
+ladderB,HEROES,GQC1jDjjscU81yTPr5KocKjuiKRNFMrZxjWRsqpHpump,11-07 23:30,1,10.00,9.64,-3.6,0,stop-loss: -3.0%,CAUTION,2951,pump-fun,2290,6544,62,64,53,2904,-44.882,2,jupiter
+ladder,HEROES,GQC1jDjjscU81yTPr5KocKjuiKRNFMrZxjWRsqpHpump,11-07 23:30,1,10.00,9.64,-3.6,0,stop-loss: -3.0%,CAUTION,2951,pump-fun,2290,6544,62,64,53,2904,-44.882,2,jupiter
+momo,TAOLF,4yX6ZycSQstwSYutKXa8ya5gbuLBAKo7p8jpmd7p2uSs,11-07 23:30,48,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,10710,meteora-damm-v2,15915,10912,61,30,54,8104,4.686,8,jupiter
+ladder,CLAUDIA,HMFrT2kiqWBGgiPWXqQuavi3Y7eezEySgwn1yDwfpump,11-07 23:33,0,10.00,10.07,0.7,1,trailing stop: -3.8% from the high (1.04x at best),CAUTION,17647,pumpswap,38201,249569,3334,1015,3068,230174,256.072,17,jupiter
+ladderB,CLAUDIA,HMFrT2kiqWBGgiPWXqQuavi3Y7eezEySgwn1yDwfpump,11-07 23:33,0,10.00,9.99,-0.1,0,break-even stop: 0.2% (1.04x at best),CAUTION,17647,pumpswap,38201,249569,3334,1015,3068,230174,256.072,17,jupiter
+ladder,APU,6nGocDUtGSJoSz1gUPgFGTpHtUSK3s7FN6zhB6AfLoat,11-07 23:49,0,10.00,9.45,-5.5,0,stop-loss: -5.2%,CAUTION,60902,raydium,102970,849246,6837,4830,2822,262344,96.403,18,jupiter
+ladderB,APU,6nGocDUtGSJoSz1gUPgFGTpHtUSK3s7FN6zhB6AfLoat,11-07 23:49,0,10.00,9.45,-5.5,0,stop-loss: -5.2%,CAUTION,60902,raydium,102970,849246,6837,4830,2822,262344,96.403,18,jupiter
+ladderB,invest,5shzBFRCpn5H8fJcWyCpd1s7avjgY1gMbPBU6nFvukij,11-07 23:52,0,10.00,9.20,-8.0,0,stop-loss: -7.7%,CAUTION,38400,raydium,71635,9782,88,71,66,145306,10.711,1,jupiter
+ladder,invest,5shzBFRCpn5H8fJcWyCpd1s7avjgY1gMbPBU6nFvukij,11-07 23:52,0,10.00,9.20,-8.0,0,stop-loss: -7.7%,CAUTION,38400,raydium,71635,9782,88,71,66,145306,10.711,1,jupiter
+ladder,MAGGIE,8R8ssruDpjcMNrsGUxhkNyYCUvAk84W1oQEGeKDsjKzL,11-08 00:00,0,10.00,9.16,-8.4,0,stop-loss: -7.4%,CAUTION,1228,raydium-launchlab,22231,12314,69,65,47,21323,-0.881,5,jupiter
+ladderB,MAGGIE,8R8ssruDpjcMNrsGUxhkNyYCUvAk84W1oQEGeKDsjKzL,11-08 00:00,0,10.00,9.16,-8.4,0,stop-loss: -7.4%,CAUTION,1228,raydium-launchlab,22231,12314,69,65,47,21323,-0.881,5,jupiter
+ladder,Pepetide,22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp,11-08 00:01,1,10.00,14.45,44.5,1,trailing stop: -1.8% from the high (1.53x at best),CAUTION,14511,raydium-launchlab,79154,25160,230,78,156,98553,267.925,3,jupiter
+ladderB,Pepetide,22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp,11-08 00:01,2,10.00,13.34,33.4,4,trailing stop: -10.9% from the high (1.53x at best),CAUTION,14511,raydium-launchlab,79154,25160,230,78,156,98553,267.925,3,jupiter
+fast,Pepetide,22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp,11-08 00:01,0,75.70,93.48,23.5,0,take profit: +24.3%,,,raydium-launchlab,79154,25160,230,78,156,98553,267.925,3,jupiter
+ladder,WASTED,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,11-08 00:03,14,10.00,10.25,2.5,1,trailing stop: -1.1% from the high (1.04x at best),CAUTION,62139,pumpswap,87327,19195,144,125,74,798852,5.891,11874,jupiter
+ladderB,WASTED,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,11-08 00:03,1,10.00,9.92,-0.8,0,break-even stop: -0.5% (1.01x at best),CAUTION,62139,pumpswap,87327,19195,144,125,74,798852,5.891,11874,jupiter
+ladderB,MEME,57jTJqQe4sMkdfyRrcsrUXZe84eV8nRnFDTfueq3pump,11-08 00:06,0,10.00,9.94,-0.6,0,break-even stop: -0.2% (1.04x at best),CAUTION,15401,pump-fun,7222,44007,814,682,258,23759,94.602,90,jupiter
+ladder,higher,6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ,11-08 00:06,6,10.00,10.20,2.0,1,trailing stop: -1.1% from the high (1.03x at best),CAUTION,10732,raydium,20407,35541,226,166,112,51957,-21.963,5077,jupiter
+ladderB,higher,6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ,11-08 00:06,10,10.00,9.99,-0.1,0,break-even stop: 0.3% (1.04x at best),CAUTION,10732,raydium,20407,35541,226,166,112,51957,-21.963,5077,jupiter
+ladder,MEME,57jTJqQe4sMkdfyRrcsrUXZe84eV8nRnFDTfueq3pump,11-08 00:06,0,10.00,10.03,0.3,1,trailing stop: -4.0% from the high (1.04x at best),CAUTION,15401,pump-fun,7222,44007,814,682,258,23759,94.602,90,jupiter
+ladder,PTN,PTNzAfFAB4LvoUQEUUGrFMyUoRLExMYjH6CcfyQfsVP,11-08 00:10,0,10.00,9.62,-3.8,1,trailing stop: -8.9% from the high (1.04x at best),CAUTION,158189,raydium-clmm,70149,181934,1569,1316,945,239384,229.404,77849,jupiter
+ladderB,PTN,PTNzAfFAB4LvoUQEUUGrFMyUoRLExMYjH6CcfyQfsVP,11-08 00:10,0,10.00,9.44,-5.6,0,break-even stop: -5.4% (1.04x at best),CAUTION,158189,raydium-clmm,70149,181934,1569,1316,945,239384,229.404,77849,jupiter
+ladder,duck,JDKPjvyXbzaz6ZCWzqnpzufSozoMn47tdSSbtnVwupS2,11-08 00:20,0,10.00,10.26,2.6,1,trailing stop: -3.3% from the high (1.06x at best),CAUTION,5665,raydium-launchlab,11137,26246,94,110,69,19198,85.455,2,jupiter
+ladder,HyperX,Bb7666VPkGcjQkVUsSsiWTrTVssZiDJ3Kv3sVLzLpump,11-08 00:20,0,10.00,9.64,-3.6,0,stop-loss: -3.2%,CAUTION,4695,pump-fun,4451,8866,34,23,33,6147,39.177,1,jupiter
+ladderB,duck,JDKPjvyXbzaz6ZCWzqnpzufSozoMn47tdSSbtnVwupS2,11-08 00:20,1,10.00,8.03,-19.7,2,trailing stop: -30.3% from the high (1.11x at best),CAUTION,5665,raydium-launchlab,11137,26246,94,110,69,19198,85.455,2,jupiter
+ladderB,HyperX,Bb7666VPkGcjQkVUsSsiWTrTVssZiDJ3Kv3sVLzLpump,11-08 00:20,0,10.00,9.64,-3.6,0,stop-loss: -3.2%,CAUTION,4695,pump-fun,4451,8866,34,23,33,6147,39.177,1,jupiter
+momo,CATE,DZAJKvwz1w9BRhqAsCxkNZ24G5Rd3ffnfCi3McUqpump,11-08 00:25,13,10.00,5.61,-43.9,0,stop-loss: -42.5%,WAIT-5 passed: held, near its high, traded every minute,13115,pumpswap,25327,5657,64,33,59,112641,3.625,7,jupiter
+ladderB,SPCXx,Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8,11-08 00:30,1,10.00,9.92,-0.8,0,break-even stop: -0.6% (1.01x at best),CAUTION,1514457,raydium-clmm,921959,21497,164,65,117,76571703,0.129,213625,jupiter
+ladderB,FHI,DqsCCgbn9Z7GyvLyrhVPJ24mBR6AZVVkLFJZ1LFbPHta,11-08 00:40,2,10.00,13.81,38.1,4,trailing stop: -10.7% from the high (1.61x at best),CAUTION,5006,raydium-launchlab,20671,21105,143,119,75,20717,3.621,2,jupiter
+ladder,FHI,DqsCCgbn9Z7GyvLyrhVPJ24mBR6AZVVkLFJZ1LFbPHta,11-08 00:40,0,10.00,10.08,0.8,1,trailing stop: -2.3% from the high (1.03x at best),CAUTION,5006,raydium-launchlab,20671,21105,143,119,75,20717,3.621,2,jupiter
+ladder,PUMPCAT,5viawwy4C9nWAMHjnrUyVwPa3yBMG7xcvRh1Xn5gpump,11-08 00:40,0,10.00,11.01,10.1,1,trailing stop: -0.9% from the high (1.11x at best),CAUTION,4954,pump-fun,6230,15941,119,113,93,10142,173.929,1,jupiter
+ladderB,PUMPCAT,5viawwy4C9nWAMHjnrUyVwPa3yBMG7xcvRh1Xn5gpump,11-08 00:40,1,10.00,9.25,-7.5,2,trailing stop: -18.4% from the high (1.11x at best),CAUTION,4954,pump-fun,6230,15941,119,113,93,10142,173.929,1,jupiter
+ladderB,TAOLF,HHgNzGNwvS4MPWqDXp2zkwLEpsxASiWZGtW3MYbV1NhF,11-08 00:48,0,10.00,9.33,-6.7,0,stop-loss: -6.4%,CAUTION,13490,raydium-launchlab,39140,22631,182,57,103,41402,128.603,1,jupiter
+ladder,TAOLF,HHgNzGNwvS4MPWqDXp2zkwLEpsxASiWZGtW3MYbV1NhF,11-08 00:48,0,10.00,9.33,-6.7,0,stop-loss: -6.4%,CAUTION,13490,raydium-launchlab,39140,22631,182,57,103,41402,128.603,1,jupiter
+ladder,MPLX,METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m,11-08 01:01,457,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,2790390,raydium-clmm,2617313,143855,346,541,140,75985043,-1.866,551735,jupiter
+ladderB,MPLX,METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m,11-08 01:01,457,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,2790390,raydium-clmm,2617313,143855,346,541,140,75985043,-1.866,551735,jupiter
+ladderB,NEIL,cvkarf1CtN3tbLRk961vsaEf4T8QbnihDkCHa93pump,11-08 01:02,4,10.00,9.97,-0.3,0,break-even stop: 0.1% (1.01x at best),CAUTION,11516,pumpswap,22477,107414,1186,1113,361,36066,41.707,191652,jupiter
+ladder,ORBIT,DSAKMZsWvRQL3c4RwhXpicbbygAJXiHz8PMCfoTUpump,11-08 01:02,0,10.00,9.63,-3.7,0,stop-loss: -3.4%,CAUTION,21680,pumpswap,44823,471336,2421,1402,1128,313840,433.572,37,jupiter
+ladder,NEIL,cvkarf1CtN3tbLRk961vsaEf4T8QbnihDkCHa93pump,11-08 01:02,13,10.00,10.14,1.4,1,trailing stop: -1.1% from the high (1.03x at best),CAUTION,11516,pumpswap,22477,107414,1186,1113,361,36066,41.707,191652,jupiter
+ladderB,ORBIT,DSAKMZsWvRQL3c4RwhXpicbbygAJXiHz8PMCfoTUpump,11-08 01:02,0,10.00,9.63,-3.7,0,stop-loss: -3.4%,CAUTION,21680,pumpswap,44823,471336,2421,1402,1128,313840,433.572,37,jupiter
+ladder,$WIF,EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm,11-08 01:10,1243,10.00,9.68,-3.2,0,stop-loss: -2.9%,CAUTION,5056420,raydium,4792346,5002,4,10,2,161350814,-0.615,1559820,jupiter
+ladder,DIESEL,HXCe27Wqo2DLTNQE91PHdBXPfcMFLcSdbKkXNeQhpump,11-08 01:10,0,10.00,12.93,29.3,1,trailing stop: -11.1% from the high (1.42x at best),CAUTION,7244,pumpswap,14481,6400,67,44,59,47005,22.624,1,jupiter
+ladderB,$WIF,EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm,11-08 01:10,1243,10.00,9.68,-3.2,0,stop-loss: -2.9%,CAUTION,5056420,raydium,4792346,5002,4,10,2,161350814,-0.615,1559820,jupiter
+ladderB,DIESEL,HXCe27Wqo2DLTNQE91PHdBXPfcMFLcSdbKkXNeQhpump,11-08 01:10,0,10.00,12.93,29.3,4,trailing stop: -11.1% from the high (1.42x at best),CAUTION,7244,pumpswap,14481,6400,67,44,59,47005,22.624,1,jupiter
+ladderB,TripleT,J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump,11-08 01:19,3,10.00,10.01,0.1,0,break-even stop: 0.3% (1.01x at best),CAUTION,295902,pumpswap,408577,121786,1787,310,807,3679055,6.749,369635,jupiter
+ladder,TripleT,J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump,11-08 01:19,4,10.00,10.36,3.6,1,trailing stop: -3.0% from the high (1.07x at best),CAUTION,295902,pumpswap,408577,121786,1787,310,807,3679055,6.749,369635,jupiter
+ladder,FLOAT,4QmzE5EiVqGmy6UYA6gv7cQFKqZvhT8rHkbqYt5vpump,11-08 01:43,0,10.00,9.70,-3.0,0,stop-loss: -2.8%,CAUTION,19726,pumpswap,40628,35920,373,62,363,288705,35.435,3,jupiter
+ladderB,FLOAT,4QmzE5EiVqGmy6UYA6gv7cQFKqZvhT8rHkbqYt5vpump,11-08 01:43,0,10.00,9.70,-3.0,0,stop-loss: -2.8%,CAUTION,19726,pumpswap,40628,35920,373,62,363,288705,35.435,3,jupiter
+ladder,STATUE,HJpuqAYiktfZz6NGu5qB9h59GJQbi2iaYNLXEg5Epump,11-08 01:48,0,10.00,12.57,25.7,1,trailing stop: -7.6% from the high (1.34x at best),CAUTION,17052,pumpswap,15432,62556,523,364,348,45945,24.806,2,jupiter
+ladderB,STATUE,HJpuqAYiktfZz6NGu5qB9h59GJQbi2iaYNLXEg5Epump,11-08 01:48,0,10.00,12.57,25.7,4,trailing stop: -7.6% from the high (1.34x at best),CAUTION,17052,pumpswap,15432,62556,523,364,348,45945,24.806,2,jupiter
+fast,STATUE,HJpuqAYiktfZz6NGu5qB9h59GJQbi2iaYNLXEg5Epump,11-08 01:48,0,77.12,102.36,32.7,0,take profit: +33.7%,,,pumpswap,15432,62556,523,364,348,45945,24.806,2,jupiter
+ladderB,SINK,984e63aof7rNPgWif3qYT4Jaj8F23EQGrEGqW63Qpump,11-08 01:49,1,10.00,9.74,-2.6,1,trailing stop: -7.4% from the high (1.05x at best),CAUTION,11437,pumpswap,19282,2843,21,2,19,70933,67.713,2,jupiter
+ladder,SINK,984e63aof7rNPgWif3qYT4Jaj8F23EQGrEGqW63Qpump,11-08 01:49,1,10.00,10.38,3.8,1,trailing stop: -0.6% from the high (1.05x at best),CAUTION,11437,pumpswap,19282,2843,21,2,19,70933,67.713,2,jupiter
+ladderB,EVE,HGE5K8mQtD7zYGfTCimkPRQ7HLKuefS26Z58XNxzuWuf,11-08 01:56,0,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,37244,raydium,37028,433632,5800,4739,2065,179922,506.202,37,jupiter
+ladder,EVE,HGE5K8mQtD7zYGfTCimkPRQ7HLKuefS26Z58XNxzuWuf,11-08 01:56,0,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,37244,raydium,37028,433632,5800,4739,2065,179922,506.202,37,jupiter
+ladderB,NETWORK,8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump,11-08 02:01,1,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.01x at best),CAUTION,22186,pumpswap,45273,8620,1521,610,822,262229,-4.52,20413,jupiter
+ladder,NETWORK,8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump,11-08 02:01,25,10.00,9.70,-3.0,0,stop-loss: -2.7%,CAUTION,22186,pumpswap,45273,8620,1521,610,822,262229,-4.52,20413,jupiter
+ladderB,FLOATCAT,6su7bnRHedae92kCE98uyuN7nqYHdCkMK6G9Z3uhpump,11-08 02:20,0,10.00,9.61,-3.9,0,stop-loss: -3.6%,CAUTION,16743,pumpswap,33064,225641,3753,900,3455,189701,375.976,16,jupiter
+ladder,FLOATCAT,6su7bnRHedae92kCE98uyuN7nqYHdCkMK6G9Z3uhpump,11-08 02:20,0,10.00,9.61,-3.9,0,stop-loss: -3.6%,CAUTION,16743,pumpswap,33064,225641,3753,900,3455,189701,375.976,16,jupiter
+ladderB,TAOLF,2nUQnyfwhVE4cTJGfcH2bqp7JG24Fo4zzjQ61BZevwuE,11-08 02:21,0,10.00,9.18,-8.2,0,stop-loss: -8.0%,CAUTION,22418,raydium-launchlab,32169,33638,251,107,139,46661,157.623,3,jupiter
+ladder,TAOLF,2nUQnyfwhVE4cTJGfcH2bqp7JG24Fo4zzjQ61BZevwuE,11-08 02:21,0,10.00,9.18,-8.2,0,stop-loss: -8.0%,CAUTION,22418,raydium-launchlab,32169,33638,251,107,139,46661,157.623,3,jupiter
+ladder,HEREWEGO,483nprwoMSoGQgrojSHWiePMbKPre7ZRDy4f8YNSpump,11-08 02:34,2,10.00,9.68,-3.2,0,stop-loss: -2.9%,CAUTION,36731,pumpswap,74240,1041278,4148,2225,739,854113,1217.867,51,jupiter
+ladderB,HEREWEGO,483nprwoMSoGQgrojSHWiePMbKPre7ZRDy4f8YNSpump,11-08 02:34,2,10.00,9.68,-3.2,0,stop-loss: -2.9%,CAUTION,36731,pumpswap,74240,1041278,4148,2225,739,854113,1217.867,51,jupiter
+fast,HEREWEGO,483nprwoMSoGQgrojSHWiePMbKPre7ZRDy4f8YNSpump,11-08 02:34,3,79.14,72.85,-7.9,0,stop-loss: -7.5%,,,pumpswap,74240,1041278,4148,2225,739,854113,1217.867,51,jupiter
+ladderB,HABIBI,GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump,11-08 03:02,0,10.00,8.88,-11.2,0,stop-loss: -10.9%,CAUTION,13960,pumpswap,29908,198022,3625,712,3045,153512,9.31,41,jupiter
+ladder,HABIBI,GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump,11-08 03:02,0,10.00,8.88,-11.2,0,stop-loss: -10.9%,CAUTION,13960,pumpswap,29908,198022,3625,712,3045,153512,9.31,41,jupiter
+fast,HABIBI,GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump,11-08 03:02,0,78.64,69.14,-12.1,0,stop-loss: -11.3%,,,pumpswap,29908,198022,3625,712,3045,153512,9.31,41,jupiter
+ladderB,ELELON,F5YWW6uQgK99NG2sHAsxXRALdGJPM6Rk4ZrSoBMh7Ph5,11-08 03:12,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,16280,meteora-damm-v2,28375,9125,98,49,98,14980,15.771,2,jupiter
+ladder,ELELON,F5YWW6uQgK99NG2sHAsxXRALdGJPM6Rk4ZrSoBMh7Ph5,11-08 03:12,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,16280,meteora-damm-v2,28375,9125,98,49,98,14980,15.771,2,jupiter
+ladder,chud,7xWZSw8KfLbPRiLiyPPMNboCq81j3oc53DpAYiXfLoat,11-08 03:23,1,10.00,8.77,-12.3,0,stop-loss: -12.0%,CAUTION,13776,raydium-launchlab,34889,13875,101,17,68,39944,122.625,3,jupiter
+ladderB,chud,7xWZSw8KfLbPRiLiyPPMNboCq81j3oc53DpAYiXfLoat,11-08 03:23,1,10.00,8.77,-12.3,0,stop-loss: -12.0%,CAUTION,13776,raydium-launchlab,34889,13875,101,17,68,39944,122.625,3,jupiter
+ladder,HABIBI,AirpGszwPz2uL9fenqdjEsewVsYdXGEELvB1prBMpump,11-08 03:33,0,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,11436,pumpswap,20316,5394,59,16,54,75446,6.832,3,jupiter
+ladderB,HABIBI,AirpGszwPz2uL9fenqdjEsewVsYdXGEELvB1prBMpump,11-08 03:33,0,10.00,9.58,-4.2,0,stop-loss: -3.9%,CAUTION,11436,pumpswap,20316,5394,59,16,54,75446,6.832,3,jupiter
+ladderB,SATORI,Aftctsx6X1sDDnRtDtXChSYPWDuvDooP6iMFEaqTpump,11-08 03:55,2,10.00,10.31,3.1,3,trailing stop: -15.8% from the high (1.20x at best),CAUTION,10099,pump-fun,6143,13425,167,87,123,11635,107.858,3,jupiter
+ladder,SATORI,Aftctsx6X1sDDnRtDtXChSYPWDuvDooP6iMFEaqTpump,11-08 03:55,1,10.00,11.64,16.4,1,trailing stop: -2.8% from the high (1.20x at best),CAUTION,10099,pump-fun,6143,13425,167,87,123,11635,107.858,3,jupiter
+ladderB,SATORI,2DiNujnUkT311szhNaSRkjYb8pNmAaChEzvFhHPg5r1d,11-08 03:57,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,17765,meteora-damm-v2,28586,13704,222,100,171,16911,37.398,2,jupiter
+ladder,SATORI,2DiNujnUkT311szhNaSRkjYb8pNmAaChEzvFhHPg5r1d,11-08 03:57,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,17765,meteora-damm-v2,28586,13704,222,100,171,16911,37.398,2,jupiter
+ladder,SPX,J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr,11-08 04:04,1064,10.00,9.70,-3.0,0,stop-loss: -2.8%,SAFE,2593003,orca,133949,40220,347,235,104,29452160,0.161,1047453,jupiter
+ladderB,SPX,J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr,11-08 04:04,689,10.00,10.01,0.1,0,break-even stop: 0.4% (1.01x at best),SAFE,2593003,orca,133949,40220,347,235,104,29452160,0.161,1047453,jupiter
+ladderB,EXFIL,6FhVPctYg363pQbs4iSvqyHe2cJzfsvFD96gePy6pump,11-08 04:09,19,10.00,9.45,-5.5,0,stop-loss: -5.2%,SAFE,142110,pumpswap,179318,5022,13,23,8,3446736,-6.774,51542,jupiter
+ladder,EXFIL,6FhVPctYg363pQbs4iSvqyHe2cJzfsvFD96gePy6pump,11-08 04:09,19,10.00,9.45,-5.5,0,stop-loss: -5.2%,SAFE,142110,pumpswap,179318,5022,13,23,8,3446736,-6.774,51542,jupiter
+ladder,aura,DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2,11-08 04:09,474,10.00,10.17,1.7,1,trailing stop: -1.2% from the high (1.03x at best),CAUTION,568434,raydium,1103316,8932,12,26,7,5912842,2.287,1283528,jupiter
+ladderB,aura,DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2,11-08 04:09,590,10.00,10.00,0.0,0,break-even stop: 0.3% (1.03x at best),CAUTION,568434,raydium,1103316,8932,12,26,7,5912842,2.287,1283528,jupiter
+ladderB,onkey,Esa4Frf4yxhyG5CR3gyvY9qCXz2tF2itPpT4nhLWpump,11-08 04:21,2,10.00,13.07,30.7,4,trailing stop: -13.0% from the high (1.54x at best),CAUTION,16802,pumpswap,13600,5136,98,50,90,36665,4.818,2,jupiter
+ladder,onkey,Esa4Frf4yxhyG5CR3gyvY9qCXz2tF2itPpT4nhLWpump,11-08 04:21,1,10.00,11.68,16.8,1,trailing stop: -1.0% from the high (1.18x at best),CAUTION,16802,pumpswap,13600,5136,98,50,90,36665,4.818,2,jupiter
+ladderB,same,AbQWsisToRWc7djvnXFWs6DcNGskgaJgMTNS8S3bpump,11-08 04:40,0,10.00,9.56,-4.4,0,stop-loss: -3.9%,CAUTION,2802,pump-fun,2283,23320,210,194,137,2900,7.473,2,jupiter
+ladderB,Mеmе,Dyd962S2VrK9WZhhkNSpDVyZKixDMuANTeWMj6Z7pump,11-08 04:40,8,10.00,9.46,-5.4,0,stop-loss: -4.8%,CAUTION,2774,pump-fun,2060,5795,24,36,24,2597,-26.598,2,jupiter
+ladder,same,AbQWsisToRWc7djvnXFWs6DcNGskgaJgMTNS8S3bpump,11-08 04:40,0,10.00,9.56,-4.4,0,stop-loss: -3.9%,CAUTION,2802,pump-fun,2283,23320,210,194,137,2900,7.473,2,jupiter
+ladder,Mеmе,Dyd962S2VrK9WZhhkNSpDVyZKixDMuANTeWMj6Z7pump,11-08 04:40,8,10.00,9.46,-5.4,0,stop-loss: -4.8%,CAUTION,2774,pump-fun,2060,5795,24,36,24,2597,-26.598,2,jupiter
+ladder,EMBER,5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6,11-08 05:00,4,10.00,9.55,-4.5,0,stop-loss: -4.3%,CAUTION,90335,meteora-damm-v2,111509,7886,65,14,34,825464,-4.72,85355,jupiter
+ladderB,EMBER,5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6,11-08 05:00,4,10.00,9.55,-4.5,0,stop-loss: -4.3%,CAUTION,90335,meteora-damm-v2,111509,7886,65,14,34,825464,-4.72,85355,jupiter
+momo,DOOM,YuyzoFdFdNwsUKH7NmFsw6gi3rSKZQUCYkpYT7b7vRT,11-08 05:08,48,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,18991,pumpswap,37557,2155,113,19,111,18899,1.325,10,jupiter
+momo,Cоin,CYsn7RUF3jZWuz6VZEDVvfCevSyFuHMzsgSrgD8JYB2,11-08 05:15,56,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,80213,pumpswap,156663,2442366,3692,2227,1336,107957,101.2,35,jupiter
+momo,Memecoin,E9nQi51qC21vQJwwZDgQdBY7QJEvxWxdRCrnZdffAqPE,11-08 05:19,17,10.00,5.40,-46.0,0,stop-loss: -44.7%,WAIT-5 passed: held, near its high, traded every minute,20731,meteora-damm-v2,24487,52269,226,139,192,16306,56.26,9,jupiter
+ladder,APU,5cxhUCLS72AthmgeL2oLnLFk7KNiyTvt2q8voZKgpump,11-08 05:22,1,10.00,9.25,-7.5,1,trailing stop: -13.6% from the high (1.04x at best),CAUTION,10606,pumpswap,22883,6261,53,23,50,95866,51.92,1,jupiter
+ladderB,APU,5cxhUCLS72AthmgeL2oLnLFk7KNiyTvt2q8voZKgpump,11-08 05:22,1,10.00,8.97,-10.3,0,break-even stop: -10.0% (1.04x at best),CAUTION,10606,pumpswap,22883,6261,53,23,50,95866,51.92,1,jupiter
+ladder,Catlas,G9XNBQqcKALKKZ3tnkJcm9FtymYEe9EhDL5xWZPwyfvp,11-08 05:31,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,11653,meteora-damm-v2,18708,31963,208,77,193,10443,37.735,3,jupiter
+ladderB,Catlas,G9XNBQqcKALKKZ3tnkJcm9FtymYEe9EhDL5xWZPwyfvp,11-08 05:31,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,11653,meteora-damm-v2,18708,31963,208,77,193,10443,37.735,3,jupiter
+ladderB,Respect,HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump,11-08 05:47,1,10.00,9.93,-0.7,0,break-even stop: -0.4% (1.01x at best),CAUTION,28611,pumpswap,59621,97985,1617,582,1516,552555,22.308,305,jupiter
+ladder,Respect,HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump,11-08 05:47,2,10.00,9.70,-3.0,0,stop-loss: -2.7%,CAUTION,28611,pumpswap,59621,97985,1617,582,1516,552555,22.308,305,jupiter
+momo,冯建明走好,7a4ESKUgV1eCpBHHXcAxXDgqc84fxpWaFKCQADEXtz1Z,11-08 05:47,60,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,20760,pumpswap,40490,1816,88,17,87,20501,1.798,9,jupiter
+ladder,MarsCoin,5EHwnsjit3pqV2ggGmgDtTLbyt39xrTV43szVZAcpump,11-08 05:50,0,10.00,12.69,26.9,1,liquidity pulled: down 23% since the buy; 26.0%,CAUTION,8111,pump-fun,5408,8819,78,42,48,11304,113.84,1,jupiter
+ladderB,MarsCoin,5EHwnsjit3pqV2ggGmgDtTLbyt39xrTV43szVZAcpump,11-08 05:50,0,10.00,12.69,26.9,4,liquidity pulled: down 23% since the buy; 26.0%,CAUTION,8111,pump-fun,5408,8819,78,42,48,11304,113.84,1,jupiter
+ladderB,MarsCoin,i8FknhhqNe4C9pvVncVCzRGtD4bniW5uad8MnW9pump,11-08 05:50,9,10.00,9.60,-4.0,0,stop-loss: -3.5%,CAUTION,2725,pump-fun,3361,6317,40,65,18,2661,-52.224,1,jupiter
+ladder,MarsCoin,i8FknhhqNe4C9pvVncVCzRGtD4bniW5uad8MnW9pump,11-08 05:50,9,10.00,9.60,-4.0,0,stop-loss: -3.5%,CAUTION,2725,pump-fun,3361,6317,40,65,18,2661,-52.224,1,jupiter
+momo,invest,2iRE7fvk3xgYFRxUgefsUrctCtkfxoE4FQBV8898uZzL,11-08 05:54,48,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,9094,pumpswap,16109,10465,113,84,97,8768,19.576,10,jupiter
+ladderB,MARSCOIN,Foqp4Br7i3WMwzWbE2marKauJh5zmtdXjJStVJKxpump,11-08 06:00,1,10.00,9.52,-4.8,0,stop-loss: -4.2%,CAUTION,2789,pump-fun,3880,13978,81,173,55,5705,36.637,2,jupiter
+ladder,MARSCOIN,Foqp4Br7i3WMwzWbE2marKauJh5zmtdXjJStVJKxpump,11-08 06:00,1,10.00,9.52,-4.8,0,stop-loss: -4.2%,CAUTION,2789,pump-fun,3880,13978,81,173,55,5705,36.637,2,jupiter
+ladderB,gansem,Fwu1Fwpxi3zuk6BwYdJoD6HpjUkjjHgKJ5EPhbTopump,11-08 06:07,2,10.00,8.99,-10.1,1,trailing stop: -15.3% from the high (1.05x at best),CAUTION,18354,pumpswap,10483,21341,389,617,124,19681,-50.024,205,jupiter
+ladder,gansem,Fwu1Fwpxi3zuk6BwYdJoD6HpjUkjjHgKJ5EPhbTopump,11-08 06:07,2,10.00,9.23,-7.7,1,trailing stop: -15.3% from the high (1.05x at best),CAUTION,18354,pumpswap,10483,21341,389,617,124,19681,-50.024,205,jupiter
+ladderB,MARSCOIN,Eq41VSX9YWVYbhDELqCbChEt4W2yAhJHL97fz9SVpump,11-08 06:27,0,10.00,8.37,-16.3,0,stop-loss: -15.6%,CAUTION,2002,pumpswap,12533,24238,330,238,225,25972,-30.256,2,jupiter
+ladder,MARSCOIN,Eq41VSX9YWVYbhDELqCbChEt4W2yAhJHL97fz9SVpump,11-08 06:27,0,10.00,8.37,-16.3,0,stop-loss: -15.6%,CAUTION,2002,pumpswap,12533,24238,330,238,225,25972,-30.256,2,jupiter
+ladder,MI,3KsfG5vdeCQaSPbNCXTAQi5iVRUMLLnFwN7ZAA3Bpump,11-08 06:30,0,10.00,8.42,-15.8,0,stop-loss: -15.4%,CAUTION,4208,pump-fun,4011,11023,181,125,139,5995,53.046,3,jupiter
+ladderB,MI,3KsfG5vdeCQaSPbNCXTAQi5iVRUMLLnFwN7ZAA3Bpump,11-08 06:30,0,10.00,8.42,-15.8,0,stop-loss: -15.4%,CAUTION,4208,pump-fun,4011,11023,181,125,139,5995,53.046,3,jupiter
+ladderB,MI,EtsEvEnm4z7qAL3shJYgqyEzPXvcbJUnsZujpMYTpump,11-08 06:39,1,10.00,9.57,-4.3,0,break-even stop: -4.0% (1.03x at best),CAUTION,12320,pumpswap,20362,12607,136,58,112,79919,85.957,3,jupiter
+ladder,MI,EtsEvEnm4z7qAL3shJYgqyEzPXvcbJUnsZujpMYTpump,11-08 06:39,1,10.00,10.10,1.0,1,trailing stop: -2.4% from the high (1.03x at best),CAUTION,12320,pumpswap,20362,12607,136,58,112,79919,85.957,3,jupiter
+ladderB,FOMO,2e4SD6jAa5cRFWMnJ4zM2ishUnLg8vYYouLzLGGGpump,11-08 06:51,1,10.00,10.01,0.1,0,break-even stop: 0.4% (1.03x at best),CAUTION,10732,pumpswap,24009,6432,320,229,117,102316,-3.052,2,jupiter
+ladder,FOMO,2e4SD6jAa5cRFWMnJ4zM2ishUnLg8vYYouLzLGGGpump,11-08 06:51,1,10.00,10.11,1.1,1,trailing stop: -1.6% from the high (1.03x at best),CAUTION,10732,pumpswap,24009,6432,320,229,117,102316,-3.052,2,jupiter
+ladder,MI,J1c4tDDUziWwZQ4D8c6kxuAXHg5hcBX8GTNFUEaBpump,11-08 07:00,0,10.00,10.22,2.2,1,trailing stop: -2.3% from the high (1.04x at best),CAUTION,12132,pumpswap,19940,11372,126,50,101,71991,43.148,3,jupiter
+ladderB,MI,J1c4tDDUziWwZQ4D8c6kxuAXHg5hcBX8GTNFUEaBpump,11-08 07:00,1,10.00,9.99,-0.1,0,break-even stop: 0.2% (1.04x at best),CAUTION,12132,pumpswap,19940,11372,126,50,101,71991,43.148,3,jupiter
+ladder,MI,F7J8QZPphkp3TgMBtXoQz9viQKmAp3pFfujrFtJ7pump,11-08 07:04,1,10.00,9.87,-1.3,1,trailing stop: -4.8% from the high (1.03x at best),CAUTION,11739,pump-fun,9107,65497,1058,584,446,35397,573.591,18,jupiter
+ladderB,MI,F7J8QZPphkp3TgMBtXoQz9viQKmAp3pFfujrFtJ7pump,11-08 07:04,1,10.00,9.77,-2.3,0,break-even stop: -2.0% (1.03x at best),CAUTION,11739,pump-fun,9107,65497,1058,584,446,35397,573.591,18,jupiter
+ladder,TRAE,8sQBfMK7faQZMR22jHv6Ge5FrKP24M4YWwEQ6co4pump,11-08 07:20,1,10.00,9.57,-4.3,0,stop-loss: -3.7%,CAUTION,2808,pump-fun,2512,15177,168,180,126,3269,0.865,2,jupiter
+ladderB,TRAE,8sQBfMK7faQZMR22jHv6Ge5FrKP24M4YWwEQ6co4pump,11-08 07:20,1,10.00,9.57,-4.3,0,stop-loss: -3.7%,CAUTION,2808,pump-fun,2512,15177,168,180,126,3269,0.865,2,jupiter
+ladder,MAURY,9ZPXQzyr6tkiwHEKGKy47CQaDDoMbW53aJ4uzgyjpump,11-08 08:00,0,10.00,9.25,-7.5,0,stop-loss: -7.0%,CAUTION,3994,pump-fun,4477,8846,166,67,122,7412,116.33,2,jupiter
+ladderB,MAURY,9ZPXQzyr6tkiwHEKGKy47CQaDDoMbW53aJ4uzgyjpump,11-08 08:00,0,10.00,9.25,-7.5,0,stop-loss: -7.0%,CAUTION,3994,pump-fun,4477,8846,166,67,122,7412,116.33,2,jupiter
+ladderB,FWOG,A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump,11-08 08:07,832,10.00,9.56,-4.4,0,stop-loss: -4.2%,SAFE,626570,raydium,1241739,5073,2,23,2,3920423,0.644,1197033,jupiter
+ladder,FWOG,A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump,11-08 08:07,832,10.00,9.56,-4.4,0,stop-loss: -4.2%,SAFE,626570,raydium,1241739,5073,2,23,2,3920423,0.644,1197033,jupiter
+ladder,X TO🔥,F6gQKak5S3UXZ5Bcf8q5YPbHQHADb3HH9XbLCysLpump,11-08 08:07,238,10.00,10.53,5.3,1,trailing stop: -0.5% from the high (1.07x at best),CAUTION,319349,pumpswap,640462,7649,309,121,196,65279864,1.853,1138,jupiter
+ladder,Rabbits,2SZ1e3Vmpyh7oyJqir8vxHjFd9spYmUx7PKkpcEapump,11-08 08:45,0,10.00,6.37,-36.3,0,liquidity pulled: down 23% since the buy; -36.2%,CAUTION,87297,pump-fun,7668,11584,88,66,10,23885,363.577,2,jupiter
+ladderB,Rabbits,2SZ1e3Vmpyh7oyJqir8vxHjFd9spYmUx7PKkpcEapump,11-08 08:45,0,10.00,6.37,-36.3,0,liquidity pulled: down 23% since the buy; -36.2%,CAUTION,87297,pump-fun,7668,11584,88,66,10,23885,363.577,2,jupiter
+ladderB,Titcoin,9X3GyP7Y8Mdd6CXnuqaANFo6QVQp9n5bABTX2UKspump,11-08 08:52,2,10.00,12.13,21.3,4,trailing stop: -7.5% from the high (1.33x at best),CAUTION,10587,pump-fun,8328,28293,317,163,211,31057,180.658,2,jupiter
+ladder,Titcoin,9X3GyP7Y8Mdd6CXnuqaANFo6QVQp9n5bABTX2UKspump,11-08 08:52,1,10.00,11.61,16.1,1,trailing stop: -0.6% from the high (1.19x at best),CAUTION,10587,pump-fun,8328,28293,317,163,211,31057,180.658,2,jupiter
+ladder,FLOAT,JAtBDFs4u4PVnVF7Y4ZSsqAr42ny48ZsiVpV85yqpump,11-08 08:59,0,10.00,10.19,1.9,1,trailing stop: -1.5% from the high (1.03x at best),CAUTION,10370,pumpswap,21671,7665,285,187,115,85628,-18.601,4,jupiter
+ladderB,FLOAT,JAtBDFs4u4PVnVF7Y4ZSsqAr42ny48ZsiVpV85yqpump,11-08 08:59,28,10.00,6.48,-35.2,4,trailing stop: -72.3% from the high (1.91x at best),CAUTION,10370,pumpswap,21671,7665,285,187,115,85628,-18.601,4,jupiter
+ladderB,CALYPSO,nyNJvTX7tm83S4Jzf9LA6VDAddNSo264wY3ttJbpump,11-08 09:04,1,10.00,9.80,-2.0,0,break-even stop: -1.7% (1.01x at best),CAUTION,21117,pumpswap,43404,71014,575,586,429,299288,-30.545,1002,jupiter
+ladder,CALYPSO,nyNJvTX7tm83S4Jzf9LA6VDAddNSo264wY3ttJbpump,11-08 09:04,5,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,21117,pumpswap,43404,71014,575,586,429,299288,-30.545,1002,jupiter
+fast,CALYPSO,nyNJvTX7tm83S4Jzf9LA6VDAddNSo264wY3ttJbpump,11-08 09:04,6,77.88,72.74,-6.6,0,stop-loss: -6.0%,,,pumpswap,43404,71014,575,586,429,299288,-30.545,1002,jupiter
+ladderB,HELL,A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump,11-08 09:06,1,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.05x at best),CAUTION,78443,pumpswap,137575,5879,389,276,288,2792932,9.299,37203,jupiter
+ladder,HELL,A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump,11-08 09:06,1,10.00,10.04,0.4,1,trailing stop: -4.9% from the high (1.05x at best),CAUTION,78443,pumpswap,137575,5879,389,276,288,2792932,9.299,37203,jupiter
+ladderB,SIB,3HKKrXhDvGFWPdkALw3KofESZexsEx9opGtq37n9pump,11-08 09:13,10,10.00,9.81,-1.9,0,break-even stop: -1.6% (1.02x at best),CAUTION,22795,pumpswap,46470,5278,80,41,29,165459,9.888,42254,jupiter
+ladder,SIB,3HKKrXhDvGFWPdkALw3KofESZexsEx9opGtq37n9pump,11-08 09:13,11,10.00,9.58,-4.2,0,stop-loss: -4.0%,CAUTION,22795,pumpswap,46470,5278,80,41,29,165459,9.888,42254,jupiter
+ladderB,GTA 6 Coin,6PVUbGiQ3mN1eqL2YQ5CVUWnBGZ6TqZdUp6qm6Lspump,11-08 09:18,1,10.00,9.94,-0.6,0,break-even stop: -0.3% (1.01x at best),CAUTION,11600,pumpswap,24181,5293,7,0,6,106419,0.661,3,jupiter
+ladder,GTA 6 Coin,6PVUbGiQ3mN1eqL2YQ5CVUWnBGZ6TqZdUp6qm6Lspump,11-08 09:18,1,10.00,10.06,0.6,1,trailing stop: -1.7% from the high (1.02x at best),CAUTION,11600,pumpswap,24181,5293,7,0,6,106419,0.661,3,jupiter
+ladderB,Lemon,BaGo5HADK3Akd7Fs7XRt5YJcX2qSNBJcxAfvsrzb3d1p,11-08 09:20,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,7837,meteora-damm-v2,15511,33235,213,88,173,8703,23.853,2,jupiter
+ladder,Lemon,BaGo5HADK3Akd7Fs7XRt5YJcX2qSNBJcxAfvsrzb3d1p,11-08 09:20,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,7837,meteora-damm-v2,15511,33235,213,88,173,8703,23.853,2,jupiter
+ladderB,Buttcoin,Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump,11-08 09:24,53,10.00,9.69,-3.1,0,stop-loss: -2.9%,SAFE,353201,pumpswap,509902,4505,34,7,25,4787643,-1.783,436068,jupiter
+ladder,Buttcoin,Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump,11-08 09:24,53,10.00,9.69,-3.1,0,stop-loss: -2.9%,SAFE,353201,pumpswap,509902,4505,34,7,25,4787643,-1.783,436068,jupiter
+ladder,FOMO,E7xBVghmfnj2W2ogZVZVWepjfcnZg49zCtm3Tc9Xpump,11-08 09:50,0,10.00,9.62,-3.8,1,trailing stop: -26.2% from the high (1.22x at best),CAUTION,5035,pump-fun,5226,7154,64,49,50,8993,114.041,2,jupiter
+ladderB,FOMO,E7xBVghmfnj2W2ogZVZVWepjfcnZg49zCtm3Tc9Xpump,11-08 09:50,0,10.00,9.62,-3.8,4,trailing stop: -26.2% from the high (1.22x at best),CAUTION,5035,pump-fun,5226,7154,64,49,50,8993,114.041,2,jupiter
+ladder,FONMM,Anp2Ee6C1fFbR59ftVNsYJJNHj8WMGg7dqcjhNVMpump,11-08 09:50,3,10.00,8.82,-11.8,0,stop-loss: -11.2%,CAUTION,2833,pump-fun,2209,3825,38,42,29,2795,-21.224,2,jupiter
+ladderB,FONMM,Anp2Ee6C1fFbR59ftVNsYJJNHj8WMGg7dqcjhNVMpump,11-08 09:50,3,10.00,8.82,-11.8,0,stop-loss: -11.2%,CAUTION,2833,pump-fun,2209,3825,38,42,29,2795,-21.224,2,jupiter
+ladderB,犀望,HpfpdYh8kaDU5BJHyTgJqshoybhCiT7x8CqwKSikpump,11-08 10:33,0,10.00,9.97,-0.3,0,break-even stop: -0.0% (1.01x at best),CAUTION,15407,pumpswap,14243,5096,99,39,85,39727,17.173,2,jupiter
+ladder,犀望,HpfpdYh8kaDU5BJHyTgJqshoybhCiT7x8CqwKSikpump,11-08 10:33,1,10.00,11.59,15.9,1,trailing stop: -1.7% from the high (1.21x at best),CAUTION,15407,pumpswap,14243,5096,99,39,85,39727,17.173,2,jupiter
+ladder,MrBeast,4PMskrU8WrECpEohBdt94eV68RneJ6VcFj2ebo42pump,11-08 10:38,4,10.00,11.51,15.1,1,trailing stop: -1.2% from the high (1.20x at best),CAUTION,11088,pumpswap,23809,7048,683,526,128,,-4.158,2,jupiter
+ladderB,MrBeast,4PMskrU8WrECpEohBdt94eV68RneJ6VcFj2ebo42pump,11-08 10:38,29,10.00,2.39,-76.1,4,liquidity pulled: down 84% since the buy; -98.4%,CAUTION,11088,pumpswap,23809,7048,683,526,128,,-4.158,2,jupiter
+ladderB,APU Pe,SDoiSu2jgrCZAqPVBacB3gdiJB1z8iLjtuctdPEpump,11-08 10:42,59,10.00,15.76,57.6,4,trailing stop: -37.6% from the high (2.71x at best),CAUTION,12247,pumpswap,25218,5583,177,89,176,114171,81.838,3,jupiter
+ladder,APU Pe,SDoiSu2jgrCZAqPVBacB3gdiJB1z8iLjtuctdPEpump,11-08 10:42,2,10.00,10.82,8.2,1,trailing stop: -1.0% from the high (1.11x at best),CAUTION,12247,pumpswap,25218,5583,177,89,176,114171,81.838,3,jupiter
+momo,TERSO,CbsH3tmbpYaRTCPuvS6HgQPE7oyVENm31F3GsV3PRFZe,11-08 11:03,51,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,21809,pumpswap,43125,3514,181,29,179,21941,3.123,10,jupiter
+ladderB,GTA 6 Coin,AZSr1oW5SXo6Ah3qcaXccEwJ7rZV5B28WudmVD4Dpump,11-08 11:16,1,10.00,9.42,-5.8,0,stop-loss: -5.5%,CAUTION,12006,pumpswap,24797,7189,1132,946,121,110580,4.373,4,jupiter
+ladder,GTA 6 Coin,AZSr1oW5SXo6Ah3qcaXccEwJ7rZV5B28WudmVD4Dpump,11-08 11:16,1,10.00,9.42,-5.8,0,stop-loss: -5.5%,CAUTION,12006,pumpswap,24797,7189,1132,946,121,110580,4.373,4,jupiter
+ladderB,neet,Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump,11-08 11:17,105,10.00,10.01,0.1,0,break-even stop: 0.4% (1.03x at best),SAFE,1235970,pumpswap,1560681,21706,287,209,154,26606854,0.821,807019,jupiter
+ladder,neet,Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump,11-08 11:17,94,10.00,10.14,1.4,1,trailing stop: -1.0% from the high (1.03x at best),SAFE,1235970,pumpswap,1560681,21706,287,209,154,26606854,0.821,807019,jupiter
+ladderB,Dank,GpHqE5wExpBPTqd3guJu8AcVzdRjtiPcU7aGofADpump,11-08 11:30,0,10.00,9.96,-0.4,0,break-even stop: 0.1% (1.02x at best),CAUTION,5106,pump-fun,3346,4335,64,46,60,5397,94.966,2,jupiter
+ladder,Dank,GpHqE5wExpBPTqd3guJu8AcVzdRjtiPcU7aGofADpump,11-08 11:30,1,10.00,8.96,-10.4,1,trailing stop: -15.1% from the high (1.02x at best),CAUTION,5106,pump-fun,3346,4335,64,46,60,5397,94.966,2,jupiter
+ladderB,UNEMPLOYED,HJSJ7NUXYZ8es3UZ4w35XEsw7YRJLakKetBsz1WDpump,11-08 11:40,1,10.00,9.38,-6.2,0,break-even stop: -5.9% (1.05x at best),CAUTION,16722,pumpswap,15075,18869,323,211,241,42084,3.136,3,jupiter
+ladder,UNEMPLOYED,HJSJ7NUXYZ8es3UZ4w35XEsw7YRJLakKetBsz1WDpump,11-08 11:40,1,10.00,9.60,-4.0,1,trailing stop: -10.3% from the high (1.05x at best),CAUTION,16722,pumpswap,15075,18869,323,211,241,42084,3.136,3,jupiter
+ladder,N&amp;P,F97tviPFQz2RH91YFRQBg4xSUm22QvvtuSBdKfyppump,11-08 11:55,1,10.00,10.20,2.0,1,trailing stop: -1.4% from the high (1.04x at best),CAUTION,12176,pumpswap,14503,13470,204,107,173,39957,-1.678,3,jupiter
+ladderB,N&amp;P,F97tviPFQz2RH91YFRQBg4xSUm22QvvtuSBdKfyppump,11-08 11:55,2,10.00,11.22,12.2,4,trailing stop: -7.1% from the high (1.21x at best),CAUTION,12176,pumpswap,14503,13470,204,107,173,39957,-1.678,3,jupiter
+ladderB,SKR,SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3,11-08 12:02,275,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,542358,orca,574837,14640,132,93,84,134118794,0.791,420041,jupiter
+ladder,SKR,SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3,11-08 12:02,275,10.00,9.70,-3.0,0,stop-loss: -2.7%,SAFE,542358,orca,574837,14640,132,93,84,134118794,0.791,420041,jupiter
+ladder,PIRATE,6mXFCoZ515w37YfmwXGJMPfQfiK5tr9WkihW3oN9pump,11-08 12:05,17,10.00,10.15,1.5,1,trailing stop: -2.0% from the high (1.03x at best),CAUTION,27169,pumpswap,35963,15132,265,184,136,158327,-14.511,8325,jupiter
+ladderB,PIRATE,6mXFCoZ515w37YfmwXGJMPfQfiK5tr9WkihW3oN9pump,11-08 12:05,4,10.00,9.87,-1.3,0,break-even stop: -1.0% (1.01x at best),CAUTION,27169,pumpswap,35963,15132,265,184,136,158327,-14.511,8325,jupiter
+momo,CLAUDIA,7QuU2NLKLVojqfw15bQfPGyweeAmQVq3oyrQLZx6HvKJ,11-08 12:07,40,10.00,0.00,-100.0,0,no price for 30 min: written off,WAIT-5 passed: held, near its high, traded every minute,17218,meteora-damm-v2,18874,27051,143,57,117,10902,21.772,9,jupiter
+ladderB,Raydog,2jUMQiqY93dLTrHJ2S8SYWVAUuzLp3VPNSMdHTLWxBmB,11-08 12:30,5,10.00,13.41,34.1,4,trailing stop: -7.5% from the high (1.50x at best),CAUTION,6656,raydium-launchlab,31132,14327,110,51,78,32831,35.848,2,jupiter
+ladder,Raydog,2jUMQiqY93dLTrHJ2S8SYWVAUuzLp3VPNSMdHTLWxBmB,11-08 12:30,1,10.00,11.00,10.0,1,trailing stop: -2.1% from the high (1.14x at best),CAUTION,6656,raydium-launchlab,31132,14327,110,51,78,32831,35.848,2,jupiter
+ladder,APU,4r1X91JfPSadb72K7YBcXisUXcGR6b3N8R4gNDQxpump,11-08 12:40,2,10.00,8.82,-11.8,0,stop-loss: -11.2%,CAUTION,2841,pump-fun,2280,1120,5,9,5,2681,-5.253,3,jupiter
+ladderB,APU,4r1X91JfPSadb72K7YBcXisUXcGR6b3N8R4gNDQxpump,11-08 12:40,2,10.00,8.82,-11.8,0,stop-loss: -11.2%,CAUTION,2841,pump-fun,2280,1120,5,9,5,2681,-5.253,3,jupiter
+ladder,MELT,CxpB21sVZ7HJxTF42u5PGCsLanxhU8FjSon5YzHWR4yH,11-08 13:08,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,12051,meteora-damm-v2,20740,7857,54,21,51,10741,6.171,2,jupiter
+ladderB,MELT,CxpB21sVZ7HJxTF42u5PGCsLanxhU8FjSon5YzHWR4yH,11-08 13:08,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,12051,meteora-damm-v2,20740,7857,54,21,51,10741,6.171,2,jupiter
+ladderB,GTA6,GLScBBwnHmD2kZcz7H9bUC3pgKFQYeDniqiukAUCpump,11-08 13:38,1,10.00,9.63,-3.7,0,stop-loss: -3.3%,CAUTION,12269,pumpswap,25486,8307,644,496,131,,5.428,2,jupiter
+ladder,GTA6,GLScBBwnHmD2kZcz7H9bUC3pgKFQYeDniqiukAUCpump,11-08 13:38,1,10.00,9.63,-3.7,0,stop-loss: -3.3%,CAUTION,12269,pumpswap,25486,8307,644,496,131,,5.428,2,jupiter
+ladder,BLESSCOON,5RHu9PhZ5Yyv11N1aDVqpYhCp7znj1YTGAaHLMSNpump,11-08 13:40,0,10.00,11.70,17.0,1,trailing stop: -13.3% from the high (1.31x at best),CAUTION,6839,pump-fun,7111,18830,129,51,104,22831,517.925,2,jupiter
+ladderB,BLESSCOON,5RHu9PhZ5Yyv11N1aDVqpYhCp7znj1YTGAaHLMSNpump,11-08 13:40,0,10.00,11.70,17.0,4,trailing stop: -13.3% from the high (1.31x at best),CAUTION,6839,pump-fun,7111,18830,129,51,104,22831,517.925,2,jupiter
+copy,BLESSCOON,5RHu9PhZ5Yyv11N1aDVqpYhCp7znj1YTGAaHLMSNpump,11-08 13:40,1,10.00,1.72,-82.8,0,stop-loss: -82.4%,CAUTION,6839,pump-fun,7111,18830,129,51,104,22831,517.925,3,jupiter
+ladderB,MrBeast,4uWvng82hh2DxvvMtEPGBj1fpTUu7VtnVDm8kPA1pump,11-08 13:47,5,10.00,0.89,-91.1,1,liquidity pulled: down 86% since the buy; -96.2%,CAUTION,11577,pumpswap,23682,4709,33,2,30,99930,169.641,3,jupiter
+ladder,MrBeast,4uWvng82hh2DxvvMtEPGBj1fpTUu7VtnVDm8kPA1pump,11-08 13:47,5,10.00,2.44,-75.6,1,liquidity pulled: down 86% since the buy; -96.2%,CAUTION,11577,pumpswap,23682,4709,33,2,30,99930,169.641,3,jupiter
+copy,MrBeast,4uWvng82hh2DxvvMtEPGBj1fpTUu7VtnVDm8kPA1pump,11-08 13:47,5,10.00,0.37,-96.3,0,stop-loss: -96.2%,CAUTION,11577,pumpswap,23682,4709,33,2,30,99930,169.641,3,jupiter
+ladder,biketyson,CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump,11-08 13:58,30,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,32157,pumpswap,47839,7246,83,25,54,134878,-4.324,94902,jupiter
+ladderB,biketyson,CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump,11-08 13:58,23,10.00,9.83,-1.7,0,break-even stop: -1.4% (1.01x at best),CAUTION,32157,pumpswap,47839,7246,83,25,54,134878,-4.324,94902,jupiter
+ladderB,JLP,27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4,11-08 14:02,474,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,4758558,orca,1906942,37653,294,129,144,783090099,-0.055,1406109,jupiter
+ladder,JLP,27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4,11-08 14:02,474,10.00,9.71,-2.9,0,stop-loss: -2.7%,SAFE,4758558,orca,1906942,37653,294,129,144,783090099,-0.055,1406109,jupiter
+ladder,GTA 6 Coin,38kCw1Rt3p6NuPH4dcPeHvrdGsHBRzmbk25RyrXwpump,11-08 14:17,2,10.00,10.82,8.2,1,trailing stop: -1.1% from the high (1.11x at best),CAUTION,11469,pumpswap,23847,6877,460,316,123,103657,64.249,3,jupiter
+ladderB,GTA 6 Coin,38kCw1Rt3p6NuPH4dcPeHvrdGsHBRzmbk25RyrXwpump,11-08 14:17,0,10.00,9.99,-0.1,0,break-even stop: 0.2% (1.02x at best),CAUTION,11469,pumpswap,23847,6877,460,316,123,103657,64.249,3,jupiter
+ladderB,DESSA,npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump,11-08 14:43,2,10.00,9.71,-2.9,0,stop-loss: -2.7%,CAUTION,238411,pumpswap,480293,53132,345,253,325,25553441,-3.603,18818,jupiter
+ladder,DESSA,npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump,11-08 14:43,2,10.00,9.71,-2.9,0,stop-loss: -2.7%,CAUTION,238411,pumpswap,480293,53132,345,253,325,25553441,-3.603,18818,jupiter
+ladderB,YONGJA,8r1dELDh8c15fnNxqtAEpRnhK34fSRFWvcSSs98mpump,11-08 15:05,1,10.00,9.47,-5.3,0,stop-loss: -4.9%,CAUTION,14530,pumpswap,10905,84108,1645,1277,678,25137,-28.329,62,jupiter
+ladder,YONGJA,8r1dELDh8c15fnNxqtAEpRnhK34fSRFWvcSSs98mpump,11-08 15:05,1,10.00,9.47,-5.3,0,stop-loss: -4.9%,CAUTION,14530,pumpswap,10905,84108,1645,1277,678,25137,-28.329,62,jupiter
+ladderB,ELYSION,AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump,11-08 15:34,1,10.00,9.98,-0.2,0,break-even stop: 0.0% (1.01x at best),CAUTION,54859,pumpswap,107051,1219846,5703,2693,3045,1806530,3443.26,36,jupiter
+ladder,ELYSION,AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump,11-08 15:34,1,10.00,9.94,-0.6,1,trailing stop: -5.2% from the high (1.04x at best),CAUTION,54859,pumpswap,107051,1219846,5703,2693,3045,1806530,3443.26,36,jupiter
+fast,ELYSION,AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump,11-08 15:34,1,77.47,68.60,-11.4,0,stop-loss: -11.1%,,,pumpswap,107051,1219846,5703,2693,3045,1806530,3443.26,36,jupiter
+ladderB,FLOAT,3XHe4EvL4jf2bWQkePHUHDixLYLaFKkBaksukCPtpump,11-08 15:49,1,10.00,9.30,-7.0,1,trailing stop: -13.2% from the high (1.07x at best),CAUTION,11888,pumpswap,25079,5743,110,58,97,114429,81.671,1,jupiter
+ladder,FLOAT,3XHe4EvL4jf2bWQkePHUHDixLYLaFKkBaksukCPtpump,11-08 15:49,0,10.00,10.12,1.2,1,trailing stop: -3.2% from the high (1.04x at best),CAUTION,11888,pumpswap,25079,5743,110,58,97,114429,81.671,1,jupiter
+ladder,TAOLF,sfRryD94dVnvVjvhMp4FVoQAcx4rRq3JNboT1sAiMwu,11-08 15:58,1,10.00,17.96,79.6,1,trailing stop: -13.7% from the high (2.25x at best),CAUTION,20154,raydium-launchlab,46669,49176,320,200,227,56081,178.802,1,jupiter
+ladderB,TAOLF,sfRryD94dVnvVjvhMp4FVoQAcx4rRq3JNboT1sAiMwu,11-08 15:58,1,10.00,17.96,79.6,4,trailing stop: -13.7% from the high (2.25x at best),CAUTION,20154,raydium-launchlab,46669,49176,320,200,227,56081,178.802,1,jupiter
+ladder,CLAUDIA,7mAcg6duNYnfeP4pVie1JMvGsXF9FP6A3Aah47rcpump,11-08 16:02,1,10.00,9.26,-7.4,0,stop-loss: -7.1%,CAUTION,14667,pumpswap,27570,291070,14486,4226,5335,127193,119.909,54,jupiter
+ladderB,CLAUDIA,7mAcg6duNYnfeP4pVie1JMvGsXF9FP6A3Aah47rcpump,11-08 16:02,1,10.00,9.26,-7.4,0,stop-loss: -7.1%,CAUTION,14667,pumpswap,27570,291070,14486,4226,5335,127193,119.909,54,jupiter
+ladderB,Noiz,Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump,11-08 16:03,0,10.00,9.91,-0.9,1,trailing stop: -7.1% from the high (1.07x at best),CAUTION,21754,pumpswap,38953,248244,896,1847,370,294918,1049.081,81899,jupiter
+ladder,Noiz,Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump,11-08 16:03,0,10.00,10.03,0.3,1,trailing stop: -7.1% from the high (1.07x at best),CAUTION,21754,pumpswap,38953,248244,896,1847,370,294918,1049.081,81899,jupiter
+ladder,CREAM,HYSQ3jfTF3gW4WKkNh62cszwaKeThamQYQAhoEL3BAGS,11-08 16:06,8,10.00,10.26,2.6,1,trailing stop: -1.2% from the high (1.04x at best),CAUTION,8316,meteora-damm-v2,16253,13387,134,77,72,46047,31.203,548,jupiter
+ladderB,CREAM,HYSQ3jfTF3gW4WKkNh62cszwaKeThamQYQAhoEL3BAGS,11-08 16:06,8,10.00,9.96,-0.4,0,break-even stop: -0.1% (1.04x at best),CAUTION,8316,meteora-damm-v2,16253,13387,134,77,72,46047,31.203,548,jupiter
+ladderB,4CHAN,EvD4FWNgcrGwJz3B3B6kYNzt9RuA1VfbSDBECPXVVzsv,11-08 16:08,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13965,pumpswap,0,39610,204,87,162,133728,208.311,3,jupiter
+ladder,4CHAN,EvD4FWNgcrGwJz3B3B6kYNzt9RuA1VfbSDBECPXVVzsv,11-08 16:08,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13965,pumpswap,0,39610,204,87,162,133728,208.311,3,jupiter
+fast,4CHAN,EvD4FWNgcrGwJz3B3B6kYNzt9RuA1VfbSDBECPXVVzsv,11-08 16:08,37,76.76,0.00,-100.0,0,no price for 30 min: written off,,,pumpswap,0,39610,204,87,162,133728,208.311,3,jupiter
+ladderB,HNT,hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux,11-08 16:12,7,10.00,9.98,-0.2,0,break-even stop: 0.0% (1.01x at best),SAFE,214589,raydium,286601,159035,1231,1827,131,61441757,10.357,1866152,jupiter
+ladder,HNT,hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux,11-08 16:12,11,10.00,10.19,1.9,1,trailing stop: -1.1% from the high (1.03x at best),SAFE,214589,raydium,286601,159035,1231,1827,131,61441757,10.357,1866152,jupiter
+ladderB,TREASURY,5TaYzXZKP76cLsVedHbnYo4afkCLEikqxV3k2tzgtyyH,11-08 16:20,1,10.00,11.41,14.1,4,trailing stop: -10.4% from the high (1.25x at best),CAUTION,3539,pump-fun,3972,7120,76,48,59,5188,44.441,1,jupiter
+ladder,TA,gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump,11-08 16:20,0,10.00,8.05,-19.5,0,stop-loss: -19.2%,CAUTION,10910,pump-fun,6066,48819,735,530,475,10846,111.02,2,jupiter
+ladderB,TA,gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump,11-08 16:20,0,10.00,8.05,-19.5,0,stop-loss: -19.2%,CAUTION,10910,pump-fun,6066,48819,735,530,475,10846,111.02,2,jupiter
+ladder,TREASURY,5TaYzXZKP76cLsVedHbnYo4afkCLEikqxV3k2tzgtyyH,11-08 16:20,1,10.00,11.00,10.0,1,trailing stop: -10.4% from the high (1.25x at best),CAUTION,3539,pump-fun,3972,7120,76,48,59,5188,44.441,1,jupiter
+ladder,OpenAI,vBP2R2QxEHxr43fPGFakS97HrMNWuQ2g5nxyMW1pump,11-08 16:21,1,10.00,10.12,1.2,1,trailing stop: -3.3% from the high (1.05x at best),CAUTION,11822,pumpswap,25148,5801,112,63,95,107022,187.464,1,jupiter
+ladderB,OpenAI,vBP2R2QxEHxr43fPGFakS97HrMNWuQ2g5nxyMW1pump,11-08 16:21,2,10.00,10.19,1.9,1,trailing stop: -4.9% from the high (1.07x at best),CAUTION,11822,pumpswap,25148,5801,112,63,95,107022,187.464,1,jupiter
+ladderB,DEEP,84r8L5oBQvzq1YVVpgCmwppCvQE8i6z3UnH9XD9Dp5zn,11-08 16:30,0,10.00,9.42,-5.8,0,stop-loss: -5.5%,CAUTION,7043,raydium-launchlab,47757,37065,352,140,241,50495,57.976,2,jupiter
+ladder,DEEP,84r8L5oBQvzq1YVVpgCmwppCvQE8i6z3UnH9XD9Dp5zn,11-08 16:30,0,10.00,9.42,-5.8,0,stop-loss: -5.5%,CAUTION,7043,raydium-launchlab,47757,37065,352,140,241,50495,57.976,2,jupiter
+ladderB,RDDT,RDDTGbhHwVXfyCvQMXzzowKjf5qrYBZAnehoXW83ooh,11-08 17:01,394,10.00,9.86,-1.4,0,break-even stop: -1.1% (1.01x at best),CAUTION,111615,raydium-clmm,117558,247328,1860,1518,783,185317,-2.048,32745,jupiter
+ladder,BRUH,PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump,11-08 17:07,26,10.00,9.69,-3.1,0,stop-loss: -2.8%,CAUTION,47628,pumpswap,94342,7323,20,20,20,1338734,-2.453,2197,jupiter
+ladderB,BRUH,PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump,11-08 17:07,21,10.00,9.92,-0.8,0,break-even stop: -0.5% (1.01x at best),CAUTION,47628,pumpswap,94342,7323,20,20,20,1338734,-2.453,2197,jupiter
+ladder,GTA 6 Coin,8i5CdUmBN9UGs5yRWcTzcbgRWvkKKp4cFzjoohnjpump,11-08 17:19,1,10.00,10.18,1.8,1,trailing stop: -1.5% from the high (1.04x at best),CAUTION,11359,pumpswap,23887,5797,163,93,85,104468,66.134,2,jupiter
+ladderB,GTA 6 Coin,8i5CdUmBN9UGs5yRWcTzcbgRWvkKKp4cFzjoohnjpump,11-08 17:19,1,10.00,9.84,-1.6,0,break-even stop: -1.3% (1.04x at best),CAUTION,11359,pumpswap,23887,5797,163,93,85,104468,66.134,2,jupiter
+ladderB,scamoor,GtSzzXjUqJpooi1p9ji3iteYmfvYzPkqBXKG5avkpump,11-08 17:20,1,10.00,9.95,-0.5,1,trailing stop: -5.8% from the high (1.06x at best),CAUTION,4006,pump-fun,4215,25946,298,186,218,7000,-15.416,2,jupiter
+ladder,scamoor,GtSzzXjUqJpooi1p9ji3iteYmfvYzPkqBXKG5avkpump,11-08 17:20,1,10.00,10.27,2.7,1,trailing stop: -3.1% from the high (1.06x at best),CAUTION,4006,pump-fun,4215,25946,298,186,218,7000,-15.416,2,jupiter
+ladderB,scamoor,CQgfRjLpLKpeNMZnxVayzkXs65LqHQ1LM5jRnZjAMv8K,11-08 17:21,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13608,meteora-damm-v2,27001,10270,184,92,158,14911,21.194,2,jupiter
+ladder,scamoor,CQgfRjLpLKpeNMZnxVayzkXs65LqHQ1LM5jRnZjAMv8K,11-08 17:21,37,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13608,meteora-damm-v2,27001,10270,184,92,158,14911,21.194,2,jupiter
+ladderB,Scamgoor,3RfKpgSY7v6itR7WS8f9YTRpmz7pMRBhm9BYd1PGpump,11-08 17:37,1,10.00,11.61,16.1,2,liquidity pulled: down 36% since the buy; 16.7%,CAUTION,11630,pump-fun,7255,7428,82,36,72,,193.861,2,jupiter
+ladder,Scamgoor,3RfKpgSY7v6itR7WS8f9YTRpmz7pMRBhm9BYd1PGpump,11-08 17:37,1,10.00,11.34,13.4,1,liquidity pulled: down 36% since the buy; 16.7%,CAUTION,11630,pump-fun,7255,7428,82,36,72,,193.861,2,jupiter
+ladderB,RTM,7FT1mjVAQamiQ8JLXFNtrpMRVaDRPiFk6EyH2aVnpump,11-08 18:10,0,10.00,7.78,-22.2,0,stop-loss: -21.7%,CAUTION,3098,pump-fun,5093,6429,48,17,44,9890,41.026,3,jupiter
+ladder,RTM,7FT1mjVAQamiQ8JLXFNtrpMRVaDRPiFk6EyH2aVnpump,11-08 18:10,0,10.00,7.78,-22.2,0,stop-loss: -21.7%,CAUTION,3098,pump-fun,5093,6429,48,17,44,9890,41.026,3,jupiter
+ladder,MEME,DSEKbLUQxk5E14HySkyBApcFZTmnxeCZMxyzKgFM8XJp,11-08 18:10,0,10.00,9.14,-8.6,0,stop-loss: -4.3%,CAUTION,235,raydium-launchlab,25798,6165,51,11,41,26787,44.484,3,jupiter
+ladderB,MEME,DSEKbLUQxk5E14HySkyBApcFZTmnxeCZMxyzKgFM8XJp,11-08 18:10,0,10.00,9.14,-8.6,0,stop-loss: -4.3%,CAUTION,235,raydium-launchlab,25798,6165,51,11,41,26787,44.484,3,jupiter
+ladderB,ARTCOIN,nUESj13byLn6bHFFaygmf7mCQbHZvb6yKqdHjjLWmj1,11-08 18:28,0,10.00,10.21,2.1,0,liquidity pulled: down 25% since the buy; 2.5%,CAUTION,10538,raydium-launchlab,33994,27100,179,125,125,38583,81.147,2,jupiter
+ladder,ARTCOIN,nUESj13byLn6bHFFaygmf7mCQbHZvb6yKqdHjjLWmj1,11-08 18:28,0,10.00,10.03,0.3,0,liquidity pulled: down 24% since the buy; 0.7%,CAUTION,10538,raydium-launchlab,33994,27100,179,125,125,38583,81.147,2,jupiter
+fast,ARTCOIN,nUESj13byLn6bHFFaygmf7mCQbHZvb6yKqdHjjLWmj1,11-08 18:28,1,70.62,78.70,11.4,0,take profit: +12.6%,,,raydium-launchlab,33994,27100,179,125,125,38583,81.147,2,jupiter
+ladderB,ALEXAN,7SoCfv93RT4jotgMn8oKpBeA6bgefr2mBMkfSM3Fpump,11-08 18:30,0,10.00,8.72,-12.8,0,stop-loss: -12.3%,CAUTION,3090,pump-fun,2289,7360,89,93,82,2906,-0.553,2,jupiter
+ladder,ALEXAN,7SoCfv93RT4jotgMn8oKpBeA6bgefr2mBMkfSM3Fpump,11-08 18:30,0,10.00,8.72,-12.8,0,stop-loss: -12.3%,CAUTION,3090,pump-fun,2289,7360,89,93,82,2906,-0.553,2,jupiter
+ladder,FRIES,Aw5PHApGuKKRbGHM2A8SNso2b5cqA5FsUXtzfQYKpump,11-08 18:40,0,10.00,9.47,-5.3,0,stop-loss: -4.9%,CAUTION,6084,pump-fun,7207,19949,235,157,167,14248,201.968,3,jupiter
+ladder,BEAN,78gdjFLberAstWtSx3uYzrvJtLim9iT5N3DvmVL5XVBc,11-08 18:40,0,10.00,11.75,17.5,1,trailing stop: -7.9% from the high (1.26x at best),CAUTION,5565,pumpswap,14640,12788,135,66,112,39985,-2.263,2,jupiter
+ladderB,FRIES,Aw5PHApGuKKRbGHM2A8SNso2b5cqA5FsUXtzfQYKpump,11-08 18:40,0,10.00,9.47,-5.3,0,stop-loss: -4.9%,CAUTION,6084,pump-fun,7207,19949,235,157,167,14248,201.968,3,jupiter
+ladderB,BEAN,78gdjFLberAstWtSx3uYzrvJtLim9iT5N3DvmVL5XVBc,11-08 18:40,0,10.00,11.75,17.5,4,trailing stop: -7.9% from the high (1.26x at best),CAUTION,5565,pumpswap,14640,12788,135,66,112,39985,-2.263,2,jupiter
+ladder,Macca,AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump,11-08 19:06,2,10.00,10.11,1.1,1,trailing stop: -2.6% from the high (1.04x at best),CAUTION,77802,pumpswap,111878,18465,78,40,50,972646,-5.138,34886,jupiter
+ladderB,Macca,AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump,11-08 19:06,9,10.00,9.95,-0.5,0,break-even stop: -0.2% (1.04x at best),CAUTION,77802,pumpswap,111878,18465,78,40,50,972646,-5.138,34886,jupiter
+ladderB,BORDERLESS,3rxXFMNgXgefmncUJnbmt9CWNyknbD6q7uZfZza3pump,11-08 19:07,1,10.00,10.39,3.9,1,trailing stop: -4.6% from the high (1.09x at best),CAUTION,13183,pumpswap,27689,14656,130,84,92,126107,-5.948,2929,jupiter
+ladder,BORDERLESS,3rxXFMNgXgefmncUJnbmt9CWNyknbD6q7uZfZza3pump,11-08 19:07,0,10.00,10.63,6.3,1,trailing stop: -2.7% from the high (1.09x at best),CAUTION,13183,pumpswap,27689,14656,130,84,92,126107,-5.948,2929,jupiter
+ladderB,MINTED,8crRRo8zpxJaUhnV81hzyqh4JU5RpuvVaP7iCfV2aXVV,11-08 19:10,12,10.00,9.64,-3.6,0,stop-loss: -3.3%,CAUTION,14603,raydium,29106,1200,58,12,25,126059,5.654,5310,jupiter
+ladder,MINTED,8crRRo8zpxJaUhnV81hzyqh4JU5RpuvVaP7iCfV2aXVV,11-08 19:10,12,10.00,9.64,-3.6,0,stop-loss: -3.3%,CAUTION,14603,raydium,29106,1200,58,12,25,126059,5.654,5310,jupiter
+ladder,GTA 6 Coin,GyaufdYdFa3pygMTQ8NkS4gNrxbX1s2gmJ4HtAtopump,11-08 19:12,3,10.00,11.28,12.8,1,trailing stop: -1.6% from the high (1.18x at best),CAUTION,10898,pumpswap,23878,6610,399,297,119,102179,62.017,2,jupiter
+ladderB,GTA 6 Coin,GyaufdYdFa3pygMTQ8NkS4gNrxbX1s2gmJ4HtAtopump,11-08 19:12,53,10.00,2.56,-74.4,4,trailing stop: -99.1% from the high (4.35x at best),CAUTION,10898,pumpswap,23878,6610,399,297,119,102179,62.017,2,jupiter
+ladder,PUMPFUN,Cv5SsTPRowcyEM98F5SZMPDcmPcRf9S5mfvFacESLoat,11-08 19:20,0,10.00,9.26,-7.4,0,stop-loss: -5.2%,CAUTION,492,raydium-launchlab,22738,7072,93,26,30,23265,25.68,1,jupiter
+ladderB,PUMPFUN,Cv5SsTPRowcyEM98F5SZMPDcmPcRf9S5mfvFacESLoat,11-08 19:20,0,10.00,9.26,-7.4,0,stop-loss: -5.2%,CAUTION,492,raydium-launchlab,22738,7072,93,26,30,23265,25.68,1,jupiter
+ladderB,LEASH,BBiXvKQneuQUH7ksFKLDVWtjQAcTnGvME98FxSpPpump,11-08 19:20,0,10.00,7.94,-20.6,0,stop-loss: -20.2%,CAUTION,4453,pump-fun,4080,4276,64,31,58,5840,124.941,3,jupiter
+ladder,LEASH,BBiXvKQneuQUH7ksFKLDVWtjQAcTnGvME98FxSpPpump,11-08 19:20,0,10.00,7.94,-20.6,0,stop-loss: -20.2%,CAUTION,4453,pump-fun,4080,4276,64,31,58,5840,124.941,3,jupiter
+ladderB,LEVERAGE,HwYBbVJ6SFBrVM4DJ86eXKPUvBfWxCbLbXZGiRKNpump,11-08 19:23,0,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,13790,pumpswap,24732,5538,14,0,13,110008,2.236,3,jupiter
+ladder,LEVERAGE,HwYBbVJ6SFBrVM4DJ86eXKPUvBfWxCbLbXZGiRKNpump,11-08 19:23,0,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,13790,pumpswap,24732,5538,14,0,13,110008,2.236,3,jupiter
+ladder,NORM,GHYVzbipaJtPeRcFZcCUX5H43fKeHQSiAKCm89AHZSLf,11-08 19:31,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13089,meteora-damm-v2,16948,2012,25,3,24,10877,105.311,1,jupiter
+ladderB,NORM,GHYVzbipaJtPeRcFZcCUX5H43fKeHQSiAKCm89AHZSLf,11-08 19:31,36,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,13089,meteora-damm-v2,16948,2012,25,3,24,10877,105.311,1,jupiter
+ladder,Extropianism,AKtwNwMYqZeczuFwboXNbTLjXwY2gxP9gUs4WeC1pump,11-08 19:50,1,10.00,9.63,-3.7,0,stop-loss: -3.1%,CAUTION,2809,pump-fun,2789,6910,55,67,51,3666,-12.268,1,jupiter
+ladderB,Extropianism,AKtwNwMYqZeczuFwboXNbTLjXwY2gxP9gUs4WeC1pump,11-08 19:50,1,10.00,9.63,-3.7,0,stop-loss: -3.1%,CAUTION,2809,pump-fun,2789,6910,55,67,51,3666,-12.268,1,jupiter
+ladder,Hannah,FbUPhg9T5f5By67NuJuasL4ANUNG176exPywMBUjXpcV,11-08 19:52,64,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,11334,meteora-damm-v2,18418,13298,116,44,108,11137,46.331,2,jupiter
+ladderB,Hannah,FbUPhg9T5f5By67NuJuasL4ANUNG176exPywMBUjXpcV,11-08 19:52,64,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,11334,meteora-damm-v2,18418,13298,116,44,108,11137,46.331,2,jupiter
+copy,Hannah,FbUPhg9T5f5By67NuJuasL4ANUNG176exPywMBUjXpcV,11-08 19:52,64,10.00,0.00,-100.0,0,no price for 30 min: written off,CAUTION,11334,meteora-damm-v2,18418,13298,116,44,108,11137,46.331,2,jupiter
+ladder,2,CVZTeKMXkiZJZdUgRXEPNUwjCeN8QQCQqnKf8AUfYz34,11-08 20:05,0,10.00,9.09,-9.1,0,stop-loss: -4.5%,CAUTION,222,raydium-launchlab,26550,14092,176,67,126,27846,42.652,2,jupiter
+ladderB,2,CVZTeKMXkiZJZdUgRXEPNUwjCeN8QQCQqnKf8AUfYz34,11-08 20:05,0,10.00,9.09,-9.1,0,stop-loss: -4.5%,CAUTION,222,raydium-launchlab,26550,14092,176,67,126,27846,42.652,2,jupiter
+ladderB,ber,CqpUBhhSxHsXbq6AGPKnbxDpWgECUXAVy3BCrwhGpump,11-08 20:07,2,10.00,9.70,-3.0,0,stop-loss: -2.7%,CAUTION,18194,pumpswap,38031,13063,103,114,61,168493,14.296,21855,jupiter
+ladder,ber,CqpUBhhSxHsXbq6AGPKnbxDpWgECUXAVy3BCrwhGpump,11-08 20:07,2,10.00,9.70,-3.0,0,stop-loss: -2.7%,CAUTION,18194,pumpswap,38031,13063,103,114,61,168493,14.296,21855,jupiter
+ladderB,Alice,792rosbxyZ7tYELnC4HhW1ok4enB8T5tnySSs6Mnikvq,11-08 20:22,1,10.00,9.63,-3.7,0,break-even stop: -3.5% (1.04x at best),CAUTION,37878,raydium,66942,15810,86,97,63,123478,-5.699,3,jupiter
+ladder,Alice,792rosbxyZ7tYELnC4HhW1ok4enB8T5tnySSs6Mnikvq,11-08 20:22,1,10.00,9.78,-2.2,1,trailing stop: -7.3% from the high (1.04x at best),CAUTION,37878,raydium,66942,15810,86,97,63,123478,-5.699,3,jupiter
+ladder,Rockstar,645ePvoTFkq5moV7GYUctn8vRwPqWs5tsRpf9yx6pump,11-08 20:28,1,10.00,10.36,3.6,1,trailing stop: -1.1% from the high (1.06x at best),CAUTION,11809,pumpswap,23481,4889,253,232,240,101211,70.865,4,jupiter
+ladderB,Rockstar,645ePvoTFkq5moV7GYUctn8vRwPqWs5tsRpf9yx6pump,11-08 20:28,31,10.00,8.26,-17.4,4,trailing stop: -59.4% from the high (1.85x at best),CAUTION,11809,pumpswap,23481,4889,253,232,240,101211,70.865,4,jupiter
+ladder,$1 TRUMP,FFEKWYnfY3AEoxJfPDKGTaZvMy9jQiVZfnuyW2Xrpump,11-08 20:44,1,10.00,9.74,-2.6,1,trailing stop: -5.6% from the high (1.02x at best),CAUTION,11454,pumpswap,24312,5423,57,20,53,108114,191.135,1,jupiter
+ladderB,$1 TRUMP,FFEKWYnfY3AEoxJfPDKGTaZvMy9jQiVZfnuyW2Xrpump,11-08 20:44,1,10.00,9.62,-3.8,0,break-even stop: -3.5% (1.02x at best),CAUTION,11454,pumpswap,24312,5423,57,20,53,108114,191.135,1,jupiter
+ladderB,CI,7HC2kXTD2mxUmRSC3QYmURvsMbmzs5NF2ycYG87wYExX,11-08 20:50,0,10.00,9.66,-3.4,0,liquidity pulled: down 33% since the buy; -2.5%,CAUTION,2317,raydium-launchlab,18213,29881,174,147,119,17912,-12.195,2,jupiter
+ladderB,PUH,Eaky6upy9HEx4VPNowgUePF1URqcYwwvpnN6NDtgwSrw,11-08 20:50,0,10.00,0.00,-100.0,0,stop-loss: -62.1%,CAUTION,6,raydium-launchlab,17106,16073,93,99,69,17064,-7.65,2,jupiter
+ladder,PUH,Eaky6upy9HEx4VPNowgUePF1URqcYwwvpnN6NDtgwSrw,11-08 20:50,0,10.00,0.00,-100.0,0,stop-loss: -62.1%,CAUTION,6,raydium-launchlab,17106,16073,93,99,69,17064,-7.65,2,jupiter
+ladder,CI,7HC2kXTD2mxUmRSC3QYmURvsMbmzs5NF2ycYG87wYExX,11-08 20:50,0,10.00,9.66,-3.4,0,liquidity pulled: down 33% since the buy; -2.5%,CAUTION,2317,raydium-launchlab,18213,29881,174,147,119,17912,-12.195,2,jupiter
+ladderB,Vest,H5zdUwrTBuCCs2JiEJrdvrR9wAZW7reAtk1518jScBJT,11-08 21:00,1,10.00,9.78,-2.2,0,break-even stop: -1.6% (1.03x at best),CAUTION,2725,raydium-launchlab,19224,9165,36,28,33,18983,-11.9,3,jupiter
+ladder,Alice,5REmWSTUcXzW6HWkxYphJPkxsYA5upiV6yxcbXrppump,11-08 21:00,0,10.00,9.23,-7.7,0,stop-loss: -7.2%,CAUTION,3595,pump-fun,5128,12731,136,66,132,3181,23.661,3,jupiter
+ladder,Vest,H5zdUwrTBuCCs2JiEJrdvrR9wAZW7reAtk1518jScBJT,11-08 21:00,1,10.00,9.89,-1.1,1,trailing stop: -4.8% from the high (1.03x at best),CAUTION,2725,raydium-launchlab,19224,9165,36,28,33,18983,-11.9,3,jupiter
+ladderB,Alice,5REmWSTUcXzW6HWkxYphJPkxsYA5upiV6yxcbXrppump,11-08 21:00,0,10.00,9.23,-7.7,0,stop-loss: -7.2%,CAUTION,3595,pump-fun,5128,12731,136,66,132,3181,23.661,3,jupiter
+ladderB,LoriHuang,2ygwWzNhYJ7ooFedkTnmsw5ww1yuemGsXcrQFJpHDB37,11-08 21:05,0,10.00,9.60,-4.0,0,break-even stop: -3.6% (1.01x at best),CAUTION,4506,raydium-launchlab,25356,16517,139,68,93,24108,13.916,3,jupiter
+ladder,LoriHuang,2ygwWzNhYJ7ooFedkTnmsw5ww1yuemGsXcrQFJpHDB37,11-08 21:05,0,10.00,9.60,-4.0,0,stop-loss: -3.6%,CAUTION,4506,raydium-launchlab,25356,16517,139,68,93,24108,13.916,3,jupiter
+ladder,RTX,4XQJrAijoCkQGm118H9HXSwfz8GNWxbMQuznvrZvquUQ,11-08 21:07,0,10.00,4.67,-53.3,0,stop-loss: -26.6%,CAUTION,28,raydium-launchlab,17487,13278,53,100,40,17106,-22.289,3,jupiter
+ladderB,RTX,4XQJrAijoCkQGm118H9HXSwfz8GNWxbMQuznvrZvquUQ,11-08 21:07,0,10.00,4.67,-53.3,0,stop-loss: -26.6%,CAUTION,28,raydium-launchlab,17487,13278,53,100,40,17106,-22.289,3,jupiter
+ladderB,HUANG,7X9ZKTqgCBbjM1s49ueTZX47P6k1zHovs78wSHx2Loat,11-08 21:11,0,10.00,7.02,-29.8,0,stop-loss: -14.9%,CAUTION,58,raydium-launchlab,16995,12204,31,22,20,17254,-5.705,2,jupiter
+ladder,HUANG,7X9ZKTqgCBbjM1s49ueTZX47P6k1zHovs78wSHx2Loat,11-08 21:11,0,10.00,7.02,-29.8,0,stop-loss: -14.9%,CAUTION,58,raydium-launchlab,16995,12204,31,22,20,17254,-5.705,2,jupiter
+ladder,FLOAT,iJtab26bqtYrBrpJwLqzhNP28AERLxqnvybSkixpump,11-08 21:20,3,10.00,10.91,9.1,1,trailing stop: -0.4% from the high (1.11x at best),CAUTION,11718,pumpswap,24350,5316,20,4,20,107469,71.074,1,jupiter
+ladderB,FLOAT,iJtab26bqtYrBrpJwLqzhNP28AERLxqnvybSkixpump,11-08 21:20,18,10.00,2.92,-70.8,4,trailing stop: -95.8% from the high (1.97x at best),CAUTION,11718,pumpswap,24350,5316,20,4,20,107469,71.074,1,jupiter
+ladder,JensenAlice,BkYGs8BJzoc7ZgptAiMqAed8KQ31rVTsegBHdPTbpump,11-08 21:21,0,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,12304,pumpswap,25854,10104,35,7,32,114825,158.975,2,jupiter
+ladderB,JensenAlice,BkYGs8BJzoc7ZgptAiMqAed8KQ31rVTsegBHdPTbpump,11-08 21:21,0,10.00,9.65,-3.5,0,stop-loss: -3.2%,CAUTION,12304,pumpswap,25854,10104,35,7,32,114825,158.975,2,jupiter
+momo,JensenAlice,BkYGs8BJzoc7ZgptAiMqAed8KQ31rVTsegBHdPTbpump,11-08 21:28,20,10.00,20.19,101.9,1,10x reached (2.07x): last step,WAIT-5 passed: held, near its high, traded every minute,16890,pumpswap,25854,10104,35,7,32,114825,158.975,9,jupiter
+ladder,Trump,3fmwfyjfqpYGn2F7UYt765NPuXE735ZLe6hsWCDipump,11-08 21:33,3,10.00,10.38,3.8,1,trailing stop: -2.5% from the high (1.07x at best),CAUTION,11009,pumpswap,23511,5971,129,77,76,,168.631,1,jupiter
+ladderB,Trump,3fmwfyjfqpYGn2F7UYt765NPuXE735ZLe6hsWCDipump,11-08 21:33,9,10.00,2.46,-75.4,4,liquidity pulled: down 96% since the buy; -97.5%,CAUTION,11009,pumpswap,23511,5971,129,77,76,,168.631,1,jupiter
+ladder,Stabull,2AJ4tDQHuBMUW8Fn8291wpwpCREBn2837uBRgqqyG4Cu,11-08 21:52,1,10.00,9.44,-5.6,0,stop-loss: -5.0%,CAUTION,2627,raydium-launchlab,29656,10371,61,21,47,30680,46.233,2,jupiter
+ladderB,Stabull,2AJ4tDQHuBMUW8Fn8291wpwpCREBn2837uBRgqqyG4Cu,11-08 21:52,1,10.00,9.44,-5.6,0,stop-loss: -5.0%,CAUTION,2627,raydium-launchlab,29656,10371,61,21,47,30680,46.233,2,jupiter
+ladder,Grok Bot,9SNn5DRQ2G4H8izMomUZ4EJ54m6uJCKebMiGrviFpump,11-08 21:58,1,10.00,10.09,0.9,1,trailing stop: -1.8% from the high (1.03x at best),CAUTION,25889,pumpswap,51439,71948,17179,16761,2209,449128,216.325,68,jupiter
+ladderB,Grok Bot,9SNn5DRQ2G4H8izMomUZ4EJ54m6uJCKebMiGrviFpump,11-08 21:58,1,10.00,10.00,0.0,0,break-even stop: 0.3% (1.01x at best),CAUTION,25889,pumpswap,51439,71948,17179,16761,2209,449128,216.325,68,jupiter
+fast,Grok Bot,9SNn5DRQ2G4H8izMomUZ4EJ54m6uJCKebMiGrviFpump,11-08 21:58,5,71.26,78.72,10.5,0,take profit: +11.0%,,,pumpswap,51439,71948,17179,16761,2209,449128,216.325,68,jupiter
+ladderB,NIO,59ELL1J1FaRzVd3ncB3Bb3Dwyc4eeHn3GEuypeGL6JsP,11-08 22:02,0,10.00,7.97,-20.3,0,break-even stop: -20.1% (1.03x at best),CAUTION,43849,raydium,99836,265613,1758,1495,1188,243496,98.018,4,jupiter
+ladder,NIO,59ELL1J1FaRzVd3ncB3Bb3Dwyc4eeHn3GEuypeGL6JsP,11-08 22:02,0,10.00,8.42,-15.8,1,trailing stop: -22.1% from the high (1.03x at best),CAUTION,43849,raydium,99836,265613,1758,1495,1188,243496,98.018,4,jupiter
+ladder,xBTC,2zCo6bUowJMvr89ajxuWsPadAqJ2F9akCkxumNsSdgsL,11-08 22:09,13,10.00,10.06,0.6,1,trailing stop: -2.0% from the high (1.02x at best),SAFE,166343,raydium,28816,187795,1545,989,690,1178678,-0.491,2,jupiter
+ladderB,xBTC,2zCo6bUowJMvr89ajxuWsPadAqJ2F9akCkxumNsSdgsL,11-08 22:09,13,10.00,10.02,0.2,0,break-even stop: 0.5% (1.02x at best),SAFE,166343,raydium,28816,187795,1545,989,690,1178678,-0.491,2,jupiter
+ladder,Debtcoin,HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX,11-08 22:09,0,10.00,9.57,-4.3,0,stop-loss: -4.0%,CAUTION,69622,raydium,99582,294514,1750,2144,1012,235831,72.628,2,jupiter
+ladderB,Debtcoin,HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX,11-08 22:09,0,10.00,9.57,-4.3,0,stop-loss: -4.0%,CAUTION,69622,raydium,99582,294514,1750,2144,1012,235831,72.628,2,jupiter
+ladderB,EARN,ARGGnM1zK12eYCzRYbULJECFsMh4DM7hKgxNk97Pearn,11-08 22:15,0,10.00,9.66,-3.4,0,stop-loss: -3.1%,CAUTION,19339,pumpswap,19999,283440,4298,3130,1613,70544,108.23,32,jupiter
+ladder,EARN,ARGGnM1zK12eYCzRYbULJECFsMh4DM7hKgxNk97Pearn,11-08 22:15,0,10.00,9.66,-3.4,0,stop-loss: -3.1%,CAUTION,19339,pumpswap,19999,283440,4298,3130,1613,70544,108.23,32,jupiter
+ladder,STRK,u83MuEHaGVDQL1EKGezYZLgoL1WsYmhoGT5FeNFpump,11-08 22:18,2,10.00,11.08,10.8,1,trailing stop: -0.6% from the high (1.14x at best),CAUTION,11664,pumpswap,24158,5197,177,89,175,108131,7.748,2,jupiter
+ladder,Swhuang,kLDAciuGuEgpRpZHGNMPV9Tv18iSgV47hPtn3Aopump,11-08 22:21,3,10.00,15.22,52.2,1,trailing stop: -11.5% from the high (1.86x at best),CAUTION,18462,pumpswap,15195,18947,229,136,171,45704,21.616,2,jupiter
+ladderB,Swhuang,kLDAciuGuEgpRpZHGNMPV9Tv18iSgV47hPtn3Aopump,11-08 22:21,3,10.00,15.39,53.9,4,trailing stop: -11.5% from the high (1.86x at best),CAUTION,18462,pumpswap,15195,18947,229,136,171,45704,21.616,2,jupiter
+fast,Swhuang,kLDAciuGuEgpRpZHGNMPV9Tv18iSgV47hPtn3Aopump,11-08 22:21,1,71.86,82.29,14.5,0,take profit: +15.2%,,,pumpswap,15195,18947,229,136,171,45704,21.616,2,jupiter
+ladder,STC,FEouaX7iV2XixS7xZDeQ8Vu5GhUobeG73Q1KPWiRpump,11-08 22:30,1,10.00,8.69,-13.1,0,stop-loss: -12.7%,CAUTION,3550,pump-fun,5937,12183,78,56,57,6151,103.27,2,jupiter
+ladderB,STC,FEouaX7iV2XixS7xZDeQ8Vu5GhUobeG73Q1KPWiRpump,11-08 22:30,1,10.00,8.69,-13.1,0,stop-loss: -12.7%,CAUTION,3550,pump-fun,5937,12183,78,56,57,6151,103.27,2,jupiter
+ladder,FLOAT,A7SL3GtgoJHTNKSURtN8YMFDKtVm7XQeLe74z6gnpump,11-08 22:31,1,10.00,9.64,-3.6,0,stop-loss: -3.2%,CAUTION,10973,pumpswap,23608,5289,14,3,13,102443,0.173,1,jupiter
+ladderB,FLOAT,A7SL3GtgoJHTNKSURtN8YMFDKtVm7XQeLe74z6gnpump,11-08 22:31,1,10.00,9.64,-3.6,0,stop-loss: -3.2%,CAUTION,10973,pumpswap,23608,5289,14,3,13,102443,0.173,1,jupiter
+ladderB,Cheatcoin,F8qt2GxUN4YUYbfdnBjpEp7oRx9btyRyjJUr5rKSpump,11-08 23:40,1,10.00,10.00,0.0,4,trailing stop: -29.9% from the high (1.35x at best),CAUTION,7549,pump-fun,5753,14580,234,100,182,,226.906,3,jupiter
+ladder,Cheatcoin,F8qt2GxUN4YUYbfdnBjpEp7oRx9btyRyjJUr5rKSpump,11-08 23:40,1,10.00,12.31,23.1,1,trailing stop: -6.1% from the high (1.35x at best),CAUTION,7549,pump-fun,5753,14580,234,100,182,,226.906,3,jupiter

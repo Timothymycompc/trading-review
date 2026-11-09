@@ -1,0 +1,11 @@
+Made money in both periods (not necessarily beating holding), 10+ trades each: 25 of 436
+Beat holding (and made money) in TRAIN: 35; of those, also beat holding in TEST: 0; made money in TEST at all: 18
+Best in both periods by the smaller of the two returns:
+  JUP  volume >5x avg and hour up, hold 24h: train +13.9% (hold +20.0%, worst drop 14%), test +40.7% (hold +35.0%, worst drop 9%), 18+12 trades
+  SOL  breakout above 24h high, sell below 12h low: train +13.2% (hold -2.8%, worst drop 14%), test +19.9% (hold +24.6%, worst drop 15%), 26+18 trades
+  JUP  uptrend + Bollinger(20,2) below lower, sell at middle or 48h: train +11.0% (hold +20.0%, worst drop 12%), test +31.1% (hold +35.0%, worst drop 5%), 23+16 trades
+  WIF  Bollinger(48,2.0) buy below lower, sell at middle or 24h: train +12.2% (hold -23.6%, worst drop 14%), test +7.4% (hold +21.6%, worst drop 19%), 38+25 trades
+  WIF  Bollinger(20,2.5) buy below lower, sell at middle or 72h: train +6.8% (hold -23.6%, worst drop 18%), test +15.9% (hold +21.6%, worst drop 14%), 26+23 trades
+  SOL  breakout above 72h high, sell below 12h low: train +5.7% (hold -2.8%, worst drop 8%), test +13.3% (hold +24.6%, worst drop 14%), 13+11 trades
+  WIF  Bollinger(48,2.5) buy below lower, sell at middle or 24h: train +5.6% (hold -23.6%, worst drop 19%), test +12.2% (hold +21.6%, worst drop 11%), 26+15 trades
+  JUP  Bollinger(20,2.0) buy below lower, sell at middle or 72h: train +4.5% (hold +20.0%, worst drop 17%), test +11.2% (hold +35.0%, worst drop 22%), 65+43 trades

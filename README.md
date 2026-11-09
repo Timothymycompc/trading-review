@@ -19,6 +19,24 @@ none of these systems has seen.
 - [How we tested (and why most backtests lie)](method.md)
 - [Hardships, and how we got past them](hardships.md)
 
+## What's in this repo
+| Folder | Contents |
+|---|---|
+| `night-desk/` | Stock + forex code (TypeScript) and all its data |
+| `night-desk/research/fx/` | Every forex price file we downloaded: Oanda EUR/USD 15m (2016→), 1h (2005→), 4h (2005→) and daily; 4h for 10 pairs and 1h for 4 pairs with bid/ask spreads; index CFDs daily (2005→); FRED `DEXUSEU.csv`; Fed calendar pages + `fomc-dates.json`; `fomc-events.json`; [FINDINGS.md](night-desk/research/fx/FINDINGS.md) |
+| `night-desk/research/data/` | Alpaca daily bars for the 13 ETFs: `etf-search.json` (what the AI saw) and `etf-full.json` (including the locked year) |
+| `night-desk/research/lab/` | Every stock rule the AI tried (`trials.jsonl`), its candidates, and the one-shot locked-year results (`final.jsonl`) |
+| `trade-desk/research/` | Memecoin studies: scanned coins, 1-minute candles for several studies, replays, trade lists, AI review |
+| `trade-desk/scripts/`, `trade-desk/server/desk/` | Memecoin backtest/replay scripts and the paper-lane code (needs the full Trade Desk server to run) |
+| `trade-desk/benchmark/` | Transaction-check benchmark cases used by the desk's safety layer |
+| Release `memecoin-candles` | 1-minute candles for all 23,379 coins of the Nov 1–4 2026 replay (≈187 MB, too big for the repo) |
+
+To re-run a forex test: `cd night-desk && npm ci && npx tsx scripts/fx-hidden.ts` (price files are already here). To fetch
+fresh data you need your own free Oanda practice token (`OANDA_PRACTICE_TOKEN`) or Alpaca keys.
+
+Data sources keep their own terms (Oanda, Alpaca, GeckoTerminal/Jupiter/DexScreener); FRED and federalreserve.gov data are
+public. Our code and write-ups are free to reuse.
+
 ## What we'd tell anyone starting out
 1. **A backtest is a story until it survives data it has never seen.** Lock away a year, or a different market, *before*
    you start, and look at it once.

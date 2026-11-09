@@ -1,0 +1,38 @@
+block 462171920: 52 candidate wallets, sampled 45
+  8n34LuVSva6EbUnf9yUCg5XF2TtpuRfyUiRFj71AsSXT  passed_straight_through(warn), emptied(warn)  | 25 tx
+  9mZEeue5krMv1TBahQDbJeNUhTMBMZoedv2WXVRsFPW4  passed_straight_through(warn), emptied(warn)  | 25 tx
+  HHHJTk2pdPSCoAcFRxkapVdDRprR7Wo1tpXyB8LcVb4s  passed_straight_through(info)  | 25 tx
+  3AVpKb74DAJ2hcwyjzX5s2gF9WCADthYCbxXqY1cC4DN  fee_paid_by_other_wallet(warn), emptied(warn)  | 8 tx
+  9nHHQ8MyPJfkcusKCBAtWHz2p3qCm2Y8sDhUWUxXGibM  passed_straight_through(info)  | 25 tx
+  H8J4oN8CyxSCFhVGfWyR17RLhD4eShfEQEp99LXWxPv8  fee_paid_by_other_wallet(info)  | 25 tx
+  EM1ZppH6qvRvEoUFKNEQB8L6VWTPzutPmxU4dAzq5EeU  dust_received(info)  | 23 tx
+  BxDYkEPkpvGXkVVQEYyB8csDGnh4vr637Fs1Mf9uE36N  emptied(info)  | 25 tx
+  4Cd4TCWM9mJiHYys32Exe99Ar8o7ufzwx9P5PoSrxuhN  fee_paid_by_other_wallet(info)  | 25 tx
+  6xWVf5qirPjLXSXWUQsEtv7NcepF6746VUkdoSHf6BcH  fee_paid_by_other_wallet(info), passed_straight_through(info)  | 25 tx
+  2MYg7TSMLzKQ1cadCn8ba9zF2sRrbG878UXZ8seUxKgv  fee_paid_by_other_wallet(info)  | 25 tx
+  2uAVgYY9gks3xiqULxxJe4SPyURGBMoYXnqHWSPipPiE  passed_straight_through(info)  | 24 tx
+  GGZEqVtKLwRLsBWUG29vyCvujrHVG7Qwwe7ctbQta3E3  fee_paid_by_other_wallet(info)  | 25 tx
+  8c2f2WiSbP1qn85jnddxv5Jtfm6hvdMmsj8Q7pgnyYVX  fee_paid_by_other_wallet(warn), emptied(warn)  | 5 tx
+  CtQC6WYXxCZCUVsQYQtKtNPr6BGfHJ7YvVDtEJ68mqrM  passed_straight_through(info), dust_received(info)  | 25 tx
+  4zQvXamX4FoaB3ZGWEF42KGwQG9UxK5K7Pdt2pyNjC7y  passed_straight_through(info)  | 25 tx
+  FkHGJmNX943Sz9ww7J7BndT2j3AG3fKA4cSZd3wTJo8g  passed_straight_through(info)  | 25 tx
+  ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ  passed_straight_through(info)  | 25 tx
+  2U987MyP1GBWcJnPYwkmvnrUDwvyWdU4bLnmNhbvmJgC  fee_paid_by_other_wallet(warn), emptied(warn)  | 8 tx
+  5HQZd9ovzAF1TLnHRAq1zcSnXC9HAp3EwhoxMHvo8rxB  passed_straight_through(info)  | 25 tx
+  3i2HU1oBjZrff9QM6SACYW8C1QjExveDNso9saFSJdYw  passed_straight_through(info), dust_received(info)  | 25 tx
+  H7Jx5UGrDovmXumxzuv4UCPcy8c6GC1M4UzXZY9jkFBz  emptied(info)  | 12 tx
+  px1rbjiEWwwcq1epXSsTMJERyQy7h4vg4VopqFz2HwH  dust_received(info)  | 25 tx
+  GpyuiVsJRv48diBx5KSXo7HUeNUAfzvfVGhrE6ch667K  fee_paid_by_other_wallet(info), passed_straight_through(info)  | 25 tx
+
+read 45 of 45
+  passed_straight_through: 13 of 45 (29%)
+  emptied: 7 of 45 (16%)
+  passed_straight_through:warn: 2 of 45 (4%)
+  emptied:warn: 5 of 45 (11%)
+  passed_straight_through:info: 11 of 45 (24%)
+  fee_paid_by_other_wallet: 9 of 45 (20%)
+  fee_paid_by_other_wallet:warn: 3 of 45 (7%)
+  fee_paid_by_other_wallet:info: 6 of 45 (13%)
+  dust_received: 4 of 45 (9%)
+  dust_received:info: 4 of 45 (9%)
+  emptied:info: 2 of 45 (4%)

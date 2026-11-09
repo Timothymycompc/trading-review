@@ -1,0 +1,8 @@
+Rules that made money in the TRAIN period: 32
+  of those with test trades: 30 | still profitable (mean) in TEST: 7 | test mean of them all: -10.0%
+  [24h] price fell >30% in 12h AND liquidity grew >10% in 24h: train mean +65.0% (8 trades) -> test mean -20.0% (1 trades)
+  [24h] price rose >30% in 3h AND liquidity fell >20% in 12h: train mean +26.6% (8 trades) -> test mean -35.5% (1 trades)
+  [24h] liquidity fell >20% in 12h AND price rose >15% in 24h: train mean +21.5% (8 trades) -> test mean -67.3% (1 trades)
+  [24h] price rose >30% in 3h AND price fell >30% in 12h: train mean +17.0% (10 trades) -> test no trades
+  [6h] price rose >30% in 12h AND younger than 24h: train mean +14.5% (8 trades) -> test mean -4.5% (2 trades)
+  [24h] liquidity grew >25% in 3h AND price fell >15% in 12h: train mean +11.6% (8 trades) -> test no trades

@@ -1,0 +1,25 @@
+block 462003849: 27 candidate wallets, sampled 45
+  8n34LuVSva6EbUnf9yUCg5XF2TtpuRfyUiRFj71AsSXT  emptied(info)  | 25 tx
+  HHHJTk2pdPSCoAcFRxkapVdDRprR7Wo1tpXyB8LcVb4s  passed_straight_through(warn)  | 25 tx
+  3AVpKb74DAJ2hcwyjzX5s2gF9WCADthYCbxXqY1cC4DN  fee_paid_by_other_wallet(warn), emptied(info)  | 8 tx
+  H8J4oN8CyxSCFhVGfWyR17RLhD4eShfEQEp99LXWxPv8  fee_paid_by_other_wallet(info)  | 25 tx
+  4Cd4TCWM9mJiHYys32Exe99Ar8o7ufzwx9P5PoSrxuhN  fee_paid_by_other_wallet(info)  | 25 tx
+  6xWVf5qirPjLXSXWUQsEtv7NcepF6746VUkdoSHf6BcH  fee_paid_by_other_wallet(warn), passed_straight_through(warn)  | 25 tx
+  2MYg7TSMLzKQ1cadCn8ba9zF2sRrbG878UXZ8seUxKgv  fee_paid_by_other_wallet(info)  | 25 tx
+  2uAVgYY9gks3xiqULxxJe4SPyURGBMoYXnqHWSPipPiE  passed_straight_through(warn)  | 25 tx
+  GGZEqVtKLwRLsBWUG29vyCvujrHVG7Qwwe7ctbQta3E3  fee_paid_by_other_wallet(info)  | 25 tx
+  CtQC6WYXxCZCUVsQYQtKtNPr6BGfHJ7YvVDtEJ68mqrM  passed_straight_through(warn)  | 25 tx
+  FkHGJmNX943Sz9ww7J7BndT2j3AG3fKA4cSZd3wTJo8g  passed_straight_through(warn)  | 25 tx
+  ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ  passed_straight_through(warn)  | 22 tx
+  5HQZd9ovzAF1TLnHRAq1zcSnXC9HAp3EwhoxMHvo8rxB  passed_straight_through(warn)  | 25 tx
+  H7Jx5UGrDovmXumxzuv4UCPcy8c6GC1M4UzXZY9jkFBz  emptied(info)  | 12 tx
+  GpyuiVsJRv48diBx5KSXo7HUeNUAfzvfVGhrE6ch667K  fee_paid_by_other_wallet(warn), passed_straight_through(warn)  | 25 tx
+
+read 45 of 45
+  emptied: 3 of 45 (7%)
+  emptied:info: 3 of 45 (7%)
+  passed_straight_through: 8 of 45 (18%)
+  passed_straight_through:warn: 8 of 45 (18%)
+  fee_paid_by_other_wallet: 7 of 45 (16%)
+  fee_paid_by_other_wallet:warn: 3 of 45 (7%)
+  fee_paid_by_other_wallet:info: 4 of 45 (9%)

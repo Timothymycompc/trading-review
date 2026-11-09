@@ -1,0 +1,6 @@
+JUP volume >5x avg and hour up, hold 24h: train +13.9% (random timing did as well 15% of the time), test +40.7% (random 2%)
+SOL breakout above 24h high, sell below 12h low: train +13.2% (random timing did as well 10% of the time), test +19.9% (random 17%)
+JUP uptrend + Bollinger(20,2) below lower, sell at middle or 48h: train +11.0% (random timing did as well 9% of the time), test +31.1% (random 1%)
+WIF Bollinger(48,2.0) buy below lower, sell at middle or 24h: train +12.2% (random timing did as well 3% of the time), test +7.4% (random 19%)
+WIF Bollinger(20,2.5) buy below lower, sell at middle or 72h: train +6.8% (random timing did as well 4% of the time), test +15.9% (random 8%)
+SOL breakout above 72h high, sell below 12h low: train +5.7% (random timing did as well 19% of the time), test +13.3% (random 25%)

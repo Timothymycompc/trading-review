@@ -1,0 +1,19 @@
+{
+  "name": "night-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Overnight US equities research and paper-trading desk powered by Alpaca market data",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "cycle": "tsx scripts/cycle.ts",
+    "backtest": "tsx scripts/backtest.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.23.13",
+    "typescript": "~5.8.2"
+  }
+}

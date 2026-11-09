@@ -1,0 +1,272 @@
+{
+ "id": "06-hidden-transfer",
+ "name": "Hidden transfer",
+ "expected": "FAIL",
+ "rightReasons": [
+  "intent_unexpected"
+ ],
+ "attack": "The requested 0.01 SOL transfer, plus a step that is not a transfer at all (creating an account) but moves 5 SOL to an account the stranger controls.",
+ "realWorld": [
+  {
+   "what": "Drainer transactions that move funds in steps a wallet preview does not show as a transfer",
+   "source": "https://blockaid.io/blog/dissecting-toctou-attacks-how-wallet-drainers-exploit-solanas-transaction-timing"
+  }
+ ],
+ "tx": "AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAIAAgVIwBtQWQBUVdncsMa87Ny0+1suq8GpqCtXOSuqpA8E5jesIuJQ7LFbA9mc94fxoEkYAVmZSZy7gx+dlCBIDtnZoVgoILMOQ1EYfPamO+NIM+DFNelaCpg5VLgCvW3mbJ8DBkZv5SEXMv/srbpyw5vnvIzlu8X3EmssQ5s6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMidpcoyk2DZjzcfYrmrgjzy2cR28lywLzfUghUzCrwEEAwAFAoA4AQADAAkDiBMAAAAAAAAEAgACDAIAAACAlpgAAAAAAAQCAAE0AAAAAADyBSoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+ "request": {
+  "action": "transfer",
+  "token": "SOL",
+  "amount": "0.01",
+  "to": "Brpc8HoPo1d3Uiyo7kbERnjMqwLJJmbWxtwxHxzar6DU"
+ },
+ "recordedAt": "2026-10-19T03:05:05.480Z",
+ "recordings": {
+  "check_tx": {
+   "calls": {
+    "getMultipleAccountsInfo": [
+     [
+      {
+       "data": {
+        "__buf": ""
+       },
+       "executable": false,
+       "lamports": 1369720724652677,
+       "owner": {
+        "__pk": "11111111111111111111111111111111"
+       },
+       "rentEpoch": 18446744073709552000,
+       "space": 0
+      },
+      null,
+      null
+     ]
+    ],
+    "isBlockhashValid": [
+     {
+      "context": {
+       "apiVersion": "4.3.0",
+       "slot": 458677202
+      },
+      "value": true
+     }
+    ],
+    "getBalance": [
+     1369720724652677
+    ],
+    "simulateTransaction": [
+     {
+      "context": {
+       "apiVersion": "4.3.0",
+       "slot": 458677203
+      },
+      "value": {
+       "accounts": [
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 1369715714642277,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        },
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 5000000000,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        },
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 10000000,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        }
+       ],
+       "err": null,
+       "fee": 10400,
+       "innerInstructions": null,
+       "loadedAccountsDataSize": 235,
+       "loadedAddresses": {
+        "readonly": [],
+        "writable": []
+       },
+       "logs": [
+        "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+        "Program ComputeBudget111111111111111111111111111111 success",
+        "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+        "Program ComputeBudget111111111111111111111111111111 success",
+        "Program 11111111111111111111111111111111 invoke [1]",
+        "Program 11111111111111111111111111111111 success",
+        "Program 11111111111111111111111111111111 invoke [1]",
+        "Program 11111111111111111111111111111111 success"
+       ],
+       "postBalances": [
+        1369715714642277,
+        5000000000,
+        10000000,
+        1,
+        1
+       ],
+       "postTokenBalances": [],
+       "preBalances": [
+        1369720724652677,
+        0,
+        0,
+        1,
+        1
+       ],
+       "preTokenBalances": [],
+       "replacementBlockhash": {
+        "blockhash": "Bkc6ny6NQzG5PK1oEh9uKvDV27SPDLQvspeukNccvWiX",
+        "lastValidBlockHeight": 436712591
+       },
+       "returnData": null,
+       "unitsConsumed": 600
+      }
+     }
+    ],
+    "getMultipleParsedAccounts": [
+     {
+      "context": {
+       "apiVersion": "4.3.0",
+       "slot": 458677204
+      },
+      "value": []
+     }
+    ]
+   },
+   "http": {}
+  },
+  "tx_matches": {
+   "calls": {
+    "getMultipleAccountsInfo": [
+     [],
+     [
+      {
+       "data": {
+        "__buf": ""
+       },
+       "executable": false,
+       "lamports": 1369720724652677,
+       "owner": {
+        "__pk": "11111111111111111111111111111111"
+       },
+       "rentEpoch": 18446744073709552000,
+       "space": 0
+      },
+      null,
+      null
+     ]
+    ],
+    "simulateTransaction": [
+     {
+      "context": {
+       "apiVersion": "4.3.0",
+       "slot": 458677206
+      },
+      "value": {
+       "accounts": [
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 1369715714642277,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        },
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 5000000000,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        },
+        {
+         "data": [
+          "",
+          "base64"
+         ],
+         "executable": false,
+         "lamports": 10000000,
+         "owner": "11111111111111111111111111111111",
+         "rentEpoch": 18446744073709552000,
+         "space": 0
+        }
+       ],
+       "err": null,
+       "fee": 10400,
+       "innerInstructions": null,
+       "loadedAccountsDataSize": 235,
+       "loadedAddresses": {
+        "readonly": [],
+        "writable": []
+       },
+       "logs": [
+        "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+        "Program ComputeBudget111111111111111111111111111111 success",
+        "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+        "Program ComputeBudget111111111111111111111111111111 success",
+        "Program 11111111111111111111111111111111 invoke [1]",
+        "Program 11111111111111111111111111111111 success",
+        "Program 11111111111111111111111111111111 invoke [1]",
+        "Program 11111111111111111111111111111111 success"
+       ],
+       "postBalances": [
+        1369715714642277,
+        5000000000,
+        10000000,
+        1,
+        1
+       ],
+       "postTokenBalances": [],
+       "preBalances": [
+        1369720724652677,
+        0,
+        0,
+        1,
+        1
+       ],
+       "preTokenBalances": [],
+       "replacementBlockhash": {
+        "blockhash": "ERuwmckLdCGwBwHpBPBJynK15AKp22GUpL7HxGJSoYBJ",
+        "lastValidBlockHeight": 436712594
+       },
+       "returnData": null,
+       "unitsConsumed": 600
+      }
+     }
+    ],
+    "getMultipleParsedAccounts": [
+     {
+      "context": {
+       "apiVersion": "4.3.0",
+       "slot": 458677207
+      },
+      "value": []
+     }
+    ]
+   },
+   "http": {}
+  }
+ }
+}

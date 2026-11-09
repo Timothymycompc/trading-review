@@ -1,0 +1,13 @@
+trace collection-wallet rule, live mainnet, 2026-10-29T07:17:27.075Z
+
+RIGHT  Gjr8SB  exchange deposit address, swept to B48k…KAAn: confidence medium (should be not high); flags fee_paid_by_other_wallet, emptied, swept_to_collection_wallet
+RIGHT  Hf48rJ  exchange deposit address, swept to B48k…KAAn: confidence medium (should be not high); flags fee_paid_by_other_wallet, dust_received, emptied, swept_to_collection_wallet
+RIGHT  BX4ixZ  exchange deposit address, swept to B48k…KAAn: confidence medium (should be not high); flags fee_paid_by_other_wallet, emptied, swept_to_collection_wallet
+RIGHT  FzZyRX  exchange deposit address, swept to B48k…KAAn: confidence medium (should be not high); flags fee_paid_by_other_wallet, dust_received, emptied, swept_to_collection_wallet
+RIGHT  JCukfz  exchange deposit address, swept to B48k…KAAn: confidence medium (should be not high); flags fee_paid_by_other_wallet, emptied, swept_to_collection_wallet
+WRONG  FrJWSZ  trading-bot wallet: confidence high (should be not high); flags fee_paid_by_other_wallet, emptied
+WRONG  Hvyu1C  trading-bot wallet: confidence high (should be not high); flags fee_paid_by_other_wallet, passed_straight_through, emptied
+RIGHT  AvLELv  REAL drain (Kunal), to a bridge: confidence high (should be high); flags fee_paid_by_other_wallet, passed_straight_through, emptied
+RIGHT  Hkxcf2  REAL drain (Adilak), to the thief's wallet: confidence high (should be high); flags passed_straight_through, dust_received, emptied
+
+7 of 9 right.

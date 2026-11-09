@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+*.log
+research/fx/EUR_USD_M15.json
+research/fx/*_H4*.json
+research/fx/*_H1*.json

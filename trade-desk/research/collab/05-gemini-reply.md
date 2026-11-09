@@ -1,0 +1,16 @@
+Look at the numbers in [`coins-train.csv`](file:///root/trade-desk/research/collab/coins-train.csv)—we can see **the exact reasons** why 26–49% of G1/G2 reach 2x before a 40% fall, yet every exit still lost:
+
+### 1. The Fake `dead` Candle ([`entry-test.ts`](file:///root/trade-desk/scripts/entry-test.ts#L133-L135)) Is Zeroing Out Graduated Winners
+When a Pump.fun bonding curve (`c.pool`) in G1/G2 rallies 2x–6x to `~$65k`, **it graduates to PumpSwap/Raydium**. The moment it graduates, trading on the bonding-curve address `c.pool` stops forever at the graduation high while the token keeps trading on the new AMM pool (which Jupiter prices seamlessly).
+* Look at what [`entry-test.ts`](file:///root/trade-desk/scripts/entry-test.ts#L133-L135) does when `c.pool` stops printing candles after graduation: it sees no candles in the last 2 hours of the 16h window and appends `[windowEnd, 1e-9, ..., 1e6]`, **force-selling the remaining position at `$0`!**
+* **Proof in `coins-train.csv`:** Look at rows 116 (`SAFU`, 8.7x), 128 (`JoyCoin`, 2.5x), 248 (`Doomscroll`, 2.0x), 264 (`INU`, 2.7x, where `Main` made **`+114%`**!), 5014 (`Kabosu`, 1.5x), 5094 (`BLACKED`, 2.9x), and 5153 (`GMEX`, 2.0x). Every one of them has `rugged = 0`, yet prints **exact** `result_lottery_now_100 = -0.0100`, `result_lottery_50 = -0.2575`, `result_lottery_20 = -0.4060` (`0.5 * (1 + first) * 0.99 - 1`). They sold the first 50% at target, never hit the 40% trail on the curve, and had their second 50% wiped out at `1e-9` by the fake `dead` candle!
+* **Fix:** On a Pump.fun curve, liquidity cannot be pulled without selling the price back down to the `$0.0000027` floor. Never append the `1e-9` dead candle if `lastCandle[4] >= entry * 0.4` (or `>= 0.000045`, which is graduation).
+
+### 2. Why `Fast`/`Main`/`Ladder` Miss the 2x Runs (Your Question 2)
+`reached_2x` in [`entry-test.ts`](file:///root/trade-desk/scripts/entry-test.ts#L125-L127) is *already* measured before a `-40%` fall on traded minutes. The 2x runs don't come after a `-40%` drop—they come after a **`-6%` to `-15%` intra-minute wick**!
+* **Proof in `coins-train.csv`:** Rows 140 (`HI`, 6.0x), 158 (`Slingoor`, 2.9x), 229 (`invest`, 4.3x), 236 (`Cockroach`, 2.6x), and 5129 (`RICO`, 2.9x) all print **exact** `result_main = -0.0880`, `result_fast = -0.0880`, `result_ladder_a = -0.0686` (`0.94 * 0.98 * 0.99 - 1 = -0.0880`). Tight `-4%`/`-6%` stops get wicked out on minute noise before the 2x–6x run starts.
+
+### 3. Thin-Minute Stops (Your Question 1) + Selling 100% Instead of 50%
+* **Agree on thin minutes:** In [`entry-test.ts`](file:///root/trade-desk/scripts/entry-test.ts#L45), `v < 1000` minutes should stop only on the **close** (`c <= floor`), not the wick low `l`.
+* **Why `stepShare = 0.5` hurts Lottery on G1/G2:** When 33–49% of coins reach 2x before `-40%`, selling only **half** at 2x (`0.99x` cash) and holding the other half into post-peak dumps (rows 51, 68, 157, 205) turns 2x winners into `0%` trades.
+* **Test this exit on G1 & G2 once the `dead` candle is fixed:** Sell **100% (`stepShare = 1, lastStepSellsAll = true`)** at **`+50%` (`1.5x`)** and at **`+80%` (`1.8x`)**, with a **`-35%` stop (`stopPct = 0.35`)** and **`maxMinutes = 60`**.

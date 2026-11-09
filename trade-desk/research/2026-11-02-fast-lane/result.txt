@@ -1,0 +1,56 @@
+coins: 294, with candles: 257
+
+=== passed desk filter, not AVOID: 15 coins with candles (first half 7, second half 8) ===
+  went up 10%+ at some point: 13/15; up 25%+: 10; 6h later down 50%+: 9/15
+  [limit take-profit, 1% cost per side] 31 of 120 rules made money in both halves
+    tp +10% stop -6% max  30 min: avg/trade  +3.8% (halves  +2.2% /  +5.3%), wins 67%, worst -9%, n=15
+    tp +10% stop -10% max  30 min: avg/trade  +3.6% (halves  +2.2% /  +4.8%), wins 67%, worst -13%, n=15
+    tp +10% stop -15% max  30 min: avg/trade  +4.2% (halves  +2.2% /  +6.1%), wins 67%, worst -4%, n=15
+    tp +8% stop -6% max  30 min: avg/trade  +2.8% (halves  +1.6% /  +3.8%), wins 67%, worst -9%, n=15
+    tp +8% stop -10% max  30 min: avg/trade  +2.5% (halves  +1.6% /  +3.3%), wins 67%, worst -13%, n=15
+  [minute take-profit, 1% cost per side] 25 of 120 rules made money in both halves
+    tp +20% stop -10% max  30 min: avg/trade  +3.2% (halves  +1.9% /  +4.4%), wins 47%, worst -15%, n=15
+    tp +5% stop -15% max  30 min: avg/trade  +3.3% (halves  +1.8% /  +4.6%), wins 67%, worst -4%, n=15
+    tp +20% stop -6% max  30 min: avg/trade  +3.3% (halves  +1.6% /  +4.9%), wins 47%, worst -15%, n=15
+    tp +15% stop -10% max  30 min: avg/trade  +4.3% (halves  +1.3% /  +7.0%), wins 53%, worst -15%, n=15
+    tp +15% stop -15% max  30 min: avg/trade  +3.7% (halves  +1.3% /  +5.8%), wins 53%, worst -34%, n=15
+  [limit take-profit, 2% cost per side] 0 of 120 rules made money in both halves
+    best overall: tp +20% stop -15% max 30 min: avg  +5.7% (halves  -0.4% / +11.0%)
+    best overall: tp +15% stop -15% max 30 min: avg  +3.8% (halves  -1.1% /  +8.1%)
+    best overall: tp +20% stop -15% max 20 min: avg  +3.5% (halves  -1.4% /  +7.8%)
+  tp +10% / stop -6% / 60 min, limit: avg -1.1%, exits {'tp': 8, 'stop': 3, 'time': 4}, total on $80 a trade: $-13
+  tp +10% / stop -6% / 60 min, minute: avg -2.1%, exits {'tp': 6, 'stop': 5, 'time': 4}, total on $80 a trade: $-25
+
+=== Pulse not AVOID (any filter result): 80 coins with candles (first half 40, second half 40) ===
+  went up 10%+ at some point: 39/80; up 25%+: 32; 6h later down 50%+: 26/80
+  [limit take-profit, 1% cost per side] 0 of 120 rules made money in both halves
+    best overall: tp +20% stop -15% max 30 min: avg  -0.4% (halves  +2.4% /  -3.3%)
+    best overall: tp +20% stop -15% max 20 min: avg  -0.7% (halves  +1.7% /  -3.0%)
+    best overall: tp +20% stop -10% max 30 min: avg  -1.1% (halves  +1.4% /  -3.7%)
+  [minute take-profit, 1% cost per side] 0 of 120 rules made money in both halves
+    best overall: tp +20% stop -15% max 30 min: avg  -0.5% (halves  +2.9% /  -3.8%)
+    best overall: tp +20% stop -10% max 30 min: avg  -0.5% (halves  +1.5% /  -2.5%)
+    best overall: tp +15% stop -10% max 30 min: avg  -0.8% (halves  +1.3% /  -2.8%)
+  [limit take-profit, 2% cost per side] 0 of 120 rules made money in both halves
+    best overall: tp +20% stop -15% max 30 min: avg  -2.2% (halves  +0.2% /  -4.6%)
+    best overall: tp +20% stop -15% max 20 min: avg  -2.2% (halves  -0.1% /  -4.4%)
+    best overall: tp +15% stop -15% max 30 min: avg  -2.9% (halves  -0.6% /  -5.1%)
+  tp +10% / stop -6% / 60 min, limit: avg -4.5%, exits {'tp': 23, 'stop': 24, 'time': 33}, total on $80 a trade: $-289
+  tp +10% / stop -6% / 60 min, minute: avg -4.1%, exits {'tp': 20, 'stop': 27, 'time': 33}, total on $80 a trade: $-265
+
+=== all checked coins: 257 coins with candles (first half 128, second half 129) ===
+  went up 10%+ at some point: 175/257; up 25%+: 153; 6h later down 50%+: 83/257
+  [limit take-profit, 1% cost per side] 1 of 120 rules made money in both halves
+    tp +30% stop -15% max  10 min: avg/trade  +1.2% (halves  +1.8% /  +0.6%), wins 48%, worst -100%, n=257
+  [minute take-profit, 1% cost per side] 112 of 120 rules made money in both halves
+    tp +15% stop -6% max  30 min: avg/trade  +3.7% (halves  +3.4% /  +3.9%), wins 46%, worst -100%, n=257
+    tp +15% stop -15% max  20 min: avg/trade  +3.7% (halves  +4.1% /  +3.3%), wins 52%, worst -100%, n=257
+    tp +15% stop -15% max  30 min: avg/trade  +4.1% (halves  +4.9% /  +3.2%), wins 54%, worst -100%, n=257
+    tp +15% stop -15% max  10 min: avg/trade  +3.6% (halves  +3.2% /  +4.1%), wins 49%, worst -100%, n=257
+    tp +15% stop -4% max  30 min: avg/trade  +3.5% (halves  +3.1% /  +3.9%), wins 44%, worst -100%, n=257
+  [limit take-profit, 2% cost per side] 0 of 120 rules made money in both halves
+    best overall: tp +30% stop -15% max 10 min: avg  -1.3% (halves  -0.5% /  -2.1%)
+    best overall: tp +20% stop -15% max 30 min: avg  -1.4% (halves  -2.0% /  -0.8%)
+    best overall: tp +20% stop -15% max 20 min: avg  -1.5% (halves  -2.2% /  -0.7%)
+  tp +10% / stop -6% / 60 min, limit: avg -2.7%, exits {'tp': 119, 'stop': 72, 'time': 66}, total on $80 a trade: $-563
+  tp +10% / stop -6% / 60 min, minute: avg +1.6%, exits {'tp': 103, 'stop': 84, 'time': 70}, total on $80 a trade: $+326

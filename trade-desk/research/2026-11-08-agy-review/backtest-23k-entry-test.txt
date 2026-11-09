@@ -1,0 +1,238 @@
+Entry-filter test: 16071 of 23379 coins replayed (23379 pool ages found). Older/newer halves split at 2026-11-02T16:03:05.000Z. 1% cost per sale.
+
+ALL COINS: 16071 coins | reached 1.5x +17.5%, 2x +11.8%, 3x +6.7% before -40% | rugged +12.5%
+   Main                 avg   -19.2%  median  -13.4%  without best 1%  -20.9%  (older -19.3%, newer -19.0%)
+   Fast                 avg   -15.3%  median   -8.8%  without best 1%  -15.5%  (older -15.4%, newer -15.2%)
+   Ladder A             avg   -18.1%  median  -11.9%  without best 1%  -19.1%  (older -18.1%, newer -18.0%)
+   Ladder B             avg   -19.0%  median  -12.3%  without best 1%  -20.3%  (older -19.3%, newer -18.6%)
+   Lottery now (+100%)  avg   -19.7%  median  -15.6%  without best 1%  -22.4%  (older -19.6%, newer -19.9%)
+   Lottery +50%         avg   -19.7%  median  -14.5%  without best 1%  -22.1%  (older -19.8%, newer -19.7%)
+   Lottery +20%         avg   -20.0%  median  -13.3%  without best 1%  -22.2%  (older -20.1%, newer -19.9%)
+
+========== by Age when seen ==========
+
+Age when seen: 1-6 h: 16 coins | reached 1.5x +25.0%, 2x +12.5%, 3x +6.3% before -40% | rugged +31.3%
+   Main                 avg   -21.2%  median   -8.8%  without best 1%  -23.9%  (older -27.6%, newer -13.0%)
+   Fast                 avg    -8.5%  median   -8.8%  without best 1%   -9.6%  (older -5.0%, newer -12.9%)
+   Ladder A             avg    -9.9%  median   -6.9%  without best 1%  -11.2%  (older -6.6%, newer -14.0%)
+   Ladder B             avg   -20.2%  median   -6.9%  without best 1%  -21.5%  (older -24.8%, newer -14.2%)
+   Lottery now (+100%)  avg   -13.2%  median  -41.8%  without best 1%  -23.1%  (older -29.8%, newer +8.1%)
+   Lottery +50%         avg   -17.7%  median  -41.8%  without best 1%  -26.3%  (older -33.6%, newer +2.7%)
+   Lottery +20%         avg   -12.9%  median  -21.2%  without best 1%  -20.1%  (older -26.2%, newer +4.3%)
+
+Age when seen: 1-7 days: 16 coins | reached 1.5x +31.3%, 2x +18.8%, 3x +18.8% before -40% | rugged +6.3%
+   Main                 avg    -4.8%  median   -8.8%  without best 1%   -7.1%  (older -4.5%, newer -6.3%)
+   Fast                 avg    -3.0%  median   -6.4%  without best 1%   -3.8%  (older -2.8%, newer -4.0%)
+   Ladder A             avg    -3.2%  median   -5.0%  without best 1%   -5.3%  (older -3.2%, newer -3.2%)
+   Ladder B             avg    -4.0%  median   -5.8%  without best 1%   -5.9%  (older -3.8%, newer -5.1%)
+   Lottery now (+100%)  avg   -19.0%  median  -41.8%  without best 1%  -27.8%  (older -14.9%, newer -36.7%)
+   Lottery +50%         avg   -16.1%  median  -41.8%  without best 1%  -23.1%  (older -11.4%, newer -36.7%)
+   Lottery +20%         avg   -17.6%  median   -4.2%  without best 1%  -23.7%  (older -17.8%, newer -16.9%)
+
+Age when seen: 10-60 min: 61 coins | reached 1.5x +32.8%, 2x +13.1%, 3x +4.9% before -40% | rugged +42.6%
+   Main                 avg   -16.7%  median   -8.8%  without best 1%  -18.7%  (older -17.8%, newer -15.9%)
+   Fast                 avg    -5.1%  median   +1.2%  without best 1%   -5.3%  (older -1.6%, newer -7.7%)
+   Ladder A             avg    -7.6%  median   -3.9%  without best 1%   -8.1%  (older -8.7%, newer -6.7%)
+   Ladder B             avg   -18.0%  median   -6.9%  without best 1%  -19.2%  (older -19.2%, newer -17.1%)
+   Lottery now (+100%)  avg   -24.2%  median  -41.8%  without best 1%  -27.0%  (older -18.3%, newer -28.7%)
+   Lottery +50%         avg   -16.4%  median  -24.7%  without best 1%  -18.7%  (older -13.4%, newer -18.6%)
+   Lottery +20%         avg   -14.0%  median   -5.1%  without best 1%  -16.0%  (older -11.6%, newer -15.8%)
+
+Age when seen: 6-24 h: 8 coins | reached 1.5x +75.0%, 2x +25.0%, 3x +0.0% before -40% | rugged +37.5%
+   Main                 avg    +2.4%  median   -8.8%  without best 1%   -7.8%  (older +2.4%, newer n/a)
+   Fast                 avg    -4.5%  median   -1.5%  without best 1%   -6.5%  (older -4.5%, newer n/a)
+   Ladder A             avg    -4.6%  median   -1.1%  without best 1%   -5.6%  (older -4.6%, newer n/a)
+   Ladder B             avg    -4.8%  median   -6.2%  without best 1%   -6.4%  (older -4.8%, newer n/a)
+   Lottery now (+100%)  avg   +10.6%  median  +54.1%  without best 1%   +1.5%  (older +10.6%, newer n/a)
+   Lottery +50%         avg   +17.3%  median  +30.1%  without best 1%  +10.9%  (older +17.3%, newer n/a)
+   Lottery +20%         avg   +14.5%  median  +14.9%  without best 1%   +9.9%  (older +14.5%, newer n/a)
+
+Age when seen: over 7 days: 75 coins | reached 1.5x +4.0%, 2x +2.7%, 3x +1.3% before -40% | rugged +0.0%
+   Main                 avg    -3.0%  median   -3.4%  without best 1%   -4.8%  (older -5.6%, newer +1.1%)
+   Fast                 avg    -3.0%  median   -2.2%  without best 1%   -3.2%  (older -3.4%, newer -2.3%)
+   Ladder A             avg    -4.0%  median   -3.3%  without best 1%   -4.2%  (older -4.2%, newer -3.7%)
+   Ladder B             avg    -4.1%  median   -3.4%  without best 1%   -4.3%  (older -4.2%, newer -3.9%)
+   Lottery now (+100%)  avg    -3.2%  median   -3.2%  without best 1%   -5.3%  (older -6.7%, newer +2.4%)
+   Lottery +50%         avg    -5.2%  median   -3.2%  without best 1%   -5.9%  (older -6.7%, newer -2.9%)
+   Lottery +20%         avg    -5.4%  median   -3.2%  without best 1%   -6.0%  (older -6.4%, newer -3.9%)
+
+Age when seen: under 10 min: 15895 coins | reached 1.5x +17.5%, 2x +11.8%, 3x +6.7% before -40% | rugged +12.4%
+   Main                 avg   -19.3%  median  -13.5%  without best 1%  -21.0%  (older -19.4%, newer -19.1%)
+   Fast                 avg   -15.4%  median   -8.8%  without best 1%  -15.7%  (older -15.5%, newer -15.3%)
+   Ladder A             avg   -18.2%  median  -12.0%  without best 1%  -19.3%  (older -18.3%, newer -18.1%)
+   Ladder B             avg   -19.1%  median  -12.4%  without best 1%  -20.4%  (older -19.4%, newer -18.7%)
+   Lottery now (+100%)  avg   -19.8%  median  -15.6%  without best 1%  -22.5%  (older -19.7%, newer -19.9%)
+   Lottery +50%         avg   -19.8%  median  -14.6%  without best 1%  -22.2%  (older -19.9%, newer -19.7%)
+   Lottery +20%         avg   -20.1%  median  -13.4%  without best 1%  -22.4%  (older -20.3%, newer -20.0%)
+
+========== by 1h volume ==========
+
+1h volume: $10k+: 2903 coins | reached 1.5x +39.0%, 2x +27.1%, 3x +16.1% before -40% | rugged +19.2%
+   Main                 avg   -14.0%  median   -8.8%  without best 1%  -16.2%  (older -13.6%, newer -14.4%)
+   Fast                 avg   -10.6%  median   -8.8%  without best 1%  -10.8%  (older -10.1%, newer -11.3%)
+   Ladder A             avg   -13.6%  median   -6.9%  without best 1%  -14.8%  (older -13.2%, newer -14.1%)
+   Ladder B             avg   -14.5%  median   -6.9%  without best 1%  -16.2%  (older -14.3%, newer -14.8%)
+   Lottery now (+100%)  avg   -12.2%  median  -21.9%  without best 1%  -15.1%  (older -10.4%, newer -14.5%)
+   Lottery +50%         avg   -12.9%  median  -18.4%  without best 1%  -15.5%  (older -11.8%, newer -14.1%)
+   Lottery +20%         avg   -14.2%  median  -12.8%  without best 1%  -16.6%  (older -13.2%, newer -15.4%)
+
+1h volume: $1k-10k: 13168 coins | reached 1.5x +12.8%, 2x +8.4%, 3x +4.7% before -40% | rugged +11.0%
+   Main                 avg   -20.3%  median  -13.9%  without best 1%  -21.9%  (older -20.7%, newer -19.9%)
+   Fast                 avg   -16.3%  median  -11.8%  without best 1%  -16.6%  (older -16.7%, newer -16.0%)
+   Ladder A             avg   -19.0%  median  -12.5%  without best 1%  -20.1%  (older -19.3%, newer -18.7%)
+   Ladder B             avg   -19.9%  median  -12.8%  without best 1%  -21.2%  (older -20.5%, newer -19.4%)
+   Lottery now (+100%)  avg   -21.4%  median  -14.9%  without best 1%  -24.0%  (older -21.9%, newer -20.9%)
+   Lottery +50%         avg   -21.2%  median  -14.1%  without best 1%  -23.5%  (older -21.7%, newer -20.7%)
+   Lottery +20%         avg   -21.3%  median  -13.4%  without best 1%  -23.5%  (older -21.8%, newer -20.8%)
+
+========== by Run-up in the hour before ==========
+
+Run-up in the hour before: fell 20%+: 5 coins | reached 1.5x +0.0%, 2x +0.0%, 3x +0.0% before -40% | rugged +0.0%
+   Main                 avg   -14.5%  median  -11.8%  without best 1%  -16.4%  (older -11.7%, newer -15.3%)
+   Fast                 avg   -14.5%  median  -11.8%  without best 1%  -16.4%  (older -11.7%, newer -15.3%)
+   Ladder A             avg   -13.6%  median  -10.3%  without best 1%  -15.7%  (older -10.1%, newer -14.5%)
+   Ladder B             avg   -13.6%  median  -10.3%  without best 1%  -15.7%  (older -10.1%, newer -14.5%)
+   Lottery now (+100%)  avg   -40.6%  median  -44.4%  without best 1%  -45.5%  (older -50.5%, newer -38.1%)
+   Lottery +50%         avg   -40.6%  median  -44.4%  without best 1%  -45.5%  (older -50.5%, newer -38.1%)
+   Lottery +20%         avg   -40.6%  median  -44.4%  without best 1%  -45.5%  (older -50.5%, newer -38.1%)
+
+Run-up in the hour before: flat (-20% to +20%): 77 coins | reached 1.5x +11.7%, 2x +3.9%, 3x +1.3% before -40% | rugged +7.8%
+   Main                 avg    -4.8%  median   -3.6%  without best 1%   -5.9%  (older -4.9%, newer -4.7%)
+   Fast                 avg    -2.9%  median   -2.1%  without best 1%   -3.1%  (older -2.5%, newer -3.6%)
+   Ladder A             avg    -3.9%  median   -3.3%  without best 1%   -4.3%  (older -3.3%, newer -4.9%)
+   Ladder B             avg    -5.3%  median   -3.6%  without best 1%   -5.7%  (older -5.2%, newer -5.4%)
+   Lottery now (+100%)  avg    -8.4%  median   -3.6%  without best 1%   -9.5%  (older -6.3%, newer -12.1%)
+   Lottery +50%         avg    -5.8%  median   -3.4%  without best 1%   -6.7%  (older -4.0%, newer -9.1%)
+   Lottery +20%         avg    -4.7%  median   -2.8%  without best 1%   -5.4%  (older -3.9%, newer -6.0%)
+
+Run-up in the hour before: unknown: 15955 coins | reached 1.5x +17.5%, 2x +11.9%, 3x +6.8% before -40% | rugged +12.4%
+   Main                 avg   -19.3%  median  -13.5%  without best 1%  -21.0%  (older -19.4%, newer -19.1%)
+   Fast                 avg   -15.4%  median   -8.8%  without best 1%  -15.6%  (older -15.5%, newer -15.3%)
+   Ladder A             avg   -18.1%  median  -12.0%  without best 1%  -19.2%  (older -18.3%, newer -18.0%)
+   Ladder B             avg   -19.0%  median  -12.4%  without best 1%  -20.4%  (older -19.4%, newer -18.7%)
+   Lottery now (+100%)  avg   -19.8%  median  -15.6%  without best 1%  -22.4%  (older -19.7%, newer -19.9%)
+   Lottery +50%         avg   -19.8%  median  -14.5%  without best 1%  -22.2%  (older -19.8%, newer -19.7%)
+   Lottery +20%         avg   -20.1%  median  -13.4%  without best 1%  -22.3%  (older -20.2%, newer -20.0%)
+
+Run-up in the hour before: up 100%+: 15 coins | reached 1.5x +33.3%, 2x +13.3%, 3x +0.0% before -40% | rugged +33.3%
+   Main                 avg   -10.5%  median   -8.8%  without best 1%  -18.8%  (older -27.1%, newer +4.1%)
+   Fast                 avg    -8.6%  median   -8.8%  without best 1%   -9.9%  (older -10.1%, newer -7.3%)
+   Ladder A             avg   -11.5%  median   -6.9%  without best 1%  -12.4%  (older -11.5%, newer -11.5%)
+   Ladder B             avg   -23.1%  median   -6.9%  without best 1%  -24.7%  (older -35.4%, newer -12.2%)
+   Lottery now (+100%)  avg    -4.5%  median  -21.2%  without best 1%  -14.1%  (older -9.1%, newer -0.5%)
+   Lottery +50%         avg    -9.8%  median  -25.0%  without best 1%  -17.9%  (older -15.8%, newer -4.5%)
+   Lottery +20%         avg    -8.1%  median  -21.2%  without best 1%  -15.1%  (older -13.7%, newer -3.3%)
+
+Run-up in the hour before: up 20-100%: 19 coins | reached 1.5x +26.3%, 2x +10.5%, 3x +10.5% before -40% | rugged +36.8%
+   Main                 avg    -7.6%  median   -8.8%  without best 1%   -9.1%  (older -3.8%, newer -12.8%)
+   Fast                 avg    -5.4%  median   -5.1%  without best 1%   -6.2%  (older +0.4%, newer -13.4%)
+   Ladder A             avg    -6.8%  median   -4.9%  without best 1%   -7.6%  (older -3.1%, newer -11.8%)
+   Ladder B             avg    -7.0%  median   -5.8%  without best 1%   -8.0%  (older -3.5%, newer -11.9%)
+   Lottery now (+100%)  avg   -18.0%  median  -41.8%  without best 1%  -27.6%  (older -37.8%, newer +9.2%)
+   Lottery +50%         avg   -17.7%  median  -40.6%  without best 1%  -24.8%  (older -33.1%, newer +3.5%)
+   Lottery +20%         avg   -15.2%  median   -2.4%  without best 1%  -21.3%  (older -24.7%, newer -2.1%)
+
+========== by Price ==========
+
+Price: $0.01 or more: 355 coins | reached 1.5x +4.8%, 2x +3.1%, 3x +1.1% before -40% | rugged +26.8%
+   Main                 avg   -53.2%  median  -74.1%  without best 1%  -55.7%  (older -54.3%, newer -51.8%)
+   Fast                 avg    -4.6%  median   +2.9%  without best 1%   -4.7%  (older -4.3%, newer -5.0%)
+   Ladder A             avg   -22.1%  median   -1.4%  without best 1%  -23.2%  (older -19.6%, newer -25.0%)
+   Ladder B             avg   -41.1%  median  -56.5%  without best 1%  -43.1%  (older -41.5%, newer -40.6%)
+   Lottery now (+100%)  avg   -53.2%  median  -74.0%  without best 1%  -55.3%  (older -54.5%, newer -51.6%)
+   Lottery +50%         avg   -53.3%  median  -73.9%  without best 1%  -55.1%  (older -54.2%, newer -52.2%)
+   Lottery +20%         avg   -50.3%  median  -71.0%  without best 1%  -51.9%  (older -49.9%, newer -50.7%)
+
+Price: under $0.01: 15716 coins | reached 1.5x +17.8%, 2x +12.0%, 3x +6.8% before -40% | rugged +12.1%
+   Main                 avg   -18.4%  median  -13.3%  without best 1%  -20.1%  (older -18.4%, newer -18.4%)
+   Fast                 avg   -15.5%  median   -8.8%  without best 1%  -15.8%  (older -15.7%, newer -15.4%)
+   Ladder A             avg   -18.0%  median  -12.0%  without best 1%  -19.1%  (older -18.1%, newer -17.8%)
+   Ladder B             avg   -18.5%  median  -12.3%  without best 1%  -19.8%  (older -18.7%, newer -18.2%)
+   Lottery now (+100%)  avg   -19.0%  median  -15.3%  without best 1%  -21.6%  (older -18.7%, newer -19.2%)
+   Lottery +50%         avg   -18.9%  median  -14.2%  without best 1%  -21.3%  (older -18.9%, newer -19.0%)
+   Lottery +20%         avg   -19.3%  median  -13.1%  without best 1%  -21.6%  (older -19.4%, newer -19.3%)
+
+========== lottery coins (under $0.01) by age ==========
+
+under $0.01, age 1-6 h: 15 coins | reached 1.5x +20.0%, 2x +6.7%, 3x +6.7% before -40% | rugged +26.7%
+   Main                 avg   -15.9%  median   -8.8%  without best 1%  -18.5%  (older -18.5%, newer -13.0%)
+   Fast                 avg    -8.9%  median   -8.8%  without best 1%  -10.2%  (older -5.5%, newer -12.9%)
+   Ladder A             avg   -11.2%  median   -6.9%  without best 1%  -11.9%  (older -8.7%, newer -14.0%)
+   Ladder B             avg   -16.3%  median   -6.9%  without best 1%  -17.4%  (older -18.2%, newer -14.2%)
+   Lottery now (+100%)  avg   -14.0%  median  -41.8%  without best 1%  -24.7%  (older -33.3%, newer +8.1%)
+   Lottery +50%         avg   -17.2%  median  -41.8%  without best 1%  -26.3%  (older -34.6%, newer +2.7%)
+   Lottery +20%         avg   -11.0%  median  -21.2%  without best 1%  -18.7%  (older -24.4%, newer +4.3%)
+
+under $0.01, age 1-7 days: 15 coins | reached 1.5x +33.3%, 2x +20.0%, 3x +20.0% before -40% | rugged +6.7%
+   Main                 avg    -4.5%  median   -8.8%  without best 1%   -7.0%  (older -4.1%, newer -6.3%)
+   Fast                 avg    -2.9%  median   -8.8%  without best 1%   -3.8%  (older -2.7%, newer -4.0%)
+   Ladder A             avg    -2.7%  median   -5.0%  without best 1%   -5.0%  (older -2.6%, newer -3.2%)
+   Ladder B             avg    -3.6%  median   -5.8%  without best 1%   -5.6%  (older -3.3%, newer -5.1%)
+   Lottery now (+100%)  avg   -17.5%  median  -41.8%  without best 1%  -26.8%  (older -12.7%, newer -36.7%)
+   Lottery +50%         avg   -14.4%  median  -41.8%  without best 1%  -21.7%  (older -8.9%, newer -36.7%)
+   Lottery +20%         avg   -16.0%  median   -4.2%  without best 1%  -22.4%  (older -15.8%, newer -16.9%)
+
+under $0.01, age 10-60 min: 60 coins | reached 1.5x +33.3%, 2x +13.3%, 3x +5.0% before -40% | rugged +41.7%
+   Main                 avg   -15.3%  median   -8.8%  without best 1%  -17.4%  (older -17.8%, newer -13.4%)
+   Fast                 avg    -5.3%  median   +1.2%  without best 1%   -5.6%  (older -1.6%, newer -8.2%)
+   Ladder A             avg    -7.7%  median   -3.9%  without best 1%   -8.3%  (older -8.7%, newer -7.0%)
+   Ladder B             avg   -17.1%  median   -6.9%  without best 1%  -18.2%  (older -19.2%, newer -15.4%)
+   Lottery now (+100%)  avg   -23.0%  median  -41.8%  without best 1%  -25.8%  (older -18.3%, newer -26.6%)
+   Lottery +50%         avg   -15.0%  median  -20.2%  without best 1%  -17.3%  (older -13.4%, newer -16.3%)
+   Lottery +20%         avg   -13.6%  median   -3.7%  without best 1%  -15.6%  (older -11.6%, newer -15.1%)
+
+under $0.01, age 6-24 h: 8 coins | reached 1.5x +75.0%, 2x +25.0%, 3x +0.0% before -40% | rugged +37.5%
+   Main                 avg    +2.4%  median   -8.8%  without best 1%   -7.8%  (older +2.4%, newer n/a)
+   Fast                 avg    -4.5%  median   -1.5%  without best 1%   -6.5%  (older -4.5%, newer n/a)
+   Ladder A             avg    -4.6%  median   -1.1%  without best 1%   -5.6%  (older -4.6%, newer n/a)
+   Ladder B             avg    -4.8%  median   -6.2%  without best 1%   -6.4%  (older -4.8%, newer n/a)
+   Lottery now (+100%)  avg   +10.6%  median  +54.1%  without best 1%   +1.5%  (older +10.6%, newer n/a)
+   Lottery +50%         avg   +17.3%  median  +30.1%  without best 1%  +10.9%  (older +17.3%, newer n/a)
+   Lottery +20%         avg   +14.5%  median  +14.9%  without best 1%   +9.9%  (older +14.5%, newer n/a)
+
+under $0.01, age over 7 days: 30 coins | reached 1.5x +10.0%, 2x +6.7%, 3x +3.3% before -40% | rugged +0.0%
+   Main                 avg    -1.3%  median   -8.8%  without best 1%   -5.9%  (older -7.2%, newer +5.3%)
+   Fast                 avg    -4.1%  median   -3.5%  without best 1%   -4.6%  (older -5.6%, newer -2.5%)
+   Ladder A             avg    -4.0%  median   -6.9%  without best 1%   -4.5%  (older -4.1%, newer -3.9%)
+   Ladder B             avg    -4.2%  median   -6.9%  without best 1%   -4.7%  (older -4.6%, newer -3.8%)
+   Lottery now (+100%)  avg    -3.2%  median  -10.3%  without best 1%   -8.7%  (older -13.0%, newer +8.0%)
+   Lottery +50%         avg    -8.3%  median  -10.3%  without best 1%  -10.3%  (older -13.0%, newer -3.0%)
+   Lottery +20%         avg    -8.9%  median  -10.3%  without best 1%  -10.4%  (older -12.3%, newer -5.1%)
+
+under $0.01, age under 10 min: 15588 coins | reached 1.5x +17.7%, 2x +12.0%, 3x +6.9% before -40% | rugged +12.0%
+   Main                 avg   -18.5%  median  -13.4%  without best 1%  -20.2%  (older -18.5%, newer -18.4%)
+   Fast                 avg   -15.6%  median   -8.8%  without best 1%  -15.9%  (older -15.8%, newer -15.5%)
+   Ladder A             avg   -18.1%  median  -12.1%  without best 1%  -19.2%  (older -18.2%, newer -17.9%)
+   Ladder B             avg   -18.5%  median  -12.3%  without best 1%  -19.8%  (older -18.8%, newer -18.2%)
+   Lottery now (+100%)  avg   -19.0%  median  -15.3%  without best 1%  -21.7%  (older -18.8%, newer -19.3%)
+   Lottery +50%         avg   -19.0%  median  -14.2%  without best 1%  -21.4%  (older -19.0%, newer -19.0%)
+   Lottery +20%         avg   -19.4%  median  -13.1%  without best 1%  -21.6%  (older -19.5%, newer -19.3%)
+
+========== the 25 biggest moves after the desk saw the coin (traded minutes only) ==========
+  FOTF             6526.1x after 251 min | seen Nov 3, 5:40 AM Dallas, pool 1 min old | buy $0.0000387 | lottery -95.0%, main -95.0% | nbkJkVoQZC1MznppBzrrvTeqZYXXZ6ZE5F1q4Lapump
+  hope              152.2x after 16 min | seen Nov 3, 12:54 PM Dallas, pool 2 min old | buy $0.0000516 | lottery +67.6%, main -8.8% | HWGxZSHW9Tv246HrpsETZQ9P1N8MvdLv9wzLf2CYtY3y
+  long              121.1x after 6 min | seen Nov 3, 12:50 PM Dallas, pool 1 min old | buy $0.0000779 | lottery -1.0%, main -6.9% | DxopBqoEedqgR4wBzqHQ5EBpLDAw9hPYC9vdk3qEx2Pn
+  OMBRO              33.6x after 35 min | seen Nov 3, 4:44 AM Dallas, pool 2 min old | buy $0.0000154 | lottery +7.1%, main +4.7% | 8vs2p2G7Xubf74w9D7sPJnRZgpTgcXt9RfAfDAG5JzJD
+  Trump              29.5x after 82 min | seen Nov 2, 10:47 AM Dallas, pool 2 min old | buy $0.000119 | lottery -54.6%, main -54.6% | DoaLYXYxuzYAuYqTdj29LTTxxs4o6oxNDW166gcpump
+  STONKS             29.5x after 158 min | seen Nov 3, 12:09 PM Dallas, pool 3 min old | buy $0.0000141 | lottery +354.5%, main -18.0% | 5qctidZ7TgBbUMyryd9G474Fo1ydFf4KyyVY2EFG5W9k
+  同花顺                27.0x after 64 min | seen Nov 3, 3:48 AM Dallas, pool 1 min old | buy $0.0000103 | lottery +219.3%, main -28.0% | Fx1ZiVa8Bv7LHA1scZAWkEe4psg7dz5sWWDT75wgjxFD
+  AMD                25.0x after 129 min | seen Nov 3, 3:43 PM Dallas, pool 1 min old | buy $0.00000231 | lottery +91.6%, main -15.2% | 6tkVxdczVGwpvjYHQAuSEJjkGxnbgvdyNJt33gUfpump
+  同花顺                23.2x after 60 min | seen Nov 3, 2:09 AM Dallas, pool 2 min old | buy $0.0000119 | lottery +44.3%, main +96.8% | 9GzGn9xFpib4Q3u4hTmordW1AABtzDMezZ1WSaUQtNQv
+  AI                 22.2x after 101 min | seen Nov 1, 1:52 PM Dallas, pool 2 min old | buy $0.000120 | lottery -0.2%, main -98.5% | 5Jh9HgUtWV3xk1dhrSHaD8iNmhS633BxYVjorzapump
+  BARRON             20.6x after 75 min | seen Nov 2, 8:54 AM Dallas, pool 2 min old | buy $0.000120 | lottery -48.2%, main -48.2% | KAYLXRuyGwpQvgSophqcvX6GNMYw9eTGRDQCeFepump
+  shegoin            18.9x after 72 min | seen Nov 1, 7:52 AM Dallas, pool 2 min old | buy $0.0000148 | lottery +309.9%, main -6.9% | 2TRhx5GQU8qrsVmHveQtdGhNBoW8xgrjjSpKsb7qLXN7
+  同花顺                18.6x after 132 min | seen Nov 3, 5:11 AM Dallas, pool 5 min old | buy $0.00000931 | lottery +86.9%, main -24.5% | 6DCP1p9GL7erMEaSe18K3HwSg2C7u92nEaVRmb19sssX
+  大A股                17.3x after 51 min | seen Nov 1, 3:37 PM Dallas, pool 3 min old | buy $0.00000897 | lottery +55.7%, main -8.7% | 2Gh2MRR9pbAErt6nq11SQim8ajh4zMTBpfQnU1XKkode
+  大A                 16.6x after 98 min | seen Nov 2, 10:19 AM Dallas, pool 2 min old | buy $0.00000764 | lottery +67.9%, main +37.8% | FcBdiJrZd9F6Qpi2vWXXB2brcZjWaJmo4p7G6fLrZYvG
+  YouTube            16.2x after 108 min | seen Nov 1, 6:06 PM Dallas, pool 6 min old | buy $0.000116 | lottery -0.3%, main -98.5% | HzodFRVSENfzs6JENCfWjKkoYEjJX48w53LeU21spump
+  Slingoor           16.1x after 105 min | seen Nov 2, 9:12 AM Dallas, pool 2 min old | buy $0.000139 | lottery +97.0%, main -6.9% | 9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump
+  RICO               15.9x after 935 min | seen Nov 2, 10:28 AM Dallas, pool 2 min old | buy $0.0000462 | lottery +142.3%, main -8.8% | 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump
+  Grok               15.4x after 67 min | seen Nov 1, 7:19 AM Dallas, pool 1 min old | buy $0.000124 | lottery +50.9%, main +3.9% | tjQGvgjdR9PJKhkpZtZsehDYxjePRcXs8swkXwSpump
+  STAVO              14.7x after 319 min | seen Nov 1, 7:44 AM Dallas, pool 2 min old | buy $0.0000228 | lottery +436.5%, main +4.8% | 5ZWTin4FBPJ2G572jCWCi59o4SdPsGSinENMcmKYApTo
+  BLUE               14.6x after 23 min | seen Nov 1, 10:35 AM Dallas, pool 1 min old | buy $0.000138 | lottery -41.8%, main -44.4% | FfCzh7o4f865Jixt7D1CLF7Zp7WKNz8L1oxBdXKsmBGV
+  DOPPLER            14.3x after 35 min | seen Nov 2, 7:40 PM Dallas, pool 1 min old | buy $0.0000105 | lottery +172.3%, main -8.8% | EZNJymfycrLAiMKNg3NHp2FBsdSkRcx53e7Rw8bxqJ6a
+  Coca-Cola          13.7x after 39 min | seen Nov 3, 12:20 AM Dallas, pool 2 min old | buy $0.0000654 | lottery +0.5%, main -97.0% | jPdQbzY8qQfq3K8YmhW1csNLkZBwFptCAbqeybPpump
+  HAMSTER            13.3x after 19 min | seen Nov 2, 4:41 PM Dallas, pool 2 min old | buy $0.0000107 | lottery +119.1%, main +8.8% | GAv6gs9AtQtf1xcHtq3V6HQ3daj42H4iDyzC4STWYMdw
+  DPRK               13.0x after 60 min | seen Nov 1, 10:20 PM Dallas, pool 2 min old | buy $0.00000840 | lottery +54.6%, main +18.5% | 5StmJraAHh8irqnP3PHJ6R3KcUYQB94pagaFowstWYqz
+
+LEADS (positive on both halves, 100+ coins each, still positive without the best 1%): none

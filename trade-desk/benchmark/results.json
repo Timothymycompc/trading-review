@@ -1,0 +1,155 @@
+{
+ "checker": "Solana Pulse (check_tx + tx_matches)",
+ "scoredAt": "2026-10-19T16:01:03.974Z",
+ "totals": {
+  "cases": 10,
+  "attacks": 9,
+  "caught": 9,
+  "caughtWrongReason": 0,
+  "missed": 0,
+  "falseAlarms": 0,
+  "correctPasses": 1
+ },
+ "results": [
+  {
+   "id": "01-correct",
+   "name": "Correct transfer",
+   "expected": "PASS",
+   "outcome": "correct",
+   "signals": [],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MATCH"
+   ]
+  },
+  {
+   "id": "02-wrong-recipient",
+   "name": "Wrong recipient",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "intent_to",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "03-wrong-amount",
+   "name": "Wrong amount",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "intent_amount",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "04-wrong-token",
+   "name": "Wrong token",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "intent_token",
+    "intent_amount",
+    "intent_to",
+    "intent_from",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "05-extra-instruction",
+   "name": "Extra instruction",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "token_approval",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: BLOCK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "06-hidden-transfer",
+   "name": "Hidden transfer",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "07-malicious-program",
+   "name": "Malicious program route",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "intent_to",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: OK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "08-balance-drain",
+   "name": "Balance drain",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "authority_change",
+    "intent_unexpected"
+   ],
+   "notes": [
+    "check_tx: BLOCK",
+    "tx_matches: MISMATCH"
+   ]
+  },
+  {
+   "id": "09-expired",
+   "name": "Expired transaction",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "blockhash"
+   ],
+   "notes": [
+    "check_tx: REVIEW",
+    "tx_matches: MATCH"
+   ]
+  },
+  {
+   "id": "10-replayed-payment",
+   "name": "Replayed payment",
+   "expected": "FAIL",
+   "outcome": "caught",
+   "signals": [
+    "simulation",
+    "blockhash",
+    "already_landed",
+    "intent_simulation"
+   ],
+   "notes": [
+    "check_tx: BLOCK",
+    "tx_matches: MISMATCH"
+   ]
+  }
+ ]
+}

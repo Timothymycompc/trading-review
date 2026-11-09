@@ -1,0 +1,14 @@
+
+SOL: 4996 hours. Train Apr 07-Aug 09: holding -2.8%. Test Aug 09-Nov 01: holding +24.6%.
+
+JUP: 5382 hours. Train Mar 21-Aug 03: holding +20.0%. Test Aug 03-Nov 01: holding +35.0%.
+
+BONK: 4996 hours. Train Apr 07-Aug 09: holding -55.6%. Test Aug 09-Nov 01: holding +19.2%.
+
+WIF: 5012 hours. Train Apr 06-Aug 09: holding -23.6%. Test Aug 09-Nov 01: holding +21.6%.
+
+Rules tried: 436 (109 per token).
+Survivors (made money AND beat holding, in both periods, 10+ trades each): 0
+
+For comparison: the same number of RANDOM rules (same trade counts and time in market) produced 2 'survivors'.
+Rules that made money and beat holding in both periods on 3+ of the 4 tokens: 0
