@@ -1,3 +1,11 @@
+<p align="center"><img src="assets/banner.svg" alt="Trading Review" width="100%"></p>
+
+<p align="center">
+
+![memecoins: all lanes lost](https://img.shields.io/badge/memecoins-all_lanes_lost-f43f5e?style=flat-square&labelColor=0a0f19) ![stocks: nothing beat SPY](https://img.shields.io/badge/stocks-nothing_beat_SPY-f43f5e?style=flat-square&labelColor=0a0f19) ![forex indicators: failed unseen data](https://img.shields.io/badge/forex_indicators-failed_unseen_data-f59e0b?style=flat-square&labelColor=0a0f19) ![Fed-day effect: holds](https://img.shields.io/badge/Fed--day_effect-holds-10b981?style=flat-square&labelColor=0a0f19) ![data: all public](https://img.shields.io/badge/data-all_public-dfc58a?style=flat-square&labelColor=0a0f19) [![dev log: read](https://img.shields.io/badge/dev_log-read-cfab66?style=flat-square&labelColor=0a0f19)](https://github.com/Timothymycompc/dev-log)
+
+</p>
+
 # Trading Review: memecoins, stocks and forex, tested honestly
 
 Over a few weeks (Oct–Nov 2026) we built trading bots and backtests for three markets and kept a record of what held up and

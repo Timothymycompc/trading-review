@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Trading Review">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121927"/><stop offset="1" stop-color="#0a0f19"/></linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b8914b"/><stop offset=".5" stop-color="#dfc58a"/><stop offset="1" stop-color="#cfab66"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#232c3e" stroke-width="1" opacity=".55"/></pattern>
+    <style>
+      .t { font-family: Archivo, "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+      .m { font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace; }
+      .pulse { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 3.2s ease-out forwards, glow 3s ease-in-out 3.2s infinite; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes glow { 0%,100% { opacity: 1; } 50% { opacity: .55; } }
+      .dot { animation: blink 2.4s ease-in-out infinite; }
+      .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.6s; }
+      @keyframes blink { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes scan { from { transform: translateX(-200px); } to { transform: translateX(1400px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect class="scan" x="0" y="0" width="120" height="300" fill="#dfc58a" opacity=".05"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="17" fill="none" stroke="#344057" stroke-width="3"/>
+  <rect x="40" y="38" width="64" height="4" rx="2" fill="url(#brass)"/>
+  <text x="40" y="76" class="m" font-size="18" fill="#cfab66" letter-spacing="3">PULSE  ·  RESEARCH</text>
+  <text x="40" y="150" class="t" font-size="64" fill="#e9ecf2">Trading Review</text>
+  <text x="40" y="196" class="m" font-size="22" fill="#8a94a8">Memecoins · stocks · forex — honest backtests, all data</text>
+  <path class="pulse" d="M40 250 H420 l18 -24 l22 44 l20 -56 l22 60 l18 -24 H760 l14 -18 l16 30 l14 -12 H1160" fill="none" stroke="url(#brass)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(1040 66)">
+    <circle class="dot" cx="0" cy="0" r="9" fill="#10b981"/>
+    <circle class="dot d2" cx="34" cy="0" r="9" fill="#f59e0b"/>
+    <circle class="dot d3" cx="68" cy="0" r="9" fill="#f43f5e"/>
+  </g>
+  <text x="1108" y="104" class="m" font-size="14" fill="#657086" text-anchor="end">SAFE · CAUTION · AVOID</text>
+</svg>
