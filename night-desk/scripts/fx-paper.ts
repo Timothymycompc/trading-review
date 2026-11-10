@@ -52,7 +52,9 @@ for (const [pair, sellUsd, cost] of FOMC_PAIRS) {
   for (const d of fomcDates.filter((x) => x >= START.slice(0, 10))) {
     const prev = [...at17.keys()].filter((k) => k < d).sort().at(-1);
     const entry = prev ? at17.get(prev) : undefined, exit = at17.get(d);
-    if (!entry) continue; // not started yet (or out of the candle window)
+    // entry = the 17:00 NY candle on the trading day before the meeting; for future meetings the latest candle
+    // is weeks early, so skip unless that day is within 4 calendar days (Fed meets Tue/Wed; covers weekends + holidays)
+    if (!entry || (Date.parse(d) - Date.parse(prev!)) / 86400000 > 4) continue; // not started yet (or out of the candle window)
     const px = exit ? exit.o : cs.at(-1)!.c;
     snapshot.fomc.push({ pair, date: d, status: exit ? "closed" : "open", entryT: entry.t, pips: (sellUsd * (px - entry.o)) / pip - cost });
   }
